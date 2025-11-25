@@ -1,0 +1,72 @@
+================================================================================
+📊 RSI BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:44:32
+📈 Assets getestet: 4
+📏 RSI-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: RSI Long-Only Strategy (RSI > 50 = Long, RSI <= 50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. BONK   | RSI- 8 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | RSI- 8 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | RSI- 9 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. PEPE   | RSI- 9 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | RSI-10 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SHIB   | RSI- 5 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#2. PEPE   | RSI- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#3. BONK   | RSI- 6 | Sortino Ratio:    0.000 | Return:   -13.3% | Trades:    1
+#4. SHIB   | RSI- 6 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#5. PEPE   | RSI- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. BONK   | RSI- 5 | Omega Ratio:    0.000 | Return:   -19.1% | Trades:    2
+#2. DOGE   | RSI- 5 | Omega Ratio:    0.000 | Return:    -6.3% | Trades:    3
+#3. SHIB   | RSI- 5 | Omega Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#4. PEPE   | RSI- 5 | Omega Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#5. BONK   | RSI- 6 | Omega Ratio:    0.000 | Return:   -13.3% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. BONK   | RSI- 8 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | RSI- 8 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | RSI- 9 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. PEPE   | RSI- 9 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | RSI-10 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BONK   | RSI- 8 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | RSI- 8 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | RSI- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. PEPE   | RSI- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | RSI-10 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste RSI pro Asset)
+------------------------------------------------------------
+BONK  : Beste RSI- 8 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+DOGE  : Beste RSI-11 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste RSI-17 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste RSI- 8 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.200 | Std=  0.979 | Max=  0.000 | Min= -7.442
+Total Return   : Mean= -0.004 | Std=  0.020 | Max=  0.000 | Min= -0.191
+Max Drawdown   : Mean=  0.004 | Std=  0.020 | Max=  0.191 | Min=  0.000
+Win Rate       : Mean=  0.000 | Std=  0.000 | Max=  0.000 | Min=  0.000
+
+💡 RSI EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: BONK mit RSI-8 (Sharpe: 0.00)

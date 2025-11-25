@@ -1,0 +1,58 @@
+================================================================================
+📊 MACD KOMBINATIONEN ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-17 21:48:06
+📋 Getestete Kombinationen: 187442
+💎 Assets: 17
+🔢 MACD-Kombinationen: 11026
+📊 Signal-Periode: 9 (fest)
+⚙️ my_type: 0 (Standard EMA)
+
+🥇 TOP 10 BESTE MACD-KOMBINATIONEN (Sharpe Ratio):
+------------------------------------------------------------
+ 1. Fast(68) / Slow(150) | sui  | Sharpe: 1.839 | Return: 1000.0% | DD: 46.0%
+ 2. Fast(69) / Slow(150) | sui  | Sharpe: 1.839 | Return: 1000.0% | DD: 46.0%
+ 3. Fast(68) / Slow(149) | sui  | Sharpe: 1.837 | Return: 1000.0% | DD: 46.0%
+ 4. Fast(69) / Slow(149) | sui  | Sharpe: 1.837 | Return: 1000.0% | DD: 46.0%
+ 5. Fast(57) / Slow(148) | sui  | Sharpe: 1.836 | Return: 1000.0% | DD: 46.8%
+ 6. Fast(68) / Slow(148) | sui  | Sharpe: 1.835 | Return: 1000.0% | DD: 46.0%
+ 7. Fast(69) / Slow(148) | sui  | Sharpe: 1.834 | Return: 1000.0% | DD: 46.0%
+ 8. Fast(70) / Slow(148) | sui  | Sharpe: 1.834 | Return: 1000.0% | DD: 46.0%
+ 9. Fast(57) / Slow(147) | sui  | Sharpe: 1.833 | Return: 1000.0% | DD: 47.0%
+10. Fast(71) / Slow(148) | sui  | Sharpe: 1.833 | Return: 1000.0% | DD: 48.4%
+
+🎯 TOP 10 BESTE DURCHSCHNITTS-KOMBINATIONEN:
+------------------------------------------------------------
+ 1. Fast(23) / Slow(114) | Avg Sharpe: 0.472 | Avg Return: 858.9% | Score: 2.100
+ 2. Fast(23) / Slow(113) | Avg Sharpe: 0.469 | Avg Return: 853.7% | Score: 2.088
+ 3. Fast(23) / Slow(115) | Avg Sharpe: 0.470 | Avg Return: 849.5% | Score: 2.081
+ 4. Fast(11) / Slow(150) | Avg Sharpe: 0.497 | Avg Return: 834.5% | Score: 2.080
+ 5. Fast(23) / Slow(117) | Avg Sharpe: 0.463 | Avg Return: 851.5% | Score: 2.079
+ 6. Fast(12) / Slow(127) | Avg Sharpe: 0.476 | Avg Return: 839.0% | Score: 2.075
+ 7. Fast(22) / Slow(125) | Avg Sharpe: 0.460 | Avg Return: 846.8% | Score: 2.070
+ 8. Fast(23) / Slow(116) | Avg Sharpe: 0.463 | Avg Return: 844.5% | Score: 2.065
+ 9. Fast(22) / Slow(124) | Avg Sharpe: 0.461 | Avg Return: 842.0% | Score: 2.061
+10. Fast(23) / Slow(118) | Avg Sharpe: 0.458 | Avg Return: 843.9% | Score: 2.060
+
+⚖️ EMA-VERHÄLTNIS ANALYSE:
+------------------------------------------------------------
+📊 Enge Verhältnisse (1.5-2.0): 1875 Kombinationen
+   • Avg Sharpe: 0.395 | Avg Return: 707.0% | Avg DD: 69.7%
+📊 Mittlere Verhältnisse (2.0-3.0): 1899 Kombinationen
+   • Avg Sharpe: 0.401 | Avg Return: 725.5% | Avg DD: 70.1%
+📊 Weite Verhältnisse (3.0-5.0): 1518 Kombinationen
+   • Avg Sharpe: 0.405 | Avg Return: 757.0% | Avg DD: 69.9%
+📊 Sehr weite Verhältnisse (>5.0): 2059 Kombinationen
+   • Avg Sharpe: 0.398 | Avg Return: 754.1% | Avg DD: 68.7%
+
+📈 KLASSISCHE MACD KALIBRIERUNGEN ANALYSE:
+------------------------------------------------------------
+• Fast(12) / Slow(26): Sharpe 0.278 | Return 676.4% | DD 74.0%
+• Fast( 8) / Slow(21): Sharpe 0.294 | Return 704.9% | DD 73.6%
+• Fast( 5) / Slow(35): Sharpe 0.304 | Return 684.5% | DD 71.9%
+• Fast(21) / Slow(55): Sharpe 0.377 | Return 739.7% | DD 70.7%
+• Fast(13) / Slow(34): Sharpe 0.295 | Return 672.3% | DD 71.9%
+
+====================================================================
+🏁 MACD-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

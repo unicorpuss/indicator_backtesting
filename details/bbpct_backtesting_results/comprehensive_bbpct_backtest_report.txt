@@ -1,0 +1,86 @@
+================================================================================
+📊 BBPCT BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:39:34
+📈 Assets getestet: 16
+📏 BBPCT-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2336
+📋 Strategie: BBPct Long-Only Strategy (Position > 50 = Long, <= 50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | BBPCT-48 | Sharpe Ratio:    1.420 | Return:   123.8% | Trades: 1062
+#2. SOL    | BBPCT-39 | Sharpe Ratio:    1.420 | Return:   122.1% | Trades: 1046
+#3. SOL    | BBPCT-44 | Sharpe Ratio:    1.420 | Return:   122.7% | Trades: 1049
+#4. SOL    | BBPCT-49 | Sharpe Ratio:    1.420 | Return:   123.7% | Trades: 1062
+#5. SOL    | BBPCT-38 | Sharpe Ratio:    1.417 | Return:   121.4% | Trades: 1042
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | BBPCT-69 | Sortino Ratio:    2.425 | Return:   108.1% | Trades:  436
+#2. SUI    | BBPCT-70 | Sortino Ratio:    2.414 | Return:   107.1% | Trades:  435
+#3. SUI    | BBPCT-68 | Sortino Ratio:    2.414 | Return:   107.1% | Trades:  437
+#4. SUI    | BBPCT-72 | Sortino Ratio:    2.404 | Return:   106.6% | Trades:  434
+#5. SUI    | BBPCT-71 | Sortino Ratio:    2.402 | Return:   106.6% | Trades:  434
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | BBPCT- 5 | Omega Ratio:    1.495 | Return:    82.2% | Trades: 1552
+#2. XLM    | BBPCT-14 | Omega Ratio:    1.471 | Return:    80.9% | Trades: 1246
+#3. XLM    | BBPCT-12 | Omega Ratio:    1.461 | Return:    80.2% | Trades: 1260
+#4. XLM    | BBPCT-13 | Omega Ratio:    1.456 | Return:    78.3% | Trades: 1259
+#5. ADA    | BBPCT-14 | Omega Ratio:    1.447 | Return:    84.9% | Trades: 1353
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | BBPCT-67 | Calmar Ratio:    2.213 | Return:   102.6% | Trades:  432
+#2. SUI    | BBPCT-51 | Calmar Ratio:    2.109 | Return:    98.5% | Trades:  412
+#3. SUI    | BBPCT-71 | Calmar Ratio:    2.082 | Return:   106.6% | Trades:  434
+#4. SUI    | BBPCT-72 | Calmar Ratio:    2.077 | Return:   106.6% | Trades:  434
+#5. SUI    | BBPCT-74 | Calmar Ratio:    2.055 | Return:    96.1% | Trades:  431
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SUI    | BBPCT-111 | Total Return:    2.981 | Return:   298.1% | Trades:  437
+#2. SUI    | BBPCT-24 | Total Return:    2.978 | Return:   297.8% | Trades:  413
+#3. VET    | BBPCT-15 | Total Return:    2.978 | Return:   297.8% | Trades: 1212
+#4. ADA    | BBPCT-67 | Total Return:    2.938 | Return:   293.8% | Trades: 1204
+#5. TRX    | BBPCT-98 | Total Return:    2.915 | Return:   291.5% | Trades: 1659
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste BBPCT pro Asset)
+------------------------------------------------------------
+XRP   : Beste BBPCT-12 | Sharpe:   0.98 | Return:   61.4% | DD:  77.0%
+ETH   : Beste BBPCT-33 | Sharpe:   1.09 | Return:   52.6% | DD:  53.6%
+ALGO  : Beste BBPCT-64 | Sharpe:   0.70 | Return:   29.1% | DD:  64.9%
+VET   : Beste BBPCT-35 | Sharpe:   1.04 | Return:   59.1% | DD:  51.6%
+ATOM  : Beste BBPCT-14 | Sharpe:   0.52 | Return:  249.0% | DD:  70.2%
+TAO   : Beste BBPCT-19 | Sharpe:   1.35 | Return:  105.5% | DD:  53.1%
+LTC   : Beste BBPCT-21 | Sharpe:   0.82 | Return:   40.0% | DD:  73.7%
+XLM   : Beste BBPCT-14 | Sharpe:   1.16 | Return:   80.9% | DD:  57.5%
+AVAX  : Beste BBPCT-15 | Sharpe:   1.17 | Return:   85.8% | DD:  66.7%
+LINK  : Beste BBPCT-14 | Sharpe:   1.08 | Return:   71.0% | DD:  60.7%
+ADA   : Beste BBPCT-21 | Sharpe:   1.09 | Return:   74.1% | DD:  70.9%
+TRX   : Beste BBPCT- 5 | Sharpe:   1.02 | Return:   82.2% | DD:  51.7%
+SUI   : Beste BBPCT-69 | Sharpe:   1.42 | Return:  108.1% | DD:  46.5%
+SOL   : Beste BBPCT-48 | Sharpe:   1.42 | Return:  123.8% | DD:  77.2%
+BNB   : Beste BBPCT- 5 | Sharpe:   1.21 | Return:   77.4% | DD:  55.4%
+BTC   : Beste BBPCT-44 | Sharpe:   1.34 | Return:   58.0% | DD:  48.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.754 | Std=  0.303 | Max=  1.420 | Min=  0.044
+Total Return   : Mean=  0.629 | Std=  0.641 | Max=  2.981 | Min= -0.823
+Max Drawdown   : Mean=  0.734 | Std=  0.115 | Max=  0.962 | Min=  0.404
+Win Rate       : Mean=  0.501 | Std=  0.018 | Max=  0.545 | Min=  0.460
+
+💡 BBPCT EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit BBPCT-48 (Sharpe: 1.42)
+🎯 Konsistenteste Strategie: BTC mit BBPCT-15 (Volatilität: 38.0%)
+💰 Höchste Returns: SUI mit BBPCT-111 (Return: 298.1%)

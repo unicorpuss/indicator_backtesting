@@ -1,0 +1,73 @@
+================================================================================
+📊 HULLSUITE BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 22:00:53
+📈 Assets getestet: 3
+📏 HULLSUITE-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: Hull Suite Long-Only Strategy (MHULL > SHULL = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | HULLSUITE-18 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#2. XMR    | HULLSUITE-19 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#3. XMR    | HULLSUITE-20 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#4. XMR    | HULLSUITE-21 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#5. XMR    | HULLSUITE-22 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | HULLSUITE- 8 | Sortino Ratio:    5.000 | Return:     3.8% | Trades:    9
+#2. XMR    | HULLSUITE- 9 | Sortino Ratio:    5.000 | Return:     4.1% | Trades:    8
+#3. XMR    | HULLSUITE-18 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#4. XMR    | HULLSUITE-19 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#5. XMR    | HULLSUITE-20 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. XMR    | HULLSUITE-18 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#2. XMR    | HULLSUITE-19 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#3. XMR    | HULLSUITE-20 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#4. XMR    | HULLSUITE-21 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#5. XMR    | HULLSUITE-22 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | HULLSUITE-18 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#2. XMR    | HULLSUITE-19 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#3. XMR    | HULLSUITE-20 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#4. XMR    | HULLSUITE-21 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#5. XMR    | HULLSUITE-22 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | HULLSUITE-18 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#2. XMR    | HULLSUITE-19 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#3. XMR    | HULLSUITE-20 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#4. XMR    | HULLSUITE-21 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#5. XMR    | HULLSUITE-22 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste HULLSUITE pro Asset)
+------------------------------------------------------------
+UNI   : Beste HULLSUITE- 7 | Sharpe:   0.65 | Return:    0.8% | DD:   5.5%
+XMR   : Beste HULLSUITE-18 | Sharpe:   3.56 | Return:    7.4% | DD:   7.2%
+AAVE  : Beste HULLSUITE-16 | Sharpe:   0.13 | Return:   -0.3% | DD:  10.6%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.401 | Std=  2.651 | Max=  3.560 | Min= -9.068
+Total Return   : Mean=  0.004 | Std=  0.064 | Max=  0.074 | Min= -0.217
+Max Drawdown   : Mean=  0.050 | Std=  0.056 | Max=  0.217 | Min=  0.000
+Win Rate       : Mean=  0.209 | Std=  0.225 | Max=  0.500 | Min=  0.000
+
+💡 HULLSUITE EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit HULLSUITE-18 (Sharpe: 3.56)
+🎯 Konsistenteste Strategie: XMR mit HULLSUITE-9 (Volatilität: 32.9%)
+💰 Höchste Returns: XMR mit HULLSUITE-38 (Return: 5.3%)

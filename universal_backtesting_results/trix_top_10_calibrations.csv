@@ -1,0 +1,11 @@
+trix_length,sharpe_ratio_mean,sharpe_ratio_std,sharpe_ratio_count,total_return_mean,total_return_std,max_drawdown_mean,max_drawdown_std,sortino_ratio_mean,sortino_ratio_std,win_rate_mean,win_rate_std,omega_ratio_mean,omega_ratio_std,calmar_ratio_mean,calmar_ratio_std,combined_score,indicator,parameter_type
+38,1.4407,2.4954,3,0.0134,0.0233,0.0,0.0,0.0,0.0,0.1667,0.2887,2.7492,4.7618,0.0,0.0,0.6348900000000001,TRIX,single
+39,0.4459,0.7723,3,0.0045,0.0078,0.0086,0.0148,0.5534,0.9584,0.1111,0.1925,0.4917,0.8516,4.8587,8.4154,0.49897,TRIX,single
+6,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+7,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+8,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+9,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+10,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+11,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+12,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single
+13,0.0,0.0,3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,TRIX,single

@@ -1,0 +1,11 @@
+bbpct_length,sharpe_ratio_mean,sharpe_ratio_std,sharpe_ratio_count,total_return_mean,total_return_std,max_drawdown_mean,max_drawdown_std,sortino_ratio_mean,sortino_ratio_std,win_rate_mean,win_rate_std,omega_ratio_mean,omega_ratio_std,calmar_ratio_mean,calmar_ratio_std,combined_score,indicator,parameter_type
+28,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+29,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+30,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+31,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+32,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+33,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+34,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+35,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+36,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single
+37,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,BBPCT,single

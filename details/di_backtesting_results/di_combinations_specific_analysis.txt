@@ -1,0 +1,53 @@
+================================================================================
+🎯 DIRECTIONAL INDICATORS KOMBINATIONEN-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-17 04:38:39
+
+🥇 BESTE DI-KOMBINATION (Kombinierter Score):
+   +DI: 19 / -DI: 26
+   📊 Avg Sharpe: 0.352
+   💰 Avg Return: 759.9%
+   🛡️ Avg Drawdown: 70.9%
+   📈 Avg Sortino: 0.453
+   🎯 Combined Score: 1.820
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: +DI(11) / -DI(124) (Ø 0.395)
+   • Total Return: +DI(19) / -DI(26) (Ø 759.9%)
+   • Sortino Ratio: +DI(11) / -DI(124) (Ø 0.504)
+   • Omega Ratio: +DI(1) / -DI(6) (Ø 1.692)
+   🛡️ Niedrigster Drawdown: +DI(1) / -DI(17) (Ø 0.0%)
+
+💡 KALIBRIERUNGSTYPEN ANALYSE:
+------------------------------------------------------------
+📊 GLEICHE PERIODEN (+DI = -DI):
+   • Beste: DI(22) Score: 1.792
+   • Performance: Sharpe 0.336 | Return 752.8%
+📊 SCHNELLE +DI / LANGSAME -DI:
+   • Beste: +DI(19) / -DI(26) Score: 1.820
+   • Performance: Sharpe 0.352 | Return 759.9%
+📊 LANGSAME +DI / SCHNELLE -DI:
+   • Beste: +DI(30) / -DI(28) Score: 1.782
+   • Performance: Sharpe 0.344 | Return 744.1%
+
+🏆 TOP 5 DI-KOMBINATIONEN:
+------------------------------------------------------------
+1. +DI(19) / -DI(26) | Score: 1.820 | Sharpe: 0.352 | Return: 759.9%
+2. +DI(20) / -DI(26) | Score: 1.800 | Sharpe: 0.344 | Return: 752.6%
+3. +DI(21) / -DI(23) | Score: 1.796 | Sharpe: 0.340 | Return: 753.1%
+4. +DI(29) / -DI(31) | Score: 1.795 | Sharpe: 0.348 | Return: 749.0%
+5. +DI(22) / -DI(22) | Score: 1.792 | Sharpe: 0.336 | Return: 752.8%
+
+🎯 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+� DI KOMBINATIONEN STRATEGIE INSIGHTS:
+   • Verschiedene +DI/-DI Perioden können Performance verbessern
+   • Schnelle +DI + langsame -DI: Frühe Trend-Erkennung, späte Exit-Signale
+   • Langsame +DI + schnelle -DI: Bestätigte Trends, schnelle Exits
+   • Gleiche Perioden: Klassischer Ansatz, ausgewogene Signale
+   • Extreme Unterschiede (z.B. 12/50) können bei volatilen Märkten helfen
+   • Mittlere Unterschiede (z.B. 21/30) bieten oft gute Balance
+
+====================================================================
+🏁 DI-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

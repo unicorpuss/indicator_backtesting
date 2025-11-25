@@ -1,0 +1,59 @@
+================================================================================
+📊 DIRECTIONAL INDICATORS KOMBINATIONEN ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-17 04:38:32
+📋 Getestete Kombinationen: 382500
+💎 Assets: 17
+🔢 DI-Kombinationen: 22500
+
+🥇 TOP 10 BESTE DI-KOMBINATIONEN (Sharpe Ratio):
+------------------------------------------------------------
+ 1. +DI( 2) / -DI(124) | tao  | Sharpe: 1.527 | Return: 1000.0% | DD: 69.2%
+ 2. +DI( 2) / -DI(123) | tao  | Sharpe: 1.526 | Return: 1000.0% | DD: 69.2%
+ 3. +DI( 2) / -DI(122) | tao  | Sharpe: 1.524 | Return: 1000.0% | DD: 69.2%
+ 4. +DI( 2) / -DI(121) | tao  | Sharpe: 1.522 | Return: 1000.0% | DD: 69.2%
+ 5. +DI( 2) / -DI(120) | tao  | Sharpe: 1.521 | Return: 1000.0% | DD: 69.2%
+ 6. +DI( 2) / -DI(119) | tao  | Sharpe: 1.519 | Return: 1000.0% | DD: 69.2%
+ 7. +DI( 2) / -DI(118) | tao  | Sharpe: 1.517 | Return: 1000.0% | DD: 69.2%
+ 8. +DI( 2) / -DI(117) | tao  | Sharpe: 1.514 | Return: 1000.0% | DD: 69.2%
+ 9. +DI( 4) / -DI(126) | tao  | Sharpe: 1.511 | Return: 1000.0% | DD: 65.5%
+10. +DI( 4) / -DI(124) | tao  | Sharpe: 1.504 | Return: 1000.0% | DD: 65.5%
+
+🎯 TOP 10 BESTE DURCHSCHNITTS-KOMBINATIONEN:
+------------------------------------------------------------
+ 1. +DI(19) / -DI(26) | Avg Sharpe: 0.352 | Avg Return: 759.9% | Score: 1.820
+ 2. +DI(20) / -DI(26) | Avg Sharpe: 0.344 | Avg Return: 752.6% | Score: 1.800
+ 3. +DI(21) / -DI(23) | Avg Sharpe: 0.340 | Avg Return: 753.1% | Score: 1.796
+ 4. +DI(29) / -DI(31) | Avg Sharpe: 0.348 | Avg Return: 749.0% | Score: 1.795
+ 5. +DI(22) / -DI(22) | Avg Sharpe: 0.336 | Avg Return: 752.8% | Score: 1.792
+ 6. +DI(30) / -DI(31) | Avg Sharpe: 0.345 | Avg Return: 747.9% | Score: 1.791
+ 7. +DI(27) / -DI(31) | Avg Sharpe: 0.342 | Avg Return: 749.3% | Score: 1.791
+ 8. +DI(20) / -DI(27) | Avg Sharpe: 0.351 | Avg Return: 744.6% | Score: 1.789
+ 9. +DI(21) / -DI(26) | Avg Sharpe: 0.341 | Avg Return: 748.2% | Score: 1.788
+10. +DI(31) / -DI(31) | Avg Sharpe: 0.345 | Avg Return: 746.1% | Score: 1.787
+
+⚖️ VERGLEICH: GLEICHE vs VERSCHIEDENE PERIODEN:
+------------------------------------------------------------
+📊 Gleiche Perioden (+DI = -DI):
+   • Anzahl: 2550 Kombinationen
+   • Avg Sharpe: 0.246
+   • Avg Return: 538.7%
+   • Avg Drawdown: 74.4%
+📊 Verschiedene Perioden (+DI ≠ -DI):
+   • Anzahl: 379950 Kombinationen
+   • Avg Sharpe: 0.264
+   • Avg Return: 539.9%
+   • Avg Drawdown: 72.9%
+
+🎪 SPEZIELLE KALIBRIERUNGEN ANALYSE:
+------------------------------------------------------------
+• +DI(12) / -DI(50): Sharpe 0.310 | Return 574.5% | DD 69.8%
+• +DI(50) / -DI(12): Sharpe 0.302 | Return 597.0% | DD 72.9%
+• +DI(30) / -DI(21): Sharpe 0.304 | Return 695.1% | DD 73.5%
+• +DI(21) / -DI(30): Sharpe 0.336 | Return 724.2% | DD 71.6%
+• +DI(14) / -DI(28): Sharpe 0.333 | Return 673.8% | DD 69.2%
+• +DI(28) / -DI(14): Sharpe 0.330 | Return 717.7% | DD 71.6%
+
+====================================================================
+🏁 DI-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

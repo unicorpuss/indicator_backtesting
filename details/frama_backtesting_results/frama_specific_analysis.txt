@@ -1,0 +1,37 @@
+================================================================================
+🎯 FRAMA-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-07 00:04:28
+
+🥇 Beste Durchschnittliche FRAMA-Länge (Kombiniert): FRAMA-121
+   📊 Avg Sharpe: 0.447 | Avg Return: 38.7% | Avg DD: 77.4%
+   📈 Avg Sortino: 0.520 | Avg Win Rate: 49.8% | Score: 0.924
+
+📈 Beste Durchschnitts-FRAMAs nach Metriken:
+   • Sharpe Ratio: FRAMA-121 (Ø 0.447)
+   • Total Return: FRAMA-109 (Ø 50.2%)
+   • Sortino Ratio: FRAMA-5 (Ø 0.572)
+
+💡 FRAMA STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 FRAMA STRATEGIE INSIGHTS:
+   • FRAMA Channel: Adaptive Moving Average mit Fractal Dimension
+   • Long bei Breakout über Upper Band (Signal = 1)
+   • Short bei Breakout unter Lower Band (Signal = -1)
+   • Flat bei Preis zwischen Bands (Signal = 0)
+   • Bands passen sich an Markt-Volatilität an
+   • Fractal Dimension bestimmt Adaptionsgeschwindigkeit
+   • Kürzere FRAMA-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere FRAMA-Perioden: Weniger Trades, stabilere Signale
+
+🎯 FRAMA PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE FRAMA-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: FRAMA-121 (Score: 0.924)
+   📈 Höchste Sharpe Ratio: FRAMA-121 (0.447)
+   💰 Höchste Returns: FRAMA-109 (50.2%)
+   🛡️ Niedrigster Drawdown: FRAMA-106 (76.9%)
+
+====================================================================
+🏁 FRAMA-ANALYSE ABGESCHLOSSEN
+====================================================================

@@ -1,0 +1,87 @@
+================================================================================
+📊 VIDYA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:44:26
+📈 Assets getestet: 17
+📏 VIDYA-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: VIDYA Long-Only Strategy (Steigend = Long, Fallend = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | VIDYA-21 | Sharpe Ratio:    1.421 | Return:   121.3% | Trades: 1016
+#2. SOL    | VIDYA-22 | Sharpe Ratio:    1.414 | Return:   119.9% | Trades: 1014
+#3. SOL    | VIDYA-24 | Sharpe Ratio:    1.403 | Return:   118.5% | Trades: 1008
+#4. SOL    | VIDYA-23 | Sharpe Ratio:    1.401 | Return:   118.0% | Trades: 1013
+#5. SOL    | VIDYA-49 | Sharpe Ratio:    1.386 | Return:   114.9% | Trades:  982
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | VIDYA-84 | Sortino Ratio:    2.335 | Return:   107.9% | Trades:  440
+#2. SUI    | VIDYA-85 | Sortino Ratio:    2.325 | Return:   107.0% | Trades:  439
+#3. SUI    | VIDYA-86 | Sortino Ratio:    2.273 | Return:   102.5% | Trades:  437
+#4. SUI    | VIDYA-83 | Sortino Ratio:    2.255 | Return:   101.4% | Trades:  437
+#5. SUI    | VIDYA-82 | Sortino Ratio:    2.249 | Return:   101.0% | Trades:  437
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SOL    | VIDYA-21 | Omega Ratio:    1.438 | Return:   121.3% | Trades: 1016
+#2. TRX    | VIDYA- 5 | Omega Ratio:    1.437 | Return:    63.6% | Trades: 1528
+#3. SOL    | VIDYA-22 | Omega Ratio:    1.436 | Return:   119.9% | Trades: 1014
+#4. SOL    | VIDYA-24 | Omega Ratio:    1.433 | Return:   118.5% | Trades: 1008
+#5. TRX    | VIDYA-13 | Omega Ratio:    1.432 | Return:    62.0% | Trades: 1537
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | VIDYA-24 | Calmar Ratio:    2.004 | Return:    80.9% | Trades:  405
+#2. SUI    | VIDYA-36 | Calmar Ratio:    1.991 | Return:    88.2% | Trades:  400
+#3. SUI    | VIDYA-84 | Calmar Ratio:    1.974 | Return:   107.9% | Trades:  440
+#4. SUI    | VIDYA-34 | Calmar Ratio:    1.968 | Return:    83.3% | Trades:  412
+#5. SUI    | VIDYA-31 | Calmar Ratio:    1.967 | Return:    86.8% | Trades:  406
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SUI    | VIDYA-48 | Total Return:    2.982 | Return:   298.2% | Trades:  412
+#2. TAO    | VIDYA-101 | Total Return:    2.977 | Return:   297.7% | Trades:  372
+#3. TRX    | VIDYA-131 | Total Return:    2.975 | Return:   297.5% | Trades: 1657
+#4. AVAX   | VIDYA-132 | Total Return:    2.975 | Return:   297.5% | Trades:  548
+#5. TAO    | VIDYA-116 | Total Return:    2.972 | Return:   297.2% | Trades:  369
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste VIDYA pro Asset)
+------------------------------------------------------------
+XRP   : Beste VIDYA-12 | Sharpe:   0.81 | Return:   42.3% | DD:  75.5%
+ETH   : Beste VIDYA-15 | Sharpe:   0.98 | Return:   43.5% | DD:  53.9%
+ALGO  : Beste VIDYA-137 | Sharpe:   0.58 | Return:   19.0% | DD:  71.9%
+VET   : Beste VIDYA-25 | Sharpe:   0.99 | Return:   53.3% | DD:  66.5%
+ATOM  : Beste VIDYA-36 | Sharpe:   0.51 | Return:  240.5% | DD:  61.8%
+POL   : Beste VIDYA-44 | Sharpe:   0.72 | Return:   67.4% | DD:  30.4%
+TAO   : Beste VIDYA-111 | Sharpe:   1.15 | Return:   80.5% | DD:  53.9%
+LTC   : Beste VIDYA-17 | Sharpe:   0.79 | Return:   36.4% | DD:  76.9%
+XLM   : Beste VIDYA- 5 | Sharpe:   0.93 | Return:   54.4% | DD:  69.7%
+AVAX  : Beste VIDYA-14 | Sharpe:   1.19 | Return:   87.8% | DD:  71.1%
+LINK  : Beste VIDYA-10 | Sharpe:   1.00 | Return:   61.0% | DD:  63.7%
+ADA   : Beste VIDYA-11 | Sharpe:   1.00 | Return:   61.2% | DD:  73.6%
+TRX   : Beste VIDYA- 5 | Sharpe:   0.90 | Return:   63.6% | DD:  67.6%
+SUI   : Beste VIDYA-84 | Sharpe:   1.38 | Return:  107.9% | DD:  49.1%
+SOL   : Beste VIDYA-21 | Sharpe:   1.42 | Return:  121.3% | DD:  72.4%
+BNB   : Beste VIDYA- 9 | Sharpe:   1.05 | Return:   62.7% | DD:  65.8%
+BTC   : Beste VIDYA-19 | Sharpe:   1.23 | Return:   50.2% | DD:  49.3%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.636 | Std=  0.436 | Max=  1.421 | Min= -1.384
+Total Return   : Mean=  0.526 | Std=  0.692 | Max=  2.982 | Min= -0.843
+Max Drawdown   : Mean=  0.716 | Std=  0.119 | Max=  0.968 | Min=  0.304
+Win Rate       : Mean=  0.498 | Std=  0.027 | Max=  0.542 | Min=  0.359
+
+💡 VIDYA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit VIDYA-21 (Sharpe: 1.42)
+🎯 Konsistenteste Strategie: POL mit VIDYA-51 (Volatilität: 36.2%)
+💰 Höchste Returns: SUI mit VIDYA-48 (Return: 298.2%)

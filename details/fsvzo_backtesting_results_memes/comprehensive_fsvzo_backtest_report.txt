@@ -1,0 +1,73 @@
+================================================================================
+📊 FSVZO BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:21:23
+📈 Assets getestet: 4
+📏 FSVZO-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: FSVZO Long-Only Strategy (VZO > Signal = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. BONK   | FSVZO- 5 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | FSVZO- 5 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | FSVZO- 6 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. SHIB   | FSVZO- 6 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | FSVZO- 6 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. BONK   | FSVZO- 5 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | FSVZO- 5 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | FSVZO- 6 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. SHIB   | FSVZO- 6 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | FSVZO- 6 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. DOGE   | FSVZO- 5 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#2. DOGE   | FSVZO-14 | Omega Ratio:    0.702 | Return:    -2.1% | Trades:    4
+#3. DOGE   | FSVZO-15 | Omega Ratio:    0.702 | Return:    -2.1% | Trades:    4
+#4. DOGE   | FSVZO-16 | Omega Ratio:    0.702 | Return:    -2.1% | Trades:    4
+#5. DOGE   | FSVZO-17 | Omega Ratio:    0.702 | Return:    -2.1% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. BONK   | FSVZO- 5 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | FSVZO- 5 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | FSVZO- 6 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. SHIB   | FSVZO- 6 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | FSVZO- 6 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BONK   | FSVZO- 5 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. PEPE   | FSVZO- 5 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | FSVZO- 6 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. SHIB   | FSVZO- 6 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | FSVZO- 6 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste FSVZO pro Asset)
+------------------------------------------------------------
+BONK  : Beste FSVZO- 5 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+DOGE  : Beste FSVZO-65 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste FSVZO- 6 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste FSVZO- 5 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.933 | Std=  1.803 | Max=  0.000 | Min= -7.604
+Total Return   : Mean= -0.022 | Std=  0.038 | Max=  0.000 | Min= -0.099
+Max Drawdown   : Mean=  0.037 | Std=  0.069 | Max=  0.182 | Min=  0.000
+Win Rate       : Mean=  0.093 | Std=  0.191 | Max=  0.500 | Min=  0.000
+
+💡 FSVZO EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: BONK mit FSVZO-5 (Sharpe: 0.00)
+💰 Höchste Returns: BONK mit FSVZO-5 (Return: 0.0%)

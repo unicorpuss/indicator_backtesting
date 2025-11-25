@@ -1,0 +1,72 @@
+================================================================================
+📊 ADX BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:45:01
+📈 Assets getestet: 3
+📏 ADX-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: ADX Long-Only Strategy (ADX > 25 = Long, ADX <= 25 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SHIB   | ADX-33 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#2. SHIB   | ADX-32 | Sharpe Ratio:    0.251 | Return:    -0.1% | Trades:    3
+#3. DOGE   | ADX-26 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. DOGE   | ADX-27 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | ADX-28 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SHIB   | ADX-32 | Sortino Ratio:    0.161 | Return:    -0.1% | Trades:    3
+#2. DOGE   | ADX-25 | Sortino Ratio:    0.000 | Return:    -1.7% | Trades:    1
+#3. DOGE   | ADX-26 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. DOGE   | ADX-27 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | ADX-28 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SHIB   | ADX-33 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | ADX-32 | Omega Ratio:    1.084 | Return:    -0.1% | Trades:    3
+#3. PEPE   | ADX-26 | Omega Ratio:    0.711 | Return:    -9.1% | Trades:    3
+#4. SHIB   | ADX- 5 | Omega Ratio:    0.520 | Return:   -10.1% | Trades:    4
+#5. SHIB   | ADX- 6 | Omega Ratio:    0.520 | Return:   -10.1% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SHIB   | ADX-33 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | ADX-32 | Calmar Ratio:    1.761 | Return:    -0.1% | Trades:    3
+#3. DOGE   | ADX-26 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. DOGE   | ADX-27 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | ADX-28 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. DOGE   | ADX-26 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | ADX-27 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. DOGE   | ADX-28 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. DOGE   | ADX-29 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | ADX-30 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste ADX pro Asset)
+------------------------------------------------------------
+DOGE  : Beste ADX-26 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste ADX-33 | Sharpe:   0.30 | Return:    0.0% | DD:   9.1%
+PEPE  : Beste ADX-30 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.677 | Std=  1.709 | Max=  0.295 | Min= -7.176
+Total Return   : Mean= -0.026 | Std=  0.063 | Max=  0.000 | Min= -0.221
+Max Drawdown   : Mean=  0.033 | Std=  0.075 | Max=  0.223 | Min=  0.000
+Win Rate       : Mean=  0.041 | Std=  0.096 | Max=  0.500 | Min=  0.000
+
+💡 ADX EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SHIB mit ADX-33 (Sharpe: 0.30)
+🎯 Konsistenteste Strategie: SHIB mit ADX-33 (Volatilität: 64.7%)

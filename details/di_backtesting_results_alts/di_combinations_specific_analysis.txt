@@ -1,0 +1,53 @@
+================================================================================
+🎯 DIRECTIONAL INDICATORS KOMBINATIONEN-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:39:34
+
+🥇 BESTE DI-KOMBINATION (Kombinierter Score):
+   +DI: 7 / -DI: 11
+   📊 Avg Sharpe: 0.055
+   💰 Avg Return: 2.5%
+   🛡️ Avg Drawdown: 2.4%
+   📈 Avg Sortino: 0.118
+   🎯 Combined Score: 0.252
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: +DI(7) / -DI(11) (Ø 0.055)
+   • Total Return: +DI(7) / -DI(11) (Ø 2.5%)
+   • Sortino Ratio: +DI(47) / -DI(2) (Ø 0.237)
+   • Omega Ratio: +DI(47) / -DI(2) (Ø 1.156)
+   🛡️ Niedrigster Drawdown: +DI(1) / -DI(2) (Ø 0.0%)
+
+💡 KALIBRIERUNGSTYPEN ANALYSE:
+------------------------------------------------------------
+📊 GLEICHE PERIODEN (+DI = -DI):
+   • Beste: DI(9) Score: 0.252
+   • Performance: Sharpe 0.055 | Return 2.5%
+📊 SCHNELLE +DI / LANGSAME -DI:
+   • Beste: +DI(7) / -DI(11) Score: 0.252
+   • Performance: Sharpe 0.055 | Return 2.5%
+📊 LANGSAME +DI / SCHNELLE -DI:
+   • Beste: +DI(10) / -DI(9) Score: 0.252
+   • Performance: Sharpe 0.055 | Return 2.5%
+
+🏆 TOP 5 DI-KOMBINATIONEN:
+------------------------------------------------------------
+1. +DI(7) / -DI(11) | Score: 0.252 | Sharpe: 0.055 | Return: 2.5%
+2. +DI(7) / -DI(12) | Score: 0.252 | Sharpe: 0.055 | Return: 2.5%
+3. +DI(7) / -DI(13) | Score: 0.252 | Sharpe: 0.055 | Return: 2.5%
+4. +DI(7) / -DI(14) | Score: 0.252 | Sharpe: 0.055 | Return: 2.5%
+5. +DI(7) / -DI(15) | Score: 0.252 | Sharpe: 0.055 | Return: 2.5%
+
+🎯 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+� DI KOMBINATIONEN STRATEGIE INSIGHTS:
+   • Verschiedene +DI/-DI Perioden können Performance verbessern
+   • Schnelle +DI + langsame -DI: Frühe Trend-Erkennung, späte Exit-Signale
+   • Langsame +DI + schnelle -DI: Bestätigte Trends, schnelle Exits
+   • Gleiche Perioden: Klassischer Ansatz, ausgewogene Signale
+   • Extreme Unterschiede (z.B. 12/50) können bei volatilen Märkten helfen
+   • Mittlere Unterschiede (z.B. 21/30) bieten oft gute Balance
+
+====================================================================
+🏁 DI-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

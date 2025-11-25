@@ -1,0 +1,73 @@
+================================================================================
+📊 WILLR BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:31:54
+📈 Assets getestet: 3
+📏 WILLR-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: Williams %R Long-Only Strategy (WILLR > -50 = Long, WILLR <= -50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | WILLR-13 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#2. XMR    | WILLR-14 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#3. XMR    | WILLR-15 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#4. XMR    | WILLR-16 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#5. XMR    | WILLR-17 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | WILLR- 5 | Sortino Ratio:    5.000 | Return:     3.6% | Trades:    8
+#2. XMR    | WILLR-13 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#3. XMR    | WILLR-14 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#4. XMR    | WILLR-15 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#5. UNI    | WILLR-16 | Sortino Ratio:    5.000 | Return:     1.8% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. XMR    | WILLR-13 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#2. XMR    | WILLR-14 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#3. XMR    | WILLR-15 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#4. XMR    | WILLR-16 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#5. XMR    | WILLR-17 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | WILLR-13 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#2. XMR    | WILLR-14 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#3. XMR    | WILLR-15 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#4. XMR    | WILLR-16 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#5. XMR    | WILLR-17 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | WILLR-13 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#2. XMR    | WILLR-14 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#3. XMR    | WILLR-15 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#4. XMR    | WILLR-16 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#5. XMR    | WILLR-17 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste WILLR pro Asset)
+------------------------------------------------------------
+UNI   : Beste WILLR-16 | Sharpe:   1.23 | Return:    1.8% | DD:   4.6%
+XMR   : Beste WILLR-13 | Sharpe:   3.56 | Return:    7.4% | DD:   7.2%
+AAVE  : Beste WILLR-23 | Sharpe:   0.61 | Return:    1.0% | DD:  10.6%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.191 | Std=  3.359 | Max=  3.560 | Min= -9.000
+Total Return   : Mean= -0.010 | Std=  0.083 | Max=  0.074 | Min= -0.248
+Max Drawdown   : Mean=  0.065 | Std=  0.072 | Max=  0.248 | Min=  0.000
+Win Rate       : Mean=  0.219 | Std=  0.225 | Max=  0.500 | Min=  0.000
+
+💡 WILLR EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit WILLR-13 (Sharpe: 3.56)
+🎯 Konsistenteste Strategie: XMR mit WILLR-6 (Volatilität: 28.0%)
+💰 Höchste Returns: XMR mit WILLR-5 (Return: 3.6%)

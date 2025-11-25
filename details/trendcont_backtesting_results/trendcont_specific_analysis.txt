@@ -1,0 +1,42 @@
+================================================================================
+🎯 TRENDCONT-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:02:33
+
+🥇 Beste Kombination (Sharpe Ratio):
+   Fast HMA: 62, Slow HMA: 63
+   Sharpe: 1.503 | Return: 116.2% | DD: 62.2%
+   Asset: sol
+
+💰 Beste Kombination (Total Return):
+   Fast HMA: 10, Slow HMA: 128
+   Return: 300.0% | Sharpe: 0.624 | DD: 38.8%
+   Asset: bnb
+
+📈 Durchschnitts-Performance nach Fast HMA:
+   Fast HMA 74: Sharpe 0.388 | Return 58.1% | DD 41.2%
+   Fast HMA 76: Sharpe 0.384 | Return 58.7% | DD 40.9%
+   Fast HMA 72: Sharpe 0.379 | Return 55.7% | DD 41.6%
+   Fast HMA 66: Sharpe 0.368 | Return 58.8% | DD 42.6%
+   Fast HMA 70: Sharpe 0.368 | Return 52.2% | DD 42.5%
+
+📈 Durchschnitts-Performance nach Slow HMA:
+   Slow HMA 7: Sharpe 0.536 | Return 46.0% | DD 50.5%
+   Slow HMA 11: Sharpe 0.351 | Return 50.3% | DD 50.0%
+   Slow HMA 13: Sharpe 0.315 | Return 31.4% | DD 52.0%
+   Slow HMA 23: Sharpe 0.309 | Return 36.8% | DD 53.9%
+   Slow HMA 15: Sharpe 0.306 | Return 32.5% | DD 51.7%
+
+💡 TRENDCONT STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 TRENDCONT LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position bei Signal=1 (klarer Uptrend)
+   • Cash-Position bei Signal=-1 oder 0 (Downtrend/Neutral)
+   • Dual HMA System: Fast HMA muss steigend sein
+   • Neutral-Zonen filtern unsichere Übergangsphasen
+   • HMA reduziert Lag und erhöht Responsiveness
+   • Kürzere Fast HMA: Schnellere Trend-Erkennung
+   • Längere Slow HMA: Bessere Trend-Bestätigung
+   • Optimal: Fast HMA << Slow HMA für klare Signaltrennung
+
+================================================================================

@@ -1,0 +1,87 @@
+================================================================================
+📊 MFI BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-18 17:17:32
+📈 Assets getestet: 17
+📏 MFI-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: MFI Long-Only Strategy (MFI > 50 = Long, MFI <= 50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | MFI-30 | Sharpe Ratio:    1.513 | Return:   155.0% | Trades: 1295
+#2. SOL    | MFI-27 | Sharpe Ratio:    1.449 | Return:   142.2% | Trades: 1292
+#3. SOL    | MFI-28 | Sharpe Ratio:    1.430 | Return:   138.2% | Trades: 1280
+#4. SOL    | MFI-36 | Sharpe Ratio:    1.409 | Return:   135.3% | Trades: 1336
+#5. SOL    | MFI-34 | Sharpe Ratio:    1.406 | Return:   134.6% | Trades: 1334
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SOL    | MFI-30 | Sortino Ratio:    2.087 | Return:   155.0% | Trades: 1295
+#2. SUI    | MFI-149 | Sortino Ratio:    2.086 | Return:    82.1% | Trades:  630
+#3. SOL    | MFI-98 | Sortino Ratio:    2.057 | Return:   127.7% | Trades: 1481
+#4. SUI    | MFI-148 | Sortino Ratio:    2.017 | Return:    76.2% | Trades:  627
+#5. SUI    | MFI-79 | Sortino Ratio:    2.007 | Return:    77.8% | Trades:  540
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | MFI- 7 | Omega Ratio:    1.439 | Return:    69.6% | Trades: 1536
+#2. XRP    | MFI- 5 | Omega Ratio:    1.430 | Return:    73.3% | Trades: 1406
+#3. TRX    | MFI- 6 | Omega Ratio:    1.429 | Return:    71.6% | Trades: 1606
+#4. BNB    | MFI-13 | Omega Ratio:    1.429 | Return:    93.9% | Trades: 1756
+#5. TRX    | MFI-27 | Omega Ratio:    1.426 | Return:    80.3% | Trades: 1746
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SOL    | MFI-30 | Calmar Ratio:    1.808 | Return:   155.0% | Trades: 1295
+#2. SOL    | MFI-27 | Calmar Ratio:    1.756 | Return:   142.2% | Trades: 1292
+#3. SOL    | MFI-25 | Calmar Ratio:    1.684 | Return:   130.6% | Trades: 1272
+#4. SOL    | MFI-34 | Calmar Ratio:    1.678 | Return:   134.6% | Trades: 1334
+#5. SOL    | MFI-29 | Calmar Ratio:    1.636 | Return:   122.3% | Trades: 1299
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. VET    | MFI-76 | Total Return:    3.000 | Return:   300.0% | Trades: 1622
+#2. LINK   | MFI-83 | Total Return:    2.989 | Return:   298.9% | Trades: 2321
+#3. AVAX   | MFI-138 | Total Return:    2.987 | Return:   298.7% | Trades: 1215
+#4. XLM    | MFI-19 | Total Return:    2.981 | Return:   298.1% | Trades: 1445
+#5. ETH    | MFI-73 | Total Return:    2.943 | Return:   294.3% | Trades: 1837
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste MFI pro Asset)
+------------------------------------------------------------
+XRP   : Beste MFI- 5 | Sharpe:   1.05 | Return:   73.3% | DD:  61.2%
+ETH   : Beste MFI-30 | Sharpe:   1.06 | Return:   54.3% | DD:  55.8%
+ALGO  : Beste MFI-89 | Sharpe:   0.66 | Return:   23.3% | DD:  82.8%
+VET   : Beste MFI- 7 | Sharpe:   0.88 | Return:   44.8% | DD:  72.1%
+ATOM  : Beste MFI-34 | Sharpe:   0.66 | Return:   23.9% | DD:  67.7%
+POL   : Beste MFI- 5 | Sharpe:   0.68 | Return:   84.1% | DD:  50.1%
+TAO   : Beste MFI- 9 | Sharpe:   1.12 | Return:   73.9% | DD:  58.3%
+LTC   : Beste MFI-19 | Sharpe:   0.91 | Return:   49.5% | DD:  76.9%
+XLM   : Beste MFI- 8 | Sharpe:   0.94 | Return:   57.2% | DD:  74.3%
+AVAX  : Beste MFI- 9 | Sharpe:   1.13 | Return:   84.0% | DD:  69.7%
+LINK  : Beste MFI-14 | Sharpe:   1.04 | Return:   66.5% | DD:  61.0%
+ADA   : Beste MFI-17 | Sharpe:   1.05 | Return:   83.0% | DD:  76.1%
+TRX   : Beste MFI-27 | Sharpe:   1.00 | Return:   80.3% | DD:  75.3%
+SUI   : Beste MFI-79 | Sharpe:   1.14 | Return:   77.8% | DD:  59.2%
+SOL   : Beste MFI-30 | Sharpe:   1.51 | Return:  155.0% | DD:  71.5%
+BNB   : Beste MFI-13 | Sharpe:   1.29 | Return:   93.9% | DD:  62.4%
+BTC   : Beste MFI-34 | Sharpe:   1.36 | Return:   62.3% | DD:  64.7%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.589 | Std=  0.433 | Max=  1.513 | Min= -1.625
+Total Return   : Mean=  0.417 | Std=  0.690 | Max=  3.000 | Min= -0.917
+Max Drawdown   : Mean=  0.831 | Std=  0.098 | Max=  0.986 | Min=  0.411
+Win Rate       : Mean=  0.500 | Std=  0.020 | Max=  0.545 | Min=  0.440
+
+💡 MFI EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit MFI-30 (Sharpe: 1.51)
+🎯 Konsistenteste Strategie: BTC mit MFI-6 (Volatilität: 39.5%)
+💰 Höchste Returns: VET mit MFI-76 (Return: 300.0%)

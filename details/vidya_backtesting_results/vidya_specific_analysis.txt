@@ -1,0 +1,26 @@
+================================================================================
+🎯 VIDYA-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:44:31
+
+🥇 Beste Durchschnittliche VIDYA-Länge (Kombiniert): VIDYA-16
+   📊 Avg Sharpe: 0.831 | Avg Return: 42.4% | Avg DD: 66.4%
+   📈 Avg Sortino: 1.053 | Avg Win Rate: 50.1% | Score: 0.826
+
+📈 Beste Durchschnitts-VIDYAs nach Metriken:
+   • Sharpe Ratio: VIDYA-15 (Ø 0.834)
+   • Total Return: VIDYA-62 (Ø 91.4%)
+   • Sortino Ratio: VIDYA-15 (Ø 1.057)
+
+💡 VIDYA STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 VIDYA LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn VIDYA steigend (adaptiver Aufwärtstrend)
+   • Cash-Position wenn VIDYA fallend (adaptiver Abwärtstrend)
+   • VIDYA passt sich automatisch an Volatilität an
+   • Volatilitäts-Ratio (k) steuert Glättungsgrad dynamisch
+   • Kürzere VIDYA-Perioden: Höhere Sensitivität, mehr Trades
+   • Längere VIDYA-Perioden: Stabilere Signale, weniger Whipsaws
+   • Besonders effektiv in trendenden Märkten mit variabler Volatilität
+
+================================================================================

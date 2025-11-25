@@ -1,0 +1,37 @@
+================================================================================
+🎯 CCI-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:30:36
+
+🥇 Beste Durchschnittliche CCI-Länge (Kombiniert): CCI-22
+   📊 Avg Sharpe: 1.187 | Avg Return: 2.5% | Avg DD: 2.4%
+   📈 Avg Sortino: 1.667 | Avg Win Rate: 16.7% | Score: 0.879
+
+📈 Beste Durchschnitts-CCIs nach Metriken:
+   • Sharpe Ratio: CCI-22 (Ø 1.187)
+   • Total Return: CCI-22 (Ø 2.5%)
+   • Sortino Ratio: CCI-21 (Ø 1.667)
+
+💡 CCI STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 CCI LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn CCI > 0 (bullisches Momentum)
+   • Cash-Position wenn CCI <= 0 (bearisches/neutrales Momentum)
+   • CCI über +100: Starker Aufwärtstrend, überkauft
+   • CCI unter -100: Starker Abwärtstrend, überverkauft
+   • CCI zwischen -100 und +100: Normale Handelsspanne
+   • Kürzere CCI-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere CCI-Perioden: Weniger Trades, stabilere Signale
+
+🎯 CCI PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE CCI-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: CCI-22 (Score: 0.879)
+   📈 Höchste Sharpe Ratio: CCI-22 (1.187)
+   📈 Höchste Total Return: CCI-22 (2.5%)
+   📈 Höchste Sortino Ratio: CCI-21 (1.667)
+   🛡️ Niedrigster Drawdown: CCI-22 (2.4%)
+
+====================================================================
+🏁 CCI-ANALYSE ABGESCHLOSSEN
+====================================================================

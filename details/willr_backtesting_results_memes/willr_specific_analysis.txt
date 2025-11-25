@@ -1,0 +1,36 @@
+================================================================================
+🎯 WILLIAMS %R-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:46:07
+
+🥇 Beste Durchschnittliche WILLR-Länge (Kombiniert): WILLR-97
+   📊 Avg Sharpe: 0.000 | Avg Return: 0.0% | Avg DD: 0.0%
+   📈 Avg Sortino: 0.000 | Avg Win Rate: 0.0% | Score: 0.850
+
+📈 Beste Durchschnitts-WILLRs nach Metriken:
+   • Sharpe Ratio: WILLR-97 (Ø 0.000)
+   • Total Return: WILLR-97 (Ø 0.0%)
+   • Sortino Ratio: WILLR-40 (Ø 0.000)
+
+💡 WILLIAMS %R STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 WILLR LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn WILLR > -50 (über der Mittellinie)
+   • Cash-Position wenn WILLR <= -50 (unter der Mittellinie)
+   • WILLR Werte zwischen -100 und 0
+   • -50 ist die kritische Mittellinie für Momentum
+   • Kürzere WILLR-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere WILLR-Perioden: Weniger Trades, stabilere Signale
+
+🎯 WILLR PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE WILLR-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: WILLR-97 (Score: 0.850)
+   📈 Höchste Sharpe Ratio: WILLR-97 (0.000)
+   📈 Höchste Total Return: WILLR-97 (0.0%)
+   📈 Höchste Sortino Ratio: WILLR-40 (0.000)
+   🛡️ Niedrigster Drawdown: WILLR-97 (0.0%)
+
+====================================================================
+🏁 WILLR-ANALYSE ABGESCHLOSSEN
+====================================================================

@@ -1,0 +1,87 @@
+================================================================================
+📊 CHOP BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-18 23:34:28
+📈 Assets getestet: 17
+📏 CHOP-Längen getestet: 148
+🔢 Gesamt-Kombinationen: 2516
+📋 Strategie: Choppiness Index Strategy (CHOP < 50 = Long/Trending, CHOP >= 50 = Short/Choppy)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XRP    | CHOP-19 | Sharpe Ratio:   10.535 | Return:    47.2% | Trades:   17
+#2. POL    | CHOP- 5 | Sharpe Ratio:   10.492 | Return:    62.4% | Trades:   17
+#3. XRP    | CHOP-14 | Sharpe Ratio:    9.600 | Return:    43.5% | Trades:   17
+#4. BTC    | CHOP-26 | Sharpe Ratio:    9.119 | Return:    23.5% | Trades:   17
+#5. ETH    | CHOP-71 | Sharpe Ratio:    9.076 | Return:    40.8% | Trades:   17
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. TAO    | CHOP- 3 | Sortino Ratio:    5.000 | Return:     9.0% | Trades:   17
+#2. ATOM   | CHOP- 4 | Sortino Ratio:    5.000 | Return:    67.7% | Trades:   17
+#3. POL    | CHOP- 4 | Sortino Ratio:    5.000 | Return:    49.1% | Trades:   17
+#4. TRX    | CHOP- 4 | Sortino Ratio:    5.000 | Return:     6.5% | Trades:   17
+#5. ATOM   | CHOP- 5 | Sortino Ratio:    5.000 | Return:    51.4% | Trades:   17
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. ATOM   | CHOP- 4 | Omega Ratio:    9.222 | Return:    67.7% | Trades:   17
+#2. POL    | CHOP- 5 | Omega Ratio:    7.800 | Return:    62.4% | Trades:   17
+#3. XRP    | CHOP-19 | Omega Ratio:    5.912 | Return:    47.2% | Trades:   17
+#4. VET    | CHOP-23 | Omega Ratio:    5.388 | Return:    55.4% | Trades:   17
+#5. ATOM   | CHOP-12 | Omega Ratio:    5.154 | Return:    53.5% | Trades:   17
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. ATOM   | CHOP- 4 | Calmar Ratio:  281.661 | Return:    67.7% | Trades:   17
+#2. POL    | CHOP- 5 | Calmar Ratio:  207.627 | Return:    62.4% | Trades:   17
+#3. ALGO   | CHOP-13 | Calmar Ratio:  186.001 | Return:    51.4% | Trades:   17
+#4. POL    | CHOP-21 | Calmar Ratio:  184.608 | Return:    46.7% | Trades:   17
+#5. POL    | CHOP- 9 | Calmar Ratio:  183.362 | Return:    50.1% | Trades:   17
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. ATOM   | CHOP- 4 | Total Return:    0.677 | Return:    67.7% | Trades:   17
+#2. POL    | CHOP- 5 | Total Return:    0.624 | Return:    62.4% | Trades:   17
+#3. VET    | CHOP-23 | Total Return:    0.554 | Return:    55.4% | Trades:   17
+#4. ATOM   | CHOP-12 | Total Return:    0.535 | Return:    53.5% | Trades:   17
+#5. ATOM   | CHOP-11 | Total Return:    0.529 | Return:    52.9% | Trades:   17
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste CHOP pro Asset)
+------------------------------------------------------------
+XRP   : Beste CHOP-19 | Sharpe:  10.54 | Return:   47.2% | DD:   5.7%
+ETH   : Beste CHOP-71 | Sharpe:   9.08 | Return:   40.8% | DD:   6.9%
+ALGO  : Beste CHOP-13 | Sharpe:   8.40 | Return:   51.4% | DD:   3.5%
+VET   : Beste CHOP-23 | Sharpe:   8.83 | Return:   55.4% | DD:   4.1%
+ATOM  : Beste CHOP- 4 | Sharpe:   9.06 | Return:   67.7% | DD:   2.9%
+POL   : Beste CHOP- 5 | Sharpe:  10.49 | Return:   62.4% | DD:   3.6%
+TAO   : Beste CHOP-21 | Sharpe:   4.64 | Return:   25.1% | DD:   6.2%
+LTC   : Beste CHOP- 5 | Sharpe:   6.89 | Return:   49.2% | DD:  11.5%
+XLM   : Beste CHOP-23 | Sharpe:   8.48 | Return:   38.2% | DD:   6.3%
+AVAX  : Beste CHOP-12 | Sharpe:   3.72 | Return:   19.4% | DD:   6.3%
+LINK  : Beste CHOP- 9 | Sharpe:   8.00 | Return:   42.4% | DD:   3.5%
+ADA   : Beste CHOP-11 | Sharpe:   4.11 | Return:   19.6% | DD:  14.8%
+TRX   : Beste CHOP-22 | Sharpe:   6.00 | Return:   11.4% | DD:   1.9%
+SUI   : Beste CHOP-13 | Sharpe:   3.37 | Return:   17.7% | DD:   9.1%
+SOL   : Beste CHOP-94 | Sharpe:   6.54 | Return:   34.2% | DD:   7.9%
+BNB   : Beste CHOP-47 | Sharpe:   5.22 | Return:   17.0% | DD:   8.2%
+BTC   : Beste CHOP-26 | Sharpe:   9.12 | Return:   23.5% | DD:   4.5%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.945 | Std=  3.608 | Max= 10.535 | Min=-11.510
+Total Return   : Mean= -0.054 | Std=  0.164 | Max=  0.677 | Min= -0.411
+Max Drawdown   : Mean=  0.167 | Std=  0.077 | Max=  0.465 | Min=  0.019
+Win Rate       : Mean=  0.467 | Std=  0.084 | Max=  0.824 | Min=  0.235
+
+💡 CHOP EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XRP mit CHOP-19 (Sharpe: 10.54)
+🎯 Konsistenteste Strategie: TRX mit CHOP-22 (Volatilität: 27.4%)
+💰 Höchste Returns: POL mit CHOP-5 (Return: 62.4%)

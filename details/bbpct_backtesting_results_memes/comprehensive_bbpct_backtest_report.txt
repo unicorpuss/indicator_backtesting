@@ -1,0 +1,72 @@
+================================================================================
+📊 BBPCT BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:21:39
+📈 Assets getestet: 4
+📏 BBPCT-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: BBPct Long-Only Strategy (Position > 50 = Long, <= 50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. PEPE   | BBPCT-20 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | BBPCT-21 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | BBPCT-21 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | BBPCT-22 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | BBPCT-22 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SHIB   | BBPCT- 5 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#2. PEPE   | BBPCT- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#3. SHIB   | BBPCT- 6 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#4. PEPE   | BBPCT- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#5. SHIB   | BBPCT- 7 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. DOGE   | BBPCT-16 | Omega Ratio:    0.786 | Return:    -1.4% | Trades:    3
+#2. DOGE   | BBPCT- 5 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#3. DOGE   | BBPCT- 6 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#4. DOGE   | BBPCT- 7 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#5. DOGE   | BBPCT- 8 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SHIB   | BBPCT- 5 | Calmar Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#2. SHIB   | BBPCT- 6 | Calmar Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#3. SHIB   | BBPCT- 7 | Calmar Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#4. SHIB   | BBPCT- 8 | Calmar Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#5. SHIB   | BBPCT- 9 | Calmar Ratio:    0.000 | Return:    -9.1% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. PEPE   | BBPCT-20 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | BBPCT-21 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | BBPCT-21 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | BBPCT-22 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | BBPCT-22 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste BBPCT pro Asset)
+------------------------------------------------------------
+BONK  : Beste BBPCT-22 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+DOGE  : Beste BBPCT-21 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste BBPCT-28 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste BBPCT-20 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.598 | Std=  1.732 | Max=  0.000 | Min= -8.754
+Total Return   : Mean= -0.014 | Std=  0.043 | Max=  0.000 | Min= -0.307
+Max Drawdown   : Mean=  0.014 | Std=  0.043 | Max=  0.307 | Min=  0.000
+Win Rate       : Mean=  0.005 | Std=  0.035 | Max=  0.333 | Min=  0.000
+
+💡 BBPCT EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: PEPE mit BBPCT-20 (Sharpe: 0.00)

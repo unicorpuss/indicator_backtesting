@@ -1,0 +1,47 @@
+================================================================================
+🎯 MOM-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:03:58
+
+🥇 Beste Durchschnittliche MOM-Länge (Kombiniert): MOM-20
+   📊 Avg Sharpe: 1.146 | Avg Return: 0.1% | Avg DD: 0.0%
+   📈 Avg Sortino: 1.250 | Avg Win Rate: 25.0% | Score: 0.983
+
+📈 Beste Durchschnitts-MOMs nach Metriken:
+   • Sharpe Ratio: MOM-20 (Ø 1.146)
+   • Total Return: MOM-14 (Ø 1.1%)
+   • Sortino Ratio: MOM-20 (Ø 1.250)
+
+💡 MOM STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 MOM LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn MOM > 0 (Preis über Vergangenheitswert)
+   • Cash-Position wenn MOM <= 0 (Preis unter/gleich Vergangenheitswert)
+   • Hohe MOM-Werte: Starkes Momentum, mögliche Fortsetzung
+   • Niedrige/negative MOM-Werte: Schwaches/negatives Momentum
+   • MOM = 0: Neutraler Punkt, Preis gleich Vergangenheit
+   • Kürzere MOM-Perioden: Sensitivere Signale, mehr Trades
+   • Längere MOM-Perioden: Stabilere Trends, weniger Trades
+   • MOM reagiert schnell auf Trendwenden (direkter Preisvergleich)
+
+🎯 MOM PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE MOM-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: MOM-20 (Score: 0.983)
+   📈 Höchste Sharpe Ratio: MOM-20 (1.146)
+   📈 Höchste Total Return: MOM-14 (1.1%)
+   📈 Höchste Sortino Ratio: MOM-20 (1.250)
+   🛡️ Niedrigster Drawdown: MOM-14 (0.0%)
+
+📚 KLASSISCHE MOM-KALIBRIERUNGEN:
+------------------------------------------------------------
+   • MOM-10: Sharpe -2.636 | Return -4.5% | DD 5.6%
+   • MOM-12: Sharpe -3.394 | Return -6.1% | DD 6.1%
+   • MOM-14: Sharpe 1.103 | Return 1.1% | DD 0.0%
+   • MOM-20: Sharpe 1.146 | Return 0.1% | DD 0.0%
+   • MOM-21: Sharpe -1.146 | Return -0.1% | DD 0.1%
+   • MOM-30: Sharpe 0.000 | Return 0.0% | DD 0.0%
+
+====================================================================
+🏁 MOM-ANALYSE ABGESCHLOSSEN
+====================================================================

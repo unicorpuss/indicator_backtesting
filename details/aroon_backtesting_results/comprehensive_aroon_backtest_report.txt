@@ -1,0 +1,87 @@
+================================================================================
+📊 AROON BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-19 00:48:13
+📈 Assets getestet: 17
+📏 AROON-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: Aroon Oscillator Long-Only Strategy (Aroon > 0 = Long, Aroon <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | AROON-30 | Sharpe Ratio:    1.595 | Return:   154.3% | Trades: 1056
+#2. SOL    | AROON-28 | Sharpe Ratio:    1.569 | Return:   149.6% | Trades: 1049
+#3. SOL    | AROON-31 | Sharpe Ratio:    1.565 | Return:   153.9% | Trades: 1063
+#4. SOL    | AROON-29 | Sharpe Ratio:    1.532 | Return:   143.3% | Trades: 1051
+#5. SOL    | AROON-36 | Sharpe Ratio:    1.505 | Return:   143.4% | Trades: 1082
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | AROON-83 | Sortino Ratio:    2.045 | Return:    92.5% | Trades:  455
+#2. SUI    | AROON-85 | Sortino Ratio:    2.024 | Return:    90.2% | Trades:  455
+#3. SUI    | AROON-71 | Sortino Ratio:    2.010 | Return:    85.3% | Trades:  451
+#4. SUI    | AROON-84 | Sortino Ratio:    2.007 | Return:    89.2% | Trades:  455
+#5. SUI    | AROON-68 | Sortino Ratio:    1.995 | Return:    84.2% | Trades:  454
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SOL    | AROON-30 | Omega Ratio:    1.497 | Return:   154.3% | Trades: 1056
+#2. SOL    | AROON-31 | Omega Ratio:    1.491 | Return:   153.9% | Trades: 1063
+#3. SOL    | AROON-28 | Omega Ratio:    1.487 | Return:   149.6% | Trades: 1049
+#4. SOL    | AROON-29 | Omega Ratio:    1.474 | Return:   143.3% | Trades: 1051
+#5. SOL    | AROON-33 | Omega Ratio:    1.463 | Return:   141.7% | Trades: 1075
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SOL    | AROON-31 | Calmar Ratio:    2.154 | Return:   153.9% | Trades: 1063
+#2. SOL    | AROON-36 | Calmar Ratio:    2.028 | Return:   143.4% | Trades: 1082
+#3. SOL    | AROON-33 | Calmar Ratio:    2.002 | Return:   141.7% | Trades: 1075
+#4. SOL    | AROON-28 | Calmar Ratio:    1.984 | Return:   149.6% | Trades: 1049
+#5. SOL    | AROON-34 | Calmar Ratio:    1.958 | Return:   134.6% | Trades: 1081
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. ADA    | AROON-77 | Total Return:    2.996 | Return:   299.6% | Trades: 1255
+#2. SUI    | AROON-20 | Total Return:    2.986 | Return:   298.6% | Trades:  442
+#3. ADA    | AROON-79 | Total Return:    2.986 | Return:   298.6% | Trades: 1252
+#4. TAO    | AROON-91 | Total Return:    2.978 | Return:   297.8% | Trades:  473
+#5. ETH    | AROON-83 | Total Return:    2.977 | Return:   297.7% | Trades: 1550
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste AROON pro Asset)
+------------------------------------------------------------
+XRP   : Beste AROON- 5 | Sharpe:   1.03 | Return:   70.0% | DD:  59.5%
+ETH   : Beste AROON-18 | Sharpe:   1.10 | Return:   53.8% | DD:  61.8%
+ALGO  : Beste AROON-99 | Sharpe:   0.72 | Return:   29.8% | DD:  74.7%
+VET   : Beste AROON-17 | Sharpe:   0.94 | Return:   49.1% | DD:  67.0%
+ATOM  : Beste AROON-70 | Sharpe:   0.66 | Return:   24.3% | DD:  65.9%
+POL   : Beste AROON- 5 | Sharpe:   0.68 | Return:   80.7% | DD:  45.6%
+TAO   : Beste AROON-11 | Sharpe:   1.21 | Return:   85.8% | DD:  57.9%
+LTC   : Beste AROON-73 | Sharpe:   0.86 | Return:   44.0% | DD:  76.6%
+XLM   : Beste AROON- 8 | Sharpe:   0.94 | Return:   56.0% | DD:  80.6%
+AVAX  : Beste AROON-12 | Sharpe:   1.17 | Return:   86.1% | DD:  58.1%
+LINK  : Beste AROON- 7 | Sharpe:   0.98 | Return:   58.1% | DD:  66.3%
+ADA   : Beste AROON-15 | Sharpe:   1.01 | Return:   76.1% | DD:  79.5%
+TRX   : Beste AROON-26 | Sharpe:   0.91 | Return:   65.7% | DD:  80.6%
+SUI   : Beste AROON-83 | Sharpe:   1.28 | Return:   92.5% | DD:  52.4%
+SOL   : Beste AROON-30 | Sharpe:   1.59 | Return:  154.3% | DD:  63.9%
+BNB   : Beste AROON-18 | Sharpe:   1.20 | Return:   79.3% | DD:  75.5%
+BTC   : Beste AROON- 6 | Sharpe:   1.23 | Return:   48.1% | DD:  40.4%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.578 | Std=  0.437 | Max=  1.595 | Min= -1.298
+Total Return   : Mean=  0.456 | Std=  0.796 | Max=  2.996 | Min= -0.920
+Max Drawdown   : Mean=  0.784 | Std=  0.110 | Max=  0.982 | Min=  0.404
+Win Rate       : Mean=  0.502 | Std=  0.018 | Max=  0.544 | Min=  0.448
+
+💡 AROON EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit AROON-30 (Sharpe: 1.59)
+🎯 Konsistenteste Strategie: BTC mit AROON-6 (Volatilität: 37.7%)
+💰 Höchste Returns: ADA mit AROON-77 (Return: 299.6%)

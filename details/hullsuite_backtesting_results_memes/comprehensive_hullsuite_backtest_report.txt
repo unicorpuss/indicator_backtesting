@@ -1,0 +1,74 @@
+================================================================================
+📊 HULLSUITE BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:18:54
+📈 Assets getestet: 4
+📏 HULLSUITE-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: Hull Suite Long-Only Strategy (MHULL > SHULL = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SHIB   | HULLSUITE-10 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#2. SHIB   | HULLSUITE-11 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#3. SHIB   | HULLSUITE-12 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#4. SHIB   | HULLSUITE-13 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#5. SHIB   | HULLSUITE-14 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. BONK   | HULLSUITE- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#2. PEPE   | HULLSUITE- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#3. BONK   | HULLSUITE- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#4. PEPE   | HULLSUITE- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#5. BONK   | HULLSUITE- 7 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SHIB   | HULLSUITE-10 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | HULLSUITE-11 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#3. SHIB   | HULLSUITE-12 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#4. SHIB   | HULLSUITE-13 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#5. SHIB   | HULLSUITE-14 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SHIB   | HULLSUITE-10 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | HULLSUITE-11 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#3. SHIB   | HULLSUITE-12 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#4. SHIB   | HULLSUITE-13 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#5. SHIB   | HULLSUITE-14 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SHIB   | HULLSUITE-10 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+#2. SHIB   | HULLSUITE-11 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+#3. BONK   | HULLSUITE-12 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+#4. SHIB   | HULLSUITE-12 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+#5. BONK   | HULLSUITE-13 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste HULLSUITE pro Asset)
+------------------------------------------------------------
+BONK  : Beste HULLSUITE-12 | Sharpe:   0.21 | Return:    0.0% | DD:   6.7%
+DOGE  : Beste HULLSUITE-42 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste HULLSUITE-10 | Sharpe:   0.30 | Return:    0.0% | DD:   9.1%
+PEPE  : Beste HULLSUITE-46 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.955 | Std=  1.894 | Max=  0.295 | Min= -6.797
+Total Return   : Mean= -0.031 | Std=  0.062 | Max=  0.000 | Min= -0.265
+Max Drawdown   : Mean=  0.038 | Std=  0.067 | Max=  0.265 | Min=  0.000
+Win Rate       : Mean=  0.065 | Std=  0.148 | Max=  0.500 | Min=  0.000
+
+💡 HULLSUITE EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SHIB mit HULLSUITE-10 (Sharpe: 0.30)
+🎯 Konsistenteste Strategie: BONK mit HULLSUITE-12 (Volatilität: 46.8%)
+💰 Höchste Returns: DOGE mit HULLSUITE-42 (Return: 0.0%)

@@ -1,0 +1,87 @@
+================================================================================
+📊 RSI BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-16 22:11:41
+📈 Assets getestet: 17
+📏 RSI-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: RSI Long-Only Strategy (RSI > 50 = Long, RSI <= 50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | RSI-19 | Sharpe Ratio:    1.418 | Return:   122.5% | Trades: 1052
+#2. SOL    | RSI-21 | Sharpe Ratio:    1.418 | Return:   122.1% | Trades: 1040
+#3. SOL    | RSI-15 | Sharpe Ratio:    1.415 | Return:   121.8% | Trades: 1047
+#4. SOL    | RSI-14 | Sharpe Ratio:    1.405 | Return:   119.2% | Trades: 1038
+#5. SOL    | RSI-12 | Sharpe Ratio:    1.403 | Return:   118.6% | Trades: 1042
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | RSI-35 | Sortino Ratio:    2.244 | Return:    97.7% | Trades:  418
+#2. SUI    | RSI-28 | Sortino Ratio:    2.232 | Return:    97.1% | Trades:  413
+#3. SUI    | RSI-26 | Sortino Ratio:    2.204 | Return:    94.9% | Trades:  413
+#4. SUI    | RSI-34 | Sortino Ratio:    2.201 | Return:    94.5% | Trades:  417
+#5. SUI    | RSI-27 | Sortino Ratio:    2.191 | Return:    94.1% | Trades:  413
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. ADA    | RSI- 7 | Omega Ratio:    1.472 | Return:    90.1% | Trades: 1300
+#2. ADA    | RSI-17 | Omega Ratio:    1.448 | Return:    81.5% | Trades: 1247
+#3. ADA    | RSI-16 | Omega Ratio:    1.433 | Return:    77.3% | Trades: 1248
+#4. ADA    | RSI-10 | Omega Ratio:    1.431 | Return:    79.5% | Trades: 1287
+#5. SOL    | RSI-21 | Omega Ratio:    1.429 | Return:   122.1% | Trades: 1040
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | RSI-29 | Calmar Ratio:    2.034 | Return:    93.3% | Trades:  415
+#2. SUI    | RSI-28 | Calmar Ratio:    2.024 | Return:    97.1% | Trades:  413
+#3. SUI    | RSI-26 | Calmar Ratio:    1.995 | Return:    94.9% | Trades:  413
+#4. SUI    | RSI-27 | Calmar Ratio:    1.986 | Return:    94.1% | Trades:  413
+#5. SUI    | RSI-31 | Calmar Ratio:    1.977 | Return:    90.0% | Trades:  417
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. TAO    | RSI-108 | Total Return:    2.993 | Return:   299.3% | Trades:  507
+#2. TAO    | RSI-104 | Total Return:    2.985 | Return:   298.5% | Trades:  511
+#3. TRX    | RSI-144 | Total Return:    2.981 | Return:   298.1% | Trades: 1825
+#4. TRX    | RSI-129 | Total Return:    2.979 | Return:   297.9% | Trades: 1826
+#5. TAO    | RSI-16 | Total Return:    2.977 | Return:   297.7% | Trades:  425
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste RSI pro Asset)
+------------------------------------------------------------
+XRP   : Beste RSI- 6 | Sharpe:   0.93 | Return:   55.2% | DD:  79.1%
+ETH   : Beste RSI- 9 | Sharpe:   1.15 | Return:   57.3% | DD:  40.4%
+ALGO  : Beste RSI-36 | Sharpe:   0.70 | Return:   28.6% | DD:  64.2%
+VET   : Beste RSI-24 | Sharpe:   0.95 | Return:   50.4% | DD:  67.2%
+ATOM  : Beste RSI- 8 | Sharpe:   0.48 | Return:  171.3% | DD:  69.1%
+POL   : Beste RSI-14 | Sharpe:   0.30 | Return:    9.6% | DD:  43.0%
+TAO   : Beste RSI- 8 | Sharpe:   1.21 | Return:   85.0% | DD:  59.6%
+LTC   : Beste RSI-12 | Sharpe:   0.82 | Return:   39.1% | DD:  73.3%
+XLM   : Beste RSI- 5 | Sharpe:   1.06 | Return:   68.7% | DD:  62.7%
+AVAX  : Beste RSI- 7 | Sharpe:   1.13 | Return:   81.2% | DD:  73.9%
+LINK  : Beste RSI-10 | Sharpe:   1.03 | Return:   64.9% | DD:  62.1%
+ADA   : Beste RSI- 7 | Sharpe:   1.11 | Return:   90.1% | DD:  64.7%
+TRX   : Beste RSI-21 | Sharpe:   0.88 | Return:   60.7% | DD:  75.6%
+SUI   : Beste RSI-35 | Sharpe:   1.36 | Return:   97.7% | DD:  45.1%
+SOL   : Beste RSI-19 | Sharpe:   1.42 | Return:  122.5% | DD:  72.4%
+BNB   : Beste RSI-19 | Sharpe:   1.22 | Return:   81.7% | DD:  69.8%
+BTC   : Beste RSI-10 | Sharpe:   1.23 | Return:   49.6% | DD:  55.5%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.607 | Std=  0.424 | Max=  1.418 | Min= -1.637
+Total Return   : Mean=  0.434 | Std=  0.667 | Max=  2.993 | Min= -0.869
+Max Drawdown   : Mean=  0.758 | Std=  0.105 | Max=  0.961 | Min=  0.404
+Win Rate       : Mean=  0.497 | Std=  0.024 | Max=  0.541 | Min=  0.338
+
+💡 RSI EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit RSI-19 (Sharpe: 1.42)
+🎯 Konsistenteste Strategie: BTC mit RSI-7 (Volatilität: 38.3%)
+💰 Höchste Returns: TRX mit RSI-144 (Return: 298.1%)

@@ -1,0 +1,72 @@
+================================================================================
+📊 CCI BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:44:47
+📈 Assets getestet: 4
+📏 CCI-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: CCI Long-Only Strategy (CCI > 0 = Long, CCI <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. BONK   | CCI-21 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | CCI-21 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | CCI-21 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | CCI-22 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | CCI-22 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. PEPE   | CCI- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#2. BONK   | CCI- 6 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+#3. PEPE   | CCI- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#4. BONK   | CCI- 7 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+#5. SHIB   | CCI- 7 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. DOGE   | CCI-16 | Omega Ratio:    0.786 | Return:    -1.4% | Trades:    3
+#2. DOGE   | CCI- 5 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#3. DOGE   | CCI- 6 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#4. DOGE   | CCI- 7 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+#5. DOGE   | CCI- 8 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. BONK   | CCI-21 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | CCI-21 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | CCI-21 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | CCI-22 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | CCI-22 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BONK   | CCI-21 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. DOGE   | CCI-21 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | CCI-21 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | CCI-22 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. DOGE   | CCI-22 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste CCI pro Asset)
+------------------------------------------------------------
+BONK  : Beste CCI-21 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+DOGE  : Beste CCI-21 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste CCI-22 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste CCI-21 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.480 | Std=  1.456 | Max=  0.000 | Min= -6.797
+Total Return   : Mean= -0.011 | Std=  0.036 | Max=  0.000 | Min= -0.265
+Max Drawdown   : Mean=  0.011 | Std=  0.036 | Max=  0.265 | Min=  0.000
+Win Rate       : Mean=  0.005 | Std=  0.035 | Max=  0.333 | Min=  0.000
+
+💡 CCI EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: BONK mit CCI-21 (Sharpe: 0.00)

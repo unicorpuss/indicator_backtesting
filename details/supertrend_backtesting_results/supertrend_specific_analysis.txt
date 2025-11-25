@@ -1,0 +1,53 @@
+================================================================================
+🎯 SUPERTREND BACKTESTING REPORT (MATRIX-BASED)
+================================================================================
+🕐 Erstellt am: 2025-11-07 00:21:08
+📊 Getestete Kombinationen: 2980
+💰 Assets: 20
+
+🏆 BESTE KALIBRIERUNG (Sharpe Ratio):
+   • ATR Period: 5.0
+   • Factor: 2.0
+   • Sharpe Ratio: 0.5789
+   • Total Return: -3113.32%
+   • Max Drawdown: 80.86%
+   • Sortino Ratio: 0.9180
+
+📊 TOP 10 KOMBINATIONEN (nach Sharpe Ratio):
+   1. ATR=5.0, Factor=2.0 → Sharpe=0.5789, Return=-3113.32%
+   2. ATR=4.0, Factor=2.5 → Sharpe=0.5693, Return=-5117.90%
+   3. ATR=4.0, Factor=2.0 → Sharpe=0.5609, Return=-7212.04%
+   4. ATR=6.0, Factor=2.0 → Sharpe=0.5556, Return=-3569.10%
+   5. ATR=5.0, Factor=2.5 → Sharpe=0.5526, Return=-2983.62%
+   6. ATR=7.0, Factor=2.5 → Sharpe=0.5503, Return=-1733.31%
+   7. ATR=8.0, Factor=2.5 → Sharpe=0.5489, Return=-1723.88%
+   8. ATR=3.0, Factor=3.0 → Sharpe=0.5391, Return=-985.03%
+   9. ATR=7.0, Factor=2.0 → Sharpe=0.5369, Return=-3440.80%
+   10. ATR=6.0, Factor=2.5 → Sharpe=0.5296, Return=-3102.41%
+
+💡 SUPERTREND STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 SUPERTREND LONG/SHORT STRATEGIE INSIGHTS:
+   • Long bei Uptrend (Preis über Supertrend-Linie, Signal = 1)
+   • Short bei Downtrend (Preis unter Supertrend-Linie, Signal = -1)
+   • ATR-basierte dynamische Bands passen sich an Volatilität an
+   • Factor bestimmt Band-Breite (höher = weniger Signale)
+   • Trendfolge-Indikator mit klaren Entry/Exit-Punkten
+
+🎯 PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 ATR PERIOD CHARAKTERISTIKA:
+   • ATR 5-15: Kurzfristig, reagiert schnell auf Volatilitätsänderungen
+   • ATR 15-30: Mittelfristig, balanced zwischen Reaktivität und Stabilität
+   • ATR 30-50: Langfristig, glattere Signale, weniger Whipsaws
+
+📌 FACTOR CHARAKTERISTIKA:
+   • Factor 0.5-2.0: Eng, mehr Trades, sensitiver
+   • Factor 2.0-5.0: Medium, ausgewogene Trade-Frequenz
+   • Factor 5.0-10.0: Weit, weniger aber qualitativ hochwertige Signale
+
+📈 HÄUFIGSTE TOP-PARAMETER (Top 20):
+   • ATR Period: 3 (kommt am häufigsten in Top 20 vor)
+   • Factor: 2.5
+
+================================================================================

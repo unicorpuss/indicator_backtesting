@@ -1,0 +1,87 @@
+================================================================================
+📊 CCI BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-19 01:10:57
+📈 Assets getestet: 17
+📏 CCI-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: CCI Long-Only Strategy (CCI > 0 = Long, CCI <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | CCI-38 | Sharpe Ratio:    1.512 | Return:   140.4% | Trades: 1048
+#2. SOL    | CCI-39 | Sharpe Ratio:    1.506 | Return:   139.5% | Trades: 1049
+#3. SOL    | CCI-10 | Sharpe Ratio:    1.499 | Return:   133.3% | Trades: 1023
+#4. SUI    | CCI-63 | Sharpe Ratio:    1.475 | Return:   116.4% | Trades:  431
+#5. SOL    | CCI-46 | Sharpe Ratio:    1.469 | Return:   134.2% | Trades: 1052
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | CCI-63 | Sortino Ratio:    2.535 | Return:   116.4% | Trades:  431
+#2. SUI    | CCI-77 | Sortino Ratio:    2.514 | Return:   115.6% | Trades:  433
+#3. SUI    | CCI-64 | Sortino Ratio:    2.509 | Return:   113.6% | Trades:  432
+#4. SUI    | CCI-62 | Sortino Ratio:    2.474 | Return:   111.6% | Trades:  432
+#5. SUI    | CCI-67 | Sortino Ratio:    2.474 | Return:   111.2% | Trades:  436
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | CCI- 5 | Omega Ratio:    1.482 | Return:    77.7% | Trades: 1527
+#2. SOL    | CCI-10 | Omega Ratio:    1.466 | Return:   133.3% | Trades: 1023
+#3. TRX    | CCI- 6 | Omega Ratio:    1.466 | Return:    73.3% | Trades: 1528
+#4. ADA    | CCI-16 | Omega Ratio:    1.465 | Return:    95.1% | Trades: 1365
+#5. ADA    | CCI-17 | Omega Ratio:    1.462 | Return:    93.8% | Trades: 1354
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | CCI-77 | Calmar Ratio:    2.698 | Return:   115.6% | Trades:  433
+#2. SUI    | CCI-78 | Calmar Ratio:    2.413 | Return:   110.8% | Trades:  432
+#3. SUI    | CCI-63 | Calmar Ratio:    2.411 | Return:   116.4% | Trades:  431
+#4. SUI    | CCI-67 | Calmar Ratio:    2.360 | Return:   111.2% | Trades:  436
+#5. SUI    | CCI-66 | Calmar Ratio:    2.358 | Return:   111.0% | Trades:  436
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. TRX    | CCI-85 | Total Return:    2.999 | Return:   299.9% | Trades: 1667
+#2. TRX    | CCI-70 | Total Return:    2.994 | Return:   299.4% | Trades: 1617
+#3. TAO    | CCI-64 | Total Return:    2.992 | Return:   299.2% | Trades:  409
+#4. ALGO   | CCI-71 | Total Return:    2.989 | Return:   298.9% | Trades:  881
+#5. SUI    | CCI-104 | Total Return:    2.981 | Return:   298.1% | Trades:  441
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste CCI pro Asset)
+------------------------------------------------------------
+XRP   : Beste CCI-11 | Sharpe:   0.99 | Return:   63.3% | DD:  68.7%
+ETH   : Beste CCI-31 | Sharpe:   1.09 | Return:   52.7% | DD:  58.2%
+ALGO  : Beste CCI-116 | Sharpe:   0.69 | Return:   27.6% | DD:  65.6%
+VET   : Beste CCI-39 | Sharpe:   1.07 | Return:   62.6% | DD:  55.7%
+ATOM  : Beste CCI-48 | Sharpe:   0.59 | Return:   19.1% | DD:  62.0%
+POL   : Beste CCI- 7 | Sharpe:   0.61 | Return:   66.5% | DD:  49.9%
+TAO   : Beste CCI-19 | Sharpe:   1.42 | Return:  113.6% | DD:  50.7%
+LTC   : Beste CCI-12 | Sharpe:   0.83 | Return:   39.8% | DD:  63.6%
+XLM   : Beste CCI-12 | Sharpe:   1.11 | Return:   75.2% | DD:  70.6%
+AVAX  : Beste CCI-12 | Sharpe:   1.21 | Return:   90.7% | DD:  54.8%
+LINK  : Beste CCI-13 | Sharpe:   1.20 | Return:   86.3% | DD:  59.3%
+ADA   : Beste CCI-16 | Sharpe:   1.14 | Return:   95.1% | DD:  68.2%
+TRX   : Beste CCI- 5 | Sharpe:   0.99 | Return:   77.7% | DD:  51.6%
+SUI   : Beste CCI-63 | Sharpe:   1.47 | Return:  116.4% | DD:  40.9%
+SOL   : Beste CCI-38 | Sharpe:   1.51 | Return:  140.4% | DD:  71.0%
+BNB   : Beste CCI-15 | Sharpe:   1.20 | Return:   79.4% | DD:  65.4%
+BTC   : Beste CCI-36 | Sharpe:   1.31 | Return:   56.0% | DD:  62.5%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.720 | Std=  0.372 | Max=  1.512 | Min= -0.572
+Total Return   : Mean=  0.608 | Std=  0.698 | Max=  2.999 | Min= -0.793
+Max Drawdown   : Mean=  0.719 | Std=  0.117 | Max=  0.944 | Min=  0.366
+Win Rate       : Mean=  0.501 | Std=  0.019 | Max=  0.546 | Min=  0.449
+
+💡 CCI EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit CCI-38 (Sharpe: 1.51)
+🎯 Konsistenteste Strategie: BTC mit CCI-15 (Volatilität: 38.4%)
+💰 Höchste Returns: TRX mit CCI-85 (Return: 299.9%)

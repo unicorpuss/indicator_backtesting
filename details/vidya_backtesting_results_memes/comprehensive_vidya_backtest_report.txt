@@ -1,0 +1,72 @@
+================================================================================
+📊 VIDYA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:12:48
+📈 Assets getestet: 4
+📏 VIDYA-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: VIDYA Long-Only Strategy (Steigend = Long, Fallend = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. PEPE   | VIDYA- 7 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. BONK   | VIDYA- 8 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | VIDYA- 8 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | VIDYA- 9 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | VIDYA- 9 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. BONK   | VIDYA- 5 | Sortino Ratio:    0.000 | Return:   -13.3% | Trades:    1
+#2. SHIB   | VIDYA- 5 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#3. PEPE   | VIDYA- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#4. SHIB   | VIDYA- 6 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#5. PEPE   | VIDYA- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. BONK   | VIDYA- 5 | Omega Ratio:    0.000 | Return:   -13.3% | Trades:    1
+#2. DOGE   | VIDYA- 5 | Omega Ratio:    0.000 | Return:    -5.8% | Trades:    2
+#3. SHIB   | VIDYA- 5 | Omega Ratio:    0.000 | Return:    -9.1% | Trades:    1
+#4. PEPE   | VIDYA- 5 | Omega Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#5. BONK   | VIDYA- 6 | Omega Ratio:    0.000 | Return:   -19.1% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. PEPE   | VIDYA- 7 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#2. BONK   | VIDYA- 8 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | VIDYA- 8 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | VIDYA- 9 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | VIDYA- 9 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. PEPE   | VIDYA- 7 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. BONK   | VIDYA- 8 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. PEPE   | VIDYA- 8 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | VIDYA- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. PEPE   | VIDYA- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste VIDYA pro Asset)
+------------------------------------------------------------
+BONK  : Beste VIDYA- 8 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+DOGE  : Beste VIDYA-18 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste VIDYA-35 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste VIDYA- 7 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.387 | Std=  1.302 | Max=  0.000 | Min= -6.734
+Total Return   : Mean= -0.007 | Std=  0.024 | Max=  0.000 | Min= -0.191
+Max Drawdown   : Mean=  0.007 | Std=  0.024 | Max=  0.191 | Min=  0.000
+Win Rate       : Mean=  0.000 | Std=  0.000 | Max=  0.000 | Min=  0.000
+
+💡 VIDYA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: PEPE mit VIDYA-7 (Sharpe: 0.00)

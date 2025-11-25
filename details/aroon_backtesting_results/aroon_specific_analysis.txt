@@ -1,0 +1,38 @@
+================================================================================
+🎯 AROON-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-19 00:48:18
+
+🥇 Beste Durchschnittliche AROON-Länge (Kombiniert): AROON-17
+   📊 Avg Sharpe: 0.844 | Avg Return: 72.2% | Avg DD: 72.8%
+   📈 Avg Sortino: 1.059 | Avg Win Rate: 50.6% | Score: 0.909
+
+📈 Beste Durchschnitts-AROONs nach Metriken:
+   • Sharpe Ratio: AROON-17 (Ø 0.844)
+   • Total Return: AROON-109 (Ø 85.4%)
+   • Sortino Ratio: AROON-17 (Ø 1.059)
+
+💡 AROON STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 AROON OSCILLATOR LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn Aroon Oscillator > 0 (bullisches Momentum)
+   • Cash-Position wenn Aroon Oscillator <= 0 (bearisches Momentum)
+   • Aroon Oscillator = Aroon Up - Aroon Down
+   • Range: -100 bis +100 mit 0 als Mittellinie
+   • > 0: Aufwärtstrend dominiert über Abwärtstrend
+   • < 0: Abwärtstrend dominiert über Aufwärtstrend
+   • Kürzere AROON-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere AROON-Perioden: Weniger Trades, stabilere Signale
+
+🎯 AROON PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE AROON-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: AROON-17 (Score: 0.909)
+   📈 Höchste Sharpe Ratio: AROON-17 (0.844)
+   📈 Höchste Total Return: AROON-109 (85.4%)
+   📈 Höchste Sortino Ratio: AROON-17 (1.059)
+   🛡️ Niedrigster Drawdown: AROON-11 (69.8%)
+
+====================================================================
+🏁 AROON-ANALYSE ABGESCHLOSSEN
+====================================================================

@@ -1,0 +1,73 @@
+================================================================================
+📊 VIDYA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:55:45
+📈 Assets getestet: 3
+📏 VIDYA-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: VIDYA Long-Only Strategy (Steigend = Long, Fallend = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | VIDYA-16 | Sharpe Ratio:    2.632 | Return:     5.3% | Trades:   11
+#2. XMR    | VIDYA-17 | Sharpe Ratio:    2.632 | Return:     5.3% | Trades:   11
+#3. XMR    | VIDYA-18 | Sharpe Ratio:    2.632 | Return:     5.3% | Trades:   11
+#4. XMR    | VIDYA-19 | Sharpe Ratio:    2.632 | Return:     5.3% | Trades:   11
+#5. XMR    | VIDYA-20 | Sharpe Ratio:    2.632 | Return:     5.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | VIDYA-16 | Sortino Ratio:    5.000 | Return:     5.3% | Trades:   11
+#2. XMR    | VIDYA-17 | Sortino Ratio:    5.000 | Return:     5.3% | Trades:   11
+#3. XMR    | VIDYA-18 | Sortino Ratio:    5.000 | Return:     5.3% | Trades:   11
+#4. XMR    | VIDYA-19 | Sortino Ratio:    5.000 | Return:     5.3% | Trades:   11
+#5. XMR    | VIDYA-20 | Sortino Ratio:    5.000 | Return:     5.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. XMR    | VIDYA-16 | Omega Ratio:    1.533 | Return:     5.3% | Trades:   11
+#2. XMR    | VIDYA-17 | Omega Ratio:    1.533 | Return:     5.3% | Trades:   11
+#3. XMR    | VIDYA-18 | Omega Ratio:    1.533 | Return:     5.3% | Trades:   11
+#4. XMR    | VIDYA-19 | Omega Ratio:    1.533 | Return:     5.3% | Trades:   11
+#5. XMR    | VIDYA-20 | Omega Ratio:    1.533 | Return:     5.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | VIDYA-16 | Calmar Ratio:   16.295 | Return:     5.3% | Trades:   11
+#2. XMR    | VIDYA-17 | Calmar Ratio:   16.295 | Return:     5.3% | Trades:   11
+#3. XMR    | VIDYA-18 | Calmar Ratio:   16.295 | Return:     5.3% | Trades:   11
+#4. XMR    | VIDYA-19 | Calmar Ratio:   16.295 | Return:     5.3% | Trades:   11
+#5. XMR    | VIDYA-20 | Calmar Ratio:   16.295 | Return:     5.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | VIDYA-16 | Total Return:    0.053 | Return:     5.3% | Trades:   11
+#2. XMR    | VIDYA-17 | Total Return:    0.053 | Return:     5.3% | Trades:   11
+#3. XMR    | VIDYA-18 | Total Return:    0.053 | Return:     5.3% | Trades:   11
+#4. XMR    | VIDYA-19 | Total Return:    0.053 | Return:     5.3% | Trades:   11
+#5. XMR    | VIDYA-20 | Total Return:    0.053 | Return:     5.3% | Trades:   11
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste VIDYA pro Asset)
+------------------------------------------------------------
+UNI   : Beste VIDYA-16 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+XMR   : Beste VIDYA-16 | Sharpe:   2.63 | Return:    5.3% | DD:   7.2%
+AAVE  : Beste VIDYA-20 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.473 | Std=  2.031 | Max=  2.632 | Min= -7.188
+Total Return   : Mean=  0.011 | Std=  0.039 | Max=  0.053 | Min= -0.201
+Max Drawdown   : Mean=  0.029 | Std=  0.041 | Max=  0.201 | Min=  0.000
+Win Rate       : Mean=  0.150 | Std=  0.212 | Max=  0.455 | Min=  0.000
+
+💡 VIDYA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit VIDYA-16 (Sharpe: 2.63)
+🎯 Konsistenteste Strategie: XMR mit VIDYA-7 (Volatilität: 41.7%)
+💰 Höchste Returns: XMR mit VIDYA-7 (Return: 1.6%)

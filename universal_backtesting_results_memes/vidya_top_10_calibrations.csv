@@ -1,0 +1,11 @@
+vidya_length,sharpe_ratio_mean,sharpe_ratio_std,sharpe_ratio_count,total_return_mean,total_return_std,max_drawdown_mean,max_drawdown_std,sortino_ratio_mean,sortino_ratio_std,win_rate_mean,win_rate_std,omega_ratio_mean,omega_ratio_std,calmar_ratio_mean,calmar_ratio_std,combined_score,indicator,parameter_type
+35,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+36,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+37,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+38,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+39,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+40,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+41,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+42,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+43,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single
+44,0.0,0.0,4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.2,VIDYA,single

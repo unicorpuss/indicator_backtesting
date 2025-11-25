@@ -1,0 +1,27 @@
+================================================================================
+🎯 BBPCT-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:39:40
+
+🥇 Beste Durchschnittliche BBPct-Länge (Kombiniert): BBPCT-15
+   📊 Avg Sharpe: 0.911 | Avg Return: 92.5% | Avg DD: 67.3%
+   📈 Avg Sortino: 1.187 | Avg Win Rate: 50.2% | Score: 0.931
+
+📈 Beste Durchschnitts-BBPcts nach Metriken:
+   • Sharpe Ratio: BBPCT-14 (Ø 0.918)
+   • Total Return: BBPCT-15 (Ø 92.5%)
+   • Sortino Ratio: BBPCT-14 (Ø 1.201)
+
+💡 BBPCT STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 BBPCT LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn Position > 50% (Preis über Mittellinie)
+   • Cash-Position wenn Position <= 50% (Preis unter Mittellinie)
+   • BBPct = 100 * (Price - Lower) / (Upper - Lower)
+   • Bollinger Bands: Basis ± (2.0 * StdDev)
+   • Position 0% = unteres Band, 50% = Mittellinie, 100% = oberes Band
+   • Kürzere BB-Perioden: Engere Bands, mehr Signale
+   • Längere BB-Perioden: Weitere Bands, stabilere Signale
+   • Besonders effektiv in Mean-Reverting und Trend-Following Märkten
+
+================================================================================

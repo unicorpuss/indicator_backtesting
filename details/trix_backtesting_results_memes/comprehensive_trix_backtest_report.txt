@@ -1,0 +1,74 @@
+================================================================================
+📊 TRIX BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:08:06
+📈 Assets getestet: 4
+📏 TRIX-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: TRIX Long-Only Strategy (TRIX > 0 = Long, TRIX <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. DOGE   | TRIX-38 | Sharpe Ratio:    3.955 | Return:     4.0% | Trades:    2
+#2. DOGE   | TRIX-39 | Sharpe Ratio:    1.232 | Return:     1.4% | Trades:    3
+#3. BONK   | TRIX-76 | Sharpe Ratio:    0.214 | Return:     0.0% | Trades:    2
+#4. BONK   | TRIX-77 | Sharpe Ratio:    0.214 | Return:     0.0% | Trades:    2
+#5. BONK   | TRIX-138 | Sharpe Ratio:    0.214 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. DOGE   | TRIX-39 | Sortino Ratio:    1.383 | Return:     1.4% | Trades:    3
+#2. BONK   | TRIX- 5 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+#3. SHIB   | TRIX- 5 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. PEPE   | TRIX- 5 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | TRIX- 6 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. DOGE   | TRIX-38 | Omega Ratio:    8.248 | Return:     4.0% | Trades:    2
+#2. DOGE   | TRIX-39 | Omega Ratio:    1.475 | Return:     1.4% | Trades:    3
+#3. BONK   | TRIX-76 | Omega Ratio:    1.071 | Return:     0.0% | Trades:    2
+#4. BONK   | TRIX-77 | Omega Ratio:    1.071 | Return:     0.0% | Trades:    2
+#5. BONK   | TRIX-138 | Omega Ratio:    1.071 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. DOGE   | TRIX-39 | Calmar Ratio:   12.147 | Return:     1.4% | Trades:    3
+#2. BONK   | TRIX-76 | Calmar Ratio:    1.500 | Return:     0.0% | Trades:    2
+#3. BONK   | TRIX-77 | Calmar Ratio:    1.500 | Return:     0.0% | Trades:    2
+#4. BONK   | TRIX-138 | Calmar Ratio:    1.500 | Return:     0.0% | Trades:    2
+#5. SHIB   | TRIX- 5 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. DOGE   | TRIX-38 | Total Return:    0.040 | Return:     4.0% | Trades:    2
+#2. DOGE   | TRIX-39 | Total Return:    0.014 | Return:     1.4% | Trades:    3
+#3. SHIB   | TRIX- 5 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. PEPE   | TRIX- 5 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | TRIX- 6 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste TRIX pro Asset)
+------------------------------------------------------------
+BONK  : Beste TRIX-76 | Sharpe:   0.21 | Return:    0.0% | DD:   6.7%
+DOGE  : Beste TRIX-38 | Sharpe:   3.95 | Return:    4.0% | DD:   0.0%
+SHIB  : Beste TRIX- 5 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste TRIX- 5 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -1.683 | Std=  2.797 | Max=  3.955 | Min= -7.604
+Total Return   : Mean= -0.053 | Std=  0.086 | Max=  0.040 | Min= -0.267
+Max Drawdown   : Mean=  0.064 | Std=  0.101 | Max=  0.267 | Min=  0.000
+Win Rate       : Mean=  0.095 | Std=  0.154 | Max=  0.500 | Min=  0.000
+
+💡 TRIX EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: DOGE mit TRIX-38 (Sharpe: 3.95)
+🎯 Konsistenteste Strategie: DOGE mit TRIX-38 (Volatilität: 21.5%)
+💰 Höchste Returns: DOGE mit TRIX-38 (Return: 4.0%)

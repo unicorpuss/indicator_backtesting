@@ -1,0 +1,27 @@
+================================================================================
+🎯 FSVZO-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:59:36
+
+🥇 Beste Durchschnittliche VZO-Länge (Kombiniert): VZO-124
+   📊 Avg Sharpe: 0.805 | Avg Return: 95.3% | Avg DD: 57.2%
+   📈 Avg Sortino: 0.890 | Avg Win Rate: 50.5% | Score: 0.808
+
+📈 Beste Durchschnitts-VZOs nach Metriken:
+   • Sharpe Ratio: VZO-114 (Ø 0.814)
+   • Total Return: VZO-117 (Ø 99.6%)
+   • Sortino Ratio: VZO-7 (Ø 1.033)
+
+💡 FSVZO STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 FSVZO LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn VZO > Signal (bullisches Volume-Momentum)
+   • Cash-Position wenn VZO <= Signal (bearisches Volume-Momentum)
+   • FSVZO kombiniert Volume-Analyse mit Fourier-Glättung
+   • ADF-Trend-Filter verbessert Signal-Qualität in Trends
+   • Benötigt Volume-Daten für korrekte Berechnung
+   • Kürzere VZO-Perioden: Schnellere Reaktion auf Volume-Änderungen
+   • Längere VZO-Perioden: Stabilere Volume-Trend-Erkennung
+   • Besonders effektiv bei Volume-getriebenen Marktbewegungen
+
+================================================================================

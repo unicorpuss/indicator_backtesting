@@ -1,0 +1,87 @@
+================================================================================
+📊 EMA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-15 23:42:43
+📈 Assets getestet: 17
+📏 EMA-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: EMA Crossover Strategy (Price > EMA = Long, Price <= EMA = Short/Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SUI    | EMA-54 | Sharpe Ratio:    1.188 | Return:    94.0% | Trades:  839
+#2. SUI    | EMA-57 | Sharpe Ratio:    1.176 | Return:    92.0% | Trades:  836
+#3. SUI    | EMA-55 | Sharpe Ratio:    1.169 | Return:    90.7% | Trades:  838
+#4. SUI    | EMA-52 | Sharpe Ratio:    1.156 | Return:    88.5% | Trades:  841
+#5. SUI    | EMA-53 | Sharpe Ratio:    1.154 | Return:    88.2% | Trades:  840
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | EMA-54 | Sortino Ratio:    1.920 | Return:    94.0% | Trades:  839
+#2. SUI    | EMA-57 | Sortino Ratio:    1.901 | Return:    92.0% | Trades:  836
+#3. SUI    | EMA-55 | Sortino Ratio:    1.892 | Return:    90.7% | Trades:  838
+#4. SUI    | EMA-52 | Sortino Ratio:    1.867 | Return:    88.5% | Trades:  841
+#5. SUI    | EMA-53 | Sortino Ratio:    1.865 | Return:    88.2% | Trades:  840
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. ADA    | EMA-13 | Omega Ratio:    1.253 | Return:    81.4% | Trades: 2881
+#2. ADA    | EMA-12 | Omega Ratio:    1.232 | Return:    67.0% | Trades: 2882
+#3. SUI    | EMA-54 | Omega Ratio:    1.230 | Return:    94.0% | Trades:  839
+#4. ADA    | EMA-14 | Omega Ratio:    1.228 | Return:    64.8% | Trades: 2880
+#5. SUI    | EMA-57 | Omega Ratio:    1.228 | Return:    92.0% | Trades:  836
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | EMA-57 | Calmar Ratio:    1.662 | Return:    92.0% | Trades:  836
+#2. SUI    | EMA-54 | Calmar Ratio:    1.636 | Return:    94.0% | Trades:  839
+#3. SUI    | EMA-55 | Calmar Ratio:    1.611 | Return:    90.7% | Trades:  838
+#4. SUI    | EMA-50 | Calmar Ratio:    1.603 | Return:    78.9% | Trades:  843
+#5. SUI    | EMA-52 | Calmar Ratio:    1.591 | Return:    88.5% | Trades:  841
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BNB    | EMA-120 | Total Return:    2.986 | Return:   298.6% | Trades: 2774
+#2. AVAX   | EMA-82 | Total Return:    2.982 | Return:   298.2% | Trades: 1766
+#3. SUI    | EMA-23 | Total Return:    2.979 | Return:   297.9% | Trades:  870
+#4. AVAX   | EMA-78 | Total Return:    2.973 | Return:   297.3% | Trades: 1770
+#5. AVAX   | EMA-79 | Total Return:    2.972 | Return:   297.2% | Trades: 1769
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste EMA pro Asset)
+------------------------------------------------------------
+XRP   : Beste EMA-12 | Sharpe:   0.76 | Return:   30.1% | DD:  97.4%
+ETH   : Beste EMA-28 | Sharpe:   0.94 | Return:   51.9% | DD:  70.3%
+ALGO  : Beste EMA-72 | Sharpe:   0.65 | Return:   19.7% | DD:  83.7%
+VET   : Beste EMA-46 | Sharpe:   0.88 | Return:   48.8% | DD:  75.8%
+ATOM  : Beste EMA- 5 | Sharpe:   0.28 | Return:  -79.7% | DD:  97.5%
+POL   : Beste EMA-25 | Sharpe:   0.83 | Return:  151.4% | DD:  45.1%
+TAO   : Beste EMA-19 | Sharpe:   1.04 | Return:   71.0% | DD:  73.5%
+LTC   : Beste EMA-20 | Sharpe:   0.62 | Return:   19.9% | DD:  95.8%
+XLM   : Beste EMA- 9 | Sharpe:   0.97 | Return:   62.1% | DD:  77.7%
+AVAX  : Beste EMA-13 | Sharpe:   1.04 | Return:   75.1% | DD:  85.8%
+LINK  : Beste EMA-17 | Sharpe:   0.63 | Return:   14.6% | DD:  93.4%
+ADA   : Beste EMA-13 | Sharpe:   1.05 | Return:   81.4% | DD:  89.2%
+TRX   : Beste EMA- 5 | Sharpe:   0.60 | Return:   16.7% | DD:  92.3%
+SUI   : Beste EMA-54 | Sharpe:   1.19 | Return:   94.0% | DD:  65.1%
+SOL   : Beste EMA-63 | Sharpe:   0.96 | Return:   57.2% | DD:  95.3%
+BNB   : Beste EMA-35 | Sharpe:   0.77 | Return:   36.4% | DD:  88.9%
+BTC   : Beste EMA-140 | Sharpe:   0.88 | Return:   39.8% | DD:  75.3%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.420 | Std=  0.301 | Max=  1.188 | Min= -0.321
+Total Return   : Mean=  0.002 | Std=  1.016 | Max=  2.986 | Min=-21.652
+Max Drawdown   : Mean=  0.881 | Std=  0.112 | Max=  1.000 | Min=  0.000
+Win Rate       : Mean=  0.498 | Std=  0.011 | Max=  0.539 | Min=  0.469
+
+💡 EMA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SUI mit EMA-54 (Sharpe: 1.19)
+🎯 Konsistenteste Strategie: BTC mit EMA-141 (Volatilität: 55.5%)
+💰 Höchste Returns: BNB mit EMA-120 (Return: 298.6%)

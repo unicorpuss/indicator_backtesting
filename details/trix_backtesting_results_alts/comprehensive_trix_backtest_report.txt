@@ -1,0 +1,73 @@
+================================================================================
+📊 TRIX BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:51:48
+📈 Assets getestet: 3
+📏 TRIX-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: TRIX Long-Only Strategy (TRIX > 0 = Long, TRIX <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. UNI    | TRIX-63 | Sharpe Ratio:    4.672 | Return:     6.7% | Trades:    2
+#2. UNI    | TRIX-150 | Sharpe Ratio:    4.672 | Return:     6.7% | Trades:    2
+#3. UNI    | TRIX-61 | Sharpe Ratio:    4.583 | Return:     0.1% | Trades:    1
+#4. UNI    | TRIX-62 | Sharpe Ratio:    4.583 | Return:     0.1% | Trades:    1
+#5. AAVE   | TRIX-56 | Sharpe Ratio:    3.592 | Return:     5.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | TRIX- 5 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#2. XMR    | TRIX- 6 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#3. XMR    | TRIX- 7 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#4. XMR    | TRIX- 8 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#5. XMR    | TRIX- 9 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. UNI    | TRIX-61 | Omega Ratio:   10.000 | Return:     0.1% | Trades:    1
+#2. UNI    | TRIX-62 | Omega Ratio:   10.000 | Return:     0.1% | Trades:    1
+#3. UNI    | TRIX-63 | Omega Ratio:   10.000 | Return:     6.7% | Trades:    2
+#4. UNI    | TRIX-150 | Omega Ratio:   10.000 | Return:     6.7% | Trades:    2
+#5. AAVE   | TRIX-56 | Omega Ratio:    5.286 | Return:     5.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. UNI    | TRIX-64 | Calmar Ratio:   43.200 | Return:     4.4% | Trades:    3
+#2. UNI    | TRIX-65 | Calmar Ratio:   43.200 | Return:     4.4% | Trades:    3
+#3. UNI    | TRIX-149 | Calmar Ratio:   43.200 | Return:     4.4% | Trades:    3
+#4. AAVE   | TRIX-57 | Calmar Ratio:   26.515 | Return:     2.7% | Trades:    3
+#5. XMR    | TRIX- 5 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | TRIX- 5 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#2. XMR    | TRIX- 6 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#3. XMR    | TRIX- 7 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#4. XMR    | TRIX- 8 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#5. XMR    | TRIX- 9 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste TRIX pro Asset)
+------------------------------------------------------------
+UNI   : Beste TRIX-63 | Sharpe:   4.67 | Return:    6.7% | DD:   0.0%
+XMR   : Beste TRIX- 5 | Sharpe:   3.56 | Return:    7.4% | DD:   7.2%
+AAVE  : Beste TRIX-56 | Sharpe:   3.59 | Return:    5.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.080 | Std=  3.103 | Max=  4.672 | Min= -6.779
+Total Return   : Mean= -0.027 | Std=  0.093 | Max=  0.074 | Min= -0.186
+Max Drawdown   : Mean=  0.108 | Std=  0.091 | Max=  0.237 | Min=  0.000
+Win Rate       : Mean=  0.329 | Std=  0.207 | Max=  1.000 | Min=  0.000
+
+💡 TRIX EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: UNI mit TRIX-63 (Sharpe: 4.67)
+🎯 Konsistenteste Strategie: UNI mit TRIX-61 (Volatilität: 0.5%)
+💰 Höchste Returns: XMR mit TRIX-5 (Return: 7.4%)

@@ -1,0 +1,301 @@
+====================================================================================================
+🎯 TOP 10 KALIBRIERUNGEN PRO INDIKATOR - DETAILLIERTER REPORT
+====================================================================================================
+🕐 Erstellt am: 2025-11-03 22:53:17
+📊 Modus: Full Mode
+
+
+================================================================================
+📊 EMA - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: Price > EMA = Long
+🎯 Threshold: None
+📊 Parameter: EMA-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  33 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+🥈 Parameter:  34 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+🥉 Parameter:  35 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 4. Parameter:  36 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 5. Parameter:  37 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 6. Parameter:  38 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 7. Parameter:  39 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 8. Parameter:  40 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+ 9. Parameter:  41 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+10. Parameter:  42 | Sharpe:  3.625±2.166 | Return:   11.4% | DD:  10.4% | Win: 67.8% | Tests:  3 | Score: 1.789
+
+
+================================================================================
+📊 RSI - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: RSI > 50 = Long
+🎯 Threshold: 50.0
+📊 Parameter: RSI-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  17 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥈 Parameter:  18 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥉 Parameter:  19 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:  20 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:  21 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  22 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  23 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  24 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  25 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  26 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 CCI - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: CCI > 0 = Long
+🎯 Threshold: 0.0
+📊 Parameter: CCI-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  22 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥈 Parameter:  23 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥉 Parameter:  24 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:  25 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:  26 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  27 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  28 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  29 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  30 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  31 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 ADX - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: ADX > 25 = Long
+🎯 Threshold: 25.0
+📊 Parameter: ADX-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  32 | Sharpe:  0.107±0.185 | Return:    0.0% | DD:   3.0% | Win: 16.7% | Tests:  3 | Score: 0.226
+🥈 Parameter:  33 | Sharpe:  0.107±0.185 | Return:    0.0% | DD:   3.0% | Win: 16.7% | Tests:  3 | Score: 0.226
+🥉 Parameter:  34 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:  35 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:  36 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  37 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  38 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  39 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  40 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  41 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 AROON - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: Aroon > 0 = Long
+🎯 Threshold: 0.0
+📊 Parameter: AROON-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  19 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥈 Parameter:  20 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥉 Parameter:  21 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:  22 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:  23 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  24 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  25 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  26 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  27 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  28 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 CMO - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: CMO > 0 = Long
+🎯 Threshold: 0.0
+📊 Parameter: CMO-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  17 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥈 Parameter:  18 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥉 Parameter:  19 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:  20 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:  21 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  22 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  23 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  24 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  25 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  26 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 MFI - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: MFI > 50 = Long
+🎯 Threshold: 50.0
+📊 Parameter: MFI-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  14 | Sharpe:  1.458±5.619 | Return:   -1.2% | DD:   6.0% | Win: 50.0% | Tests:  3 | Score: 1.623
+🥈 Parameter:  20 | Sharpe:  1.673±2.898 | Return:    0.7% | DD:   0.0% | Win: 33.3% | Tests:  3 | Score: 1.203
+🥉 Parameter:  21 | Sharpe: -0.000±5.020 | Return:   -2.9% | DD:   3.0% | Win: 33.3% | Tests:  3 | Score: 0.688
+ 4. Parameter:  13 | Sharpe: -0.000±5.020 | Return:   -5.7% | DD:   5.9% | Win: 33.3% | Tests:  3 | Score: 0.677
+ 5. Parameter:  24 | Sharpe:  1.441±2.495 | Return:    1.3% | DD:   0.0% | Win: 16.7% | Tests:  3 | Score: 0.635
+ 6. Parameter:  44 | Sharpe:  1.441±2.495 | Return:    1.3% | DD:   0.0% | Win: 16.7% | Tests:  3 | Score: 0.635
+ 7. Parameter:  45 | Sharpe:  0.582±1.008 | Return:    0.6% | DD:   0.9% | Win: 16.7% | Tests:  3 | Score: 0.591
+ 8. Parameter: 103 | Sharpe: -0.308±5.489 | Return:   -1.7% | DD:   6.2% | Win: 44.4% | Tests:  3 | Score: 0.092
+ 9. Parameter:  25 | Sharpe: -1.227±3.352 | Return:   -2.6% | DD:   3.9% | Win: 11.1% | Tests:  3 | Score: -0.015
+10. Parameter:  39 | Sharpe: -0.811±1.406 | Return:   -2.1% | DD:   3.6% | Win: 16.7% | Tests:  3 | Score: -0.183
+
+
+================================================================================
+📊 WILLR - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: WILLR > -50 = Long
+🎯 Threshold: -50.0
+📊 Parameter: WILLR-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  97 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥈 Parameter:  98 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+🥉 Parameter:  99 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter: 100 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter: 101 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter: 102 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter: 103 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter: 104 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter: 105 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter: 106 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 DI - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: +DI > -DI = Long
+🎯 Threshold: 0.0
+📊 Parameter: +DI/-DI Matrix
+🧪 Getestete Kombinationen: 22500
+💎 Tests pro Kombination: Ø 3.0
+
+🏆 TOP 10 DI-KOMBINATIONEN:
+------------------------------------------------------------------------------------------
+🥇 +DI( 1) / -DI( 3) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+🥈 +DI( 1) / -DI( 4) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+🥉 +DI( 1) / -DI( 5) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 4. +DI( 1) / -DI( 6) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 5. +DI( 1) / -DI( 7) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 6. +DI( 1) / -DI( 8) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 7. +DI( 1) / -DI( 9) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 8. +DI( 1) / -DI(10) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+ 9. +DI( 1) / -DI(11) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+10. +DI( 1) / -DI(12) | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 MACD - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: MACD > Signal = Long
+🎯 Threshold: 0.0
+📊 Parameter: Fast EMA / Slow EMA Matrix
+🧪 Getestete Kombinationen: 12366
+💎 Tests pro Kombination: Ø 3.0
+
+🏆 TOP 10 MACD-KOMBINATIONEN:
+------------------------------------------------------------------------------------------
+🥇 Fast(13) / Slow(149) | Ratio: 11.5 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+🥈 Fast(13) / Slow(150) | Ratio: 11.5 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+🥉 Fast(13) / Slow(151) | Ratio: 11.6 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 4. Fast(13) / Slow(152) | Ratio: 11.7 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 5. Fast(13) / Slow(153) | Ratio: 11.8 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 6. Fast(13) / Slow(154) | Ratio: 11.8 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 7. Fast(13) / Slow(155) | Ratio: 11.9 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 8. Fast(13) / Slow(156) | Ratio: 12.0 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+ 9. Fast(13) / Slow(157) | Ratio: 12.1 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+10. Fast(13) / Slow(158) | Ratio: 12.2 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Score: 0.200
+
+
+================================================================================
+📊 APO - TOP 10 KALIBRIERUNGEN
+================================================================================
+
+
+================================================================================
+📊 MOM - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: MOM > 0 = Long
+🎯 Threshold: 0.0
+📊 Parameter: MOM-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  20 | Sharpe:  1.673±2.898 | Return:    0.1% | DD:   0.0% | Win: 33.3% | Tests:  3 | Score: 1.202
+🥈 Parameter:  14 | Sharpe:  1.610±2.788 | Return:    1.5% | DD:   0.0% | Win: 22.2% | Tests:  3 | Score: 0.686
+🥉 Parameter: 108 | Sharpe:  0.446±0.772 | Return:    0.4% | DD:   0.9% | Win: 11.1% | Tests:  3 | Score: 0.499
+ 4. Parameter:  84 | Sharpe:  0.620±1.073 | Return:    0.6% | DD:   0.9% | Win: 16.7% | Tests:  3 | Score: 0.385
+ 5. Parameter:  19 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:  23 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  24 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  25 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  26 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  27 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 PPO - TOP 10 KALIBRIERUNGEN
+================================================================================
+
+
+================================================================================
+📊 TRIX - TOP 10 KALIBRIERUNGEN
+================================================================================
+📈 Strategie: TRIX > 0 = Long
+🎯 Threshold: 0.0
+📊 Parameter: TRIX-Länge
+🧪 Getestete Parameter: 146
+💎 Tests pro Parameter: Ø 3.0
+
+🏆 TOP 10 PARAMETER-KALIBRIERUNGEN:
+--------------------------------------------------------------------------------
+🥇 Parameter:  38 | Sharpe:  1.441±2.495 | Return:    1.3% | DD:   0.0% | Win: 16.7% | Tests:  3 | Score: 0.635
+🥈 Parameter:  39 | Sharpe:  0.446±0.772 | Return:    0.4% | DD:   0.9% | Win: 11.1% | Tests:  3 | Score: 0.499
+🥉 Parameter:   6 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 4. Parameter:   7 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 5. Parameter:   8 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 6. Parameter:   9 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 7. Parameter:  10 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 8. Parameter:  11 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+ 9. Parameter:  12 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+10. Parameter:  13 | Sharpe:  0.000±0.000 | Return:    0.0% | DD:   0.0% | Win:  0.0% | Tests:  3 | Score: 0.200
+
+
+================================================================================
+📊 ADOSC - TOP 10 KALIBRIERUNGEN
+================================================================================
+
+
+================================================================================
+🏁 TOP KALIBRIERUNGEN ANALYSE ABGESCHLOSSEN
+================================================================================

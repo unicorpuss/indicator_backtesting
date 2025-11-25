@@ -1,0 +1,35 @@
+================================================================================
+🎯 RSI-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:30:20
+
+🥇 Beste Durchschnittliche RSI-Länge (Kombiniert): RSI-12
+   📊 Avg Sharpe: 1.187 | Avg Return: 2.5% | Avg DD: 2.4%
+   📈 Avg Sortino: 1.667 | Avg Win Rate: 16.7% | Score: 1.000
+
+📈 Beste Durchschnitts-RSIs nach Metriken:
+   • Sharpe Ratio: RSI-12 (Ø 1.187)
+   • Total Return: RSI-12 (Ø 2.5%)
+   • Sortino Ratio: RSI-10 (Ø 1.667)
+
+💡 RSI STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 RSI LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn RSI > 50 (bullisher Momentum)
+   • Cash-Position wenn RSI <= 50 (neutraler/bearisher Momentum)
+   • Kürzere RSI-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere RSI-Perioden: Weniger Trades, stabilere Signale
+   • RSI-50 als Mittellinie für Trend-Bestimmung
+
+🎯 RSI PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE RSI-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: RSI-12 (Score: 1.000)
+   📈 Höchste Sharpe Ratio: RSI-12 (1.187)
+   📈 Höchste Total Return: RSI-12 (2.5%)
+   📈 Höchste Sortino Ratio: RSI-10 (1.667)
+   🛡️ Niedrigster Drawdown: RSI-12 (2.4%)
+
+====================================================================
+🏁 RSI-ANALYSE ABGESCHLOSSEN
+====================================================================

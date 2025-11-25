@@ -1,0 +1,73 @@
+================================================================================
+📊 FSVZO BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 22:03:35
+📈 Assets getestet: 3
+📏 FSVZO-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: FSVZO Long-Only Strategy (VZO > Signal = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | FSVZO-47 | Sharpe Ratio:    1.822 | Return:     3.3% | Trades:   11
+#2. XMR    | FSVZO-48 | Sharpe Ratio:    1.822 | Return:     3.3% | Trades:   11
+#3. XMR    | FSVZO-49 | Sharpe Ratio:    1.822 | Return:     3.3% | Trades:   11
+#4. XMR    | FSVZO-50 | Sharpe Ratio:    1.822 | Return:     3.3% | Trades:   11
+#5. XMR    | FSVZO-51 | Sharpe Ratio:    1.822 | Return:     3.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | FSVZO-47 | Sortino Ratio:    3.626 | Return:     3.3% | Trades:   11
+#2. XMR    | FSVZO-48 | Sortino Ratio:    3.626 | Return:     3.3% | Trades:   11
+#3. XMR    | FSVZO-49 | Sortino Ratio:    3.626 | Return:     3.3% | Trades:   11
+#4. XMR    | FSVZO-50 | Sortino Ratio:    3.626 | Return:     3.3% | Trades:   11
+#5. XMR    | FSVZO-51 | Sortino Ratio:    3.626 | Return:     3.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. XMR    | FSVZO-47 | Omega Ratio:    1.346 | Return:     3.3% | Trades:   11
+#2. XMR    | FSVZO-48 | Omega Ratio:    1.346 | Return:     3.3% | Trades:   11
+#3. XMR    | FSVZO-49 | Omega Ratio:    1.346 | Return:     3.3% | Trades:   11
+#4. XMR    | FSVZO-50 | Omega Ratio:    1.346 | Return:     3.3% | Trades:   11
+#5. XMR    | FSVZO-51 | Omega Ratio:    1.346 | Return:     3.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | FSVZO-47 | Calmar Ratio:   10.586 | Return:     3.3% | Trades:   11
+#2. XMR    | FSVZO-48 | Calmar Ratio:   10.586 | Return:     3.3% | Trades:   11
+#3. XMR    | FSVZO-49 | Calmar Ratio:   10.586 | Return:     3.3% | Trades:   11
+#4. XMR    | FSVZO-50 | Calmar Ratio:   10.586 | Return:     3.3% | Trades:   11
+#5. XMR    | FSVZO-51 | Calmar Ratio:   10.586 | Return:     3.3% | Trades:   11
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | FSVZO-47 | Total Return:    0.033 | Return:     3.3% | Trades:   11
+#2. XMR    | FSVZO-48 | Total Return:    0.033 | Return:     3.3% | Trades:   11
+#3. XMR    | FSVZO-49 | Total Return:    0.033 | Return:     3.3% | Trades:   11
+#4. XMR    | FSVZO-50 | Total Return:    0.033 | Return:     3.3% | Trades:   11
+#5. XMR    | FSVZO-51 | Total Return:    0.033 | Return:     3.3% | Trades:   11
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste FSVZO pro Asset)
+------------------------------------------------------------
+UNI   : Beste FSVZO-148 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+XMR   : Beste FSVZO-47 | Sharpe:   1.82 | Return:    3.3% | DD:   7.2%
+AAVE  : Beste FSVZO-61 | Sharpe:  -2.28 | Return:   -5.0% | DD:  10.6%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -3.891 | Std=  3.951 | Max=  1.822 | Min= -8.353
+Total Return   : Mean= -0.054 | Std=  0.072 | Max=  0.033 | Min= -0.190
+Max Drawdown   : Mean=  0.095 | Std=  0.059 | Max=  0.229 | Min=  0.000
+Win Rate       : Mean=  0.177 | Std=  0.200 | Max=  0.455 | Min=  0.000
+
+💡 FSVZO EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit FSVZO-47 (Sharpe: 1.82)
+🎯 Konsistenteste Strategie: XMR mit FSVZO-5 (Volatilität: 38.4%)
+💰 Höchste Returns: UNI mit FSVZO-148 (Return: 0.0%)

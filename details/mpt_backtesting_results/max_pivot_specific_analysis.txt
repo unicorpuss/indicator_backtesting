@@ -1,0 +1,38 @@
+================================================================================
+🎯 MAX_PIVOT-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-07 00:01:41
+
+🥇 Beste Durchschnittliche MAX_PIVOT-Länge (Kombiniert): MAX_PIVOT-6
+   📊 Avg Sharpe: 0.507 | Avg Return: 29.9% | Avg DD: 86.2%
+   📈 Avg Sortino: 0.722 | Avg Win Rate: 49.7% | Score: 0.912
+
+📈 Beste Durchschnitts-MAX_PIVOTs nach Metriken:
+   • Sharpe Ratio: MAX_PIVOT-6 (Ø 0.507)
+   • Total Return: MAX_PIVOT-23 (Ø 35.1%)
+   • Sortino Ratio: MAX_PIVOT-4 (Ø 0.752)
+
+💡 MAX_PIVOT STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 MAX_PIVOT STRATEGIE INSIGHTS:
+   • Multi Pivot Trend: Composite Trend aus mehreren Pivot-Längen
+   • Long bei starkem Aufwärtstrend (Signal > 0.3)
+   • Short bei starkem Abwärtstrend (Signal < -0.3)
+   • Flat bei schwachem/neutralem Trend (|Signal| ≤ 0.3)
+   • Durchschnitt aus 2 bis max_pivot_length Pivot-Perioden
+   • Robuste Trend-Identifikation durch Multi-Timeframe-Ansatz
+   • Schwellenwert: 0.3
+   • Kürzere MAX_PIVOT-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere MAX_PIVOT-Perioden: Weniger Trades, stabilere Signale
+
+🎯 MAX_PIVOT PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE MAX_PIVOT-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: MAX_PIVOT-6 (Score: 0.912)
+   📈 Höchste Sharpe Ratio: MAX_PIVOT-6 (0.507)
+   💰 Höchste Returns: MAX_PIVOT-23 (35.1%)
+   🛡️ Niedrigster Drawdown: MAX_PIVOT-3 (85.9%)
+
+====================================================================
+🏁 MAX_PIVOT-ANALYSE ABGESCHLOSSEN
+====================================================================

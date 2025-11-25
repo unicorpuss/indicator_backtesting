@@ -1,0 +1,27 @@
+================================================================================
+🎯 HULLSUITE-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:18:58
+
+🥇 Beste Durchschnittliche Hull-Länge (Kombiniert): HULL-46
+   📊 Avg Sharpe: 0.000 | Avg Return: 0.0% | Avg DD: 0.0%
+   📈 Avg Sortino: 0.000 | Avg Win Rate: 0.0% | Score: 0.850
+
+📈 Beste Durchschnitts-Hulls nach Metriken:
+   • Sharpe Ratio: HULL-46 (Ø 0.000)
+   • Total Return: HULL-46 (Ø 0.0%)
+   • Sortino Ratio: HULL-42 (Ø 0.000)
+
+💡 HULLSUITE STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 HULLSUITE LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn MHULL > SHULL (aktueller HMA über verzögertem HMA)
+   • Cash-Position wenn MHULL <= SHULL (aktueller HMA unter verzögertem HMA)
+   • Hull Moving Average reduziert Lag gegenüber SMA/EMA
+   • MHULL = HMA[0], SHULL = HMA[2] (2-Perioden Shift)
+   • HMA = WMA(2*WMA(n/2) - WMA(n), sqrt(n))
+   • Kürzere Hull-Perioden: Schnellere Trend-Erkennung, mehr Whipsaws
+   • Längere Hull-Perioden: Stabilere Trends, weniger Fehlsignale
+   • Besonders effektiv in klaren Trendphasen mit geringem Noise
+
+================================================================================

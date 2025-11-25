@@ -1,0 +1,73 @@
+================================================================================
+📊 CMO BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:31:22
+📈 Assets getestet: 3
+📏 CMO-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: CMO Long-Only Strategy (CMO > 0 = Long, CMO <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | CMO-10 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#2. XMR    | CMO-11 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#3. XMR    | CMO-12 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#4. XMR    | CMO-13 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+#5. XMR    | CMO-14 | Sharpe Ratio:    3.560 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | CMO-10 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#2. XMR    | CMO-11 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#3. XMR    | CMO-12 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#4. XMR    | CMO-13 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#5. XMR    | CMO-14 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. XMR    | CMO-10 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#2. XMR    | CMO-11 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#3. XMR    | CMO-12 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#4. XMR    | CMO-13 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+#5. XMR    | CMO-14 | Omega Ratio:    1.729 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | CMO-10 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#2. XMR    | CMO-11 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#3. XMR    | CMO-12 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#4. XMR    | CMO-13 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+#5. XMR    | CMO-14 | Calmar Ratio:   22.290 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | CMO-10 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#2. XMR    | CMO-11 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#3. XMR    | CMO-12 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#4. XMR    | CMO-13 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+#5. XMR    | CMO-14 | Total Return:    0.074 | Return:     7.4% | Trades:   12
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste CMO pro Asset)
+------------------------------------------------------------
+UNI   : Beste CMO-11 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+XMR   : Beste CMO-10 | Sharpe:   3.56 | Return:    7.4% | DD:   7.2%
+AAVE  : Beste CMO-12 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.990 | Std=  2.065 | Max=  3.560 | Min= -7.657
+Total Return   : Mean=  0.022 | Std=  0.042 | Max=  0.074 | Min= -0.211
+Max Drawdown   : Mean=  0.027 | Std=  0.038 | Max=  0.201 | Min=  0.000
+Win Rate       : Mean=  0.166 | Std=  0.235 | Max=  0.500 | Min=  0.000
+
+💡 CMO EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit CMO-10 (Sharpe: 3.56)
+🎯 Konsistenteste Strategie: XMR mit CMO-5 (Volatilität: 42.6%)
+💰 Höchste Returns: XMR mit CMO-5 (Return: 3.7%)

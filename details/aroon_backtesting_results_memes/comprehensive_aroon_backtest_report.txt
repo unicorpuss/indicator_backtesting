@@ -1,0 +1,73 @@
+================================================================================
+📊 AROON BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:45:16
+📈 Assets getestet: 4
+📏 AROON-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: Aroon Oscillator Long-Only Strategy (Aroon > 0 = Long, Aroon <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SHIB   | AROON- 8 | Sharpe Ratio:    4.583 | Return:    10.0% | Trades:    1
+#2. DOGE   | AROON-15 | Sharpe Ratio:    4.565 | Return:     2.1% | Trades:    3
+#3. SHIB   | AROON- 9 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#4. SHIB   | AROON-10 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#5. SHIB   | AROON-11 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SHIB   | AROON- 8 | Sortino Ratio:    5.000 | Return:    10.0% | Trades:    1
+#2. BONK   | AROON- 5 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+#3. SHIB   | AROON- 5 | Sortino Ratio:    0.000 | Return:   -10.0% | Trades:    1
+#4. PEPE   | AROON- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#5. BONK   | AROON- 6 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SHIB   | AROON- 8 | Omega Ratio:   10.000 | Return:    10.0% | Trades:    1
+#2. DOGE   | AROON-15 | Omega Ratio:    6.593 | Return:     2.1% | Trades:    3
+#3. SHIB   | AROON- 9 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#4. SHIB   | AROON-10 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#5. SHIB   | AROON-11 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. DOGE   | AROON-15 | Calmar Ratio:  117.458 | Return:     2.1% | Trades:    3
+#2. SHIB   | AROON- 9 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#3. SHIB   | AROON-10 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#4. SHIB   | AROON-11 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#5. SHIB   | AROON-12 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SHIB   | AROON- 8 | Total Return:    0.100 | Return:    10.0% | Trades:    1
+#2. DOGE   | AROON-15 | Total Return:    0.021 | Return:     2.1% | Trades:    3
+#3. SHIB   | AROON- 6 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. SHIB   | AROON- 7 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. SHIB   | AROON- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    2
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste AROON pro Asset)
+------------------------------------------------------------
+BONK  : Beste AROON-11 | Sharpe:   0.21 | Return:    0.0% | DD:   6.7%
+DOGE  : Beste AROON-15 | Sharpe:   4.57 | Return:    2.1% | DD:   0.4%
+SHIB  : Beste AROON- 8 | Sharpe:   4.58 | Return:   10.0% | DD:   0.0%
+PEPE  : Beste AROON-18 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.276 | Std=  1.244 | Max=  4.583 | Min= -8.992
+Total Return   : Mean= -0.006 | Std=  0.029 | Max=  0.100 | Min= -0.265
+Max Drawdown   : Mean=  0.008 | Std=  0.031 | Max=  0.265 | Min=  0.000
+Win Rate       : Mean=  0.013 | Std=  0.084 | Max=  1.000 | Min=  0.000
+
+💡 AROON EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SHIB mit AROON-8 (Sharpe: 4.58)
+🎯 Konsistenteste Strategie: DOGE mit AROON-15 (Volatilität: 9.7%)

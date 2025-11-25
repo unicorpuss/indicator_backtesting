@@ -1,0 +1,87 @@
+================================================================================
+📊 WILLR BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-16 05:24:56
+📈 Assets getestet: 17
+📏 WILLR-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: Williams %R Long-Only Strategy (WILLR > -50 = Long, WILLR <= -50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. TAO    | WILLR-19 | Sharpe Ratio:    1.529 | Return:   134.1% | Trades:  417
+#2. TAO    | WILLR-17 | Sharpe Ratio:    1.484 | Return:   127.3% | Trades:  423
+#3. SOL    | WILLR-37 | Sharpe Ratio:    1.478 | Return:   130.6% | Trades: 1003
+#4. SOL    | WILLR-47 | Sharpe Ratio:    1.475 | Return:   130.4% | Trades: 1006
+#5. TAO    | WILLR-20 | Sharpe Ratio:    1.470 | Return:   124.8% | Trades:  415
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | WILLR-66 | Sortino Ratio:    2.418 | Return:   107.1% | Trades:  428
+#2. SUI    | WILLR-65 | Sortino Ratio:    2.400 | Return:   106.1% | Trades:  426
+#3. SUI    | WILLR-64 | Sortino Ratio:    2.393 | Return:   105.4% | Trades:  424
+#4. SUI    | WILLR-61 | Sortino Ratio:    2.376 | Return:   103.2% | Trades:  427
+#5. SUI    | WILLR-58 | Sortino Ratio:    2.368 | Return:   102.8% | Trades:  426
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | WILLR- 5 | Omega Ratio:    1.531 | Return:    88.6% | Trades: 1512
+#2. TAO    | WILLR-19 | Omega Ratio:    1.498 | Return:   134.1% | Trades:  417
+#3. TRX    | WILLR- 7 | Omega Ratio:    1.490 | Return:    77.8% | Trades: 1492
+#4. TRX    | WILLR- 6 | Omega Ratio:    1.483 | Return:    76.8% | Trades: 1501
+#5. TAO    | WILLR-17 | Omega Ratio:    1.474 | Return:   127.3% | Trades:  423
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | WILLR-47 | Calmar Ratio:    2.167 | Return:   104.4% | Trades:  420
+#2. TAO    | WILLR-17 | Calmar Ratio:    2.161 | Return:   127.3% | Trades:  423
+#3. TAO    | WILLR-19 | Calmar Ratio:    2.140 | Return:   134.1% | Trades:  417
+#4. TAO    | WILLR-13 | Calmar Ratio:    2.118 | Return:   118.0% | Trades:  437
+#5. TAO    | WILLR-18 | Calmar Ratio:    2.053 | Return:   117.9% | Trades:  416
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SUI    | WILLR-105 | Total Return:    2.995 | Return:   299.5% | Trades:  452
+#2. SUI    | WILLR-106 | Total Return:    2.995 | Return:   299.5% | Trades:  452
+#3. SUI    | WILLR-104 | Total Return:    2.993 | Return:   299.3% | Trades:  455
+#4. AVAX   | WILLR-113 | Total Return:    2.991 | Return:   299.1% | Trades:  656
+#5. TAO    | WILLR-43 | Total Return:    2.985 | Return:   298.5% | Trades:  387
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste WILLR pro Asset)
+------------------------------------------------------------
+XRP   : Beste WILLR- 6 | Sharpe:   0.87 | Return:   50.9% | DD:  75.2%
+ETH   : Beste WILLR-21 | Sharpe:   1.01 | Return:   46.8% | DD:  47.7%
+ALGO  : Beste WILLR-127 | Sharpe:   0.74 | Return:   31.4% | DD:  64.2%
+VET   : Beste WILLR-37 | Sharpe:   1.03 | Return:   57.8% | DD:  55.6%
+ATOM  : Beste WILLR-75 | Sharpe:   0.50 | Return:  208.3% | DD:  71.7%
+POL   : Beste WILLR-37 | Sharpe:   0.56 | Return:   50.8% | DD:  40.9%
+TAO   : Beste WILLR-19 | Sharpe:   1.53 | Return:  134.1% | DD:  51.4%
+LTC   : Beste WILLR-21 | Sharpe:   0.85 | Return:   41.7% | DD:  59.4%
+XLM   : Beste WILLR-13 | Sharpe:   1.03 | Return:   65.6% | DD:  69.0%
+AVAX  : Beste WILLR-12 | Sharpe:   1.24 | Return:   95.1% | DD:  58.6%
+LINK  : Beste WILLR- 9 | Sharpe:   1.05 | Return:   66.4% | DD:  60.3%
+ADA   : Beste WILLR-21 | Sharpe:   1.14 | Return:   79.9% | DD:  70.3%
+TRX   : Beste WILLR- 5 | Sharpe:   1.06 | Return:   88.6% | DD:  56.4%
+SUI   : Beste WILLR-66 | Sharpe:   1.40 | Return:  107.1% | DD:  48.5%
+SOL   : Beste WILLR-37 | Sharpe:   1.48 | Return:  130.6% | DD:  66.5%
+BNB   : Beste WILLR- 6 | Sharpe:   1.19 | Return:   77.6% | DD:  63.1%
+BTC   : Beste WILLR-14 | Sharpe:   1.22 | Return:   48.6% | DD:  45.8%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.660 | Std=  0.387 | Max=  1.529 | Min= -0.864
+Total Return   : Mean=  0.593 | Std=  0.757 | Max=  2.995 | Min= -0.805
+Max Drawdown   : Mean=  0.729 | Std=  0.117 | Max=  0.955 | Min=  0.347
+Win Rate       : Mean=  0.498 | Std=  0.020 | Max=  0.544 | Min=  0.441
+
+💡 WILLR EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: TAO mit WILLR-19 (Sharpe: 1.53)
+🎯 Konsistenteste Strategie: BTC mit WILLR-18 (Volatilität: 38.3%)
+💰 Höchste Returns: TRX mit WILLR-56 (Return: 298.0%)

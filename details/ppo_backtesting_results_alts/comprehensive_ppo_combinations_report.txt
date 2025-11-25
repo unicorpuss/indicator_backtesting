@@ -1,0 +1,58 @@
+================================================================================
+📊 PPO KOMBINATIONEN ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:51:35
+📋 Getestete Kombinationen: 33945
+💎 Assets: 3
+🔢 PPO-Kombinationen: 11315
+
+🥇 TOP 10 BESTE PPO-KOMBINATIONEN (Sharpe Ratio):
+------------------------------------------------------------
+ 1. Fast(24) / Slow(25) | xmr  | Sharpe: 0.496 | Return: 16.7% | DD: 2.0% | Ratio: 1.0
+ 2. Fast(24) / Slow(26) | xmr  | Sharpe: 0.496 | Return: 16.7% | DD: 2.0% | Ratio: 1.1
+ 3. Fast(18) / Slow(28) | xmr  | Sharpe: 0.457 | Return: 15.8% | DD: 2.8% | Ratio: 1.6
+ 4. Fast(18) / Slow(29) | xmr  | Sharpe: 0.457 | Return: 15.8% | DD: 2.8% | Ratio: 1.6
+ 5. Fast(23) / Slow(26) | xmr  | Sharpe: 0.390 | Return: 12.2% | DD: 2.0% | Ratio: 1.1
+ 6. Fast(24) / Slow(27) | xmr  | Sharpe: 0.385 | Return: 12.5% | DD: 2.1% | Ratio: 1.1
+ 7. Fast(25) / Slow(26) | xmr  | Sharpe: 0.372 | Return: 12.2% | DD: 2.1% | Ratio: 1.0
+ 8. Fast(25) / Slow(27) | xmr  | Sharpe: 0.372 | Return: 12.2% | DD: 2.1% | Ratio: 1.1
+ 9. Fast(19) / Slow(28) | xmr  | Sharpe: 0.358 | Return: 11.7% | DD: 2.8% | Ratio: 1.5
+10. Fast(18) / Slow(27) | xmr  | Sharpe: 0.352 | Return: 11.0% | DD: 2.8% | Ratio: 1.5
+
+🎯 TOP 10 BESTE DURCHSCHNITTS-KOMBINATIONEN:
+------------------------------------------------------------
+ 1. Fast(18) / Slow(28) | Avg Sharpe: 0.152 | Avg Return: 5.3% | Ratio: 1.6 | Score: 0.362
+ 2. Fast(18) / Slow(29) | Avg Sharpe: 0.152 | Avg Return: 5.3% | Ratio: 1.6 | Score: 0.362
+ 3. Fast(25) / Slow(26) | Avg Sharpe: 0.270 | Avg Return: 7.0% | Ratio: 1.0 | Score: 0.352
+ 4. Fast(25) / Slow(30) | Avg Sharpe: 0.074 | Avg Return: 2.3% | Ratio: 1.2 | Score: 0.332
+ 5. Fast(24) / Slow(28) | Avg Sharpe: 0.070 | Avg Return: 2.1% | Ratio: 1.2 | Score: 0.325
+ 6. Fast(20) / Slow(32) | Avg Sharpe: 0.101 | Avg Return: 4.0% | Ratio: 1.6 | Score: 0.323
+ 7. Fast(43) / Slow(44) | Avg Sharpe: 0.101 | Avg Return: 4.0% | Ratio: 1.0 | Score: 0.323
+ 8. Fast(43) / Slow(45) | Avg Sharpe: 0.101 | Avg Return: 4.0% | Ratio: 1.1 | Score: 0.323
+ 9. Fast(19) / Slow(28) | Avg Sharpe: 0.119 | Avg Return: 3.9% | Ratio: 1.5 | Score: 0.322
+10. Fast(19) / Slow(31) | Avg Sharpe: 0.098 | Avg Return: 3.8% | Ratio: 1.6 | Score: 0.319
+
+⚖️ ANALYSE NACH PERIOD-RATIOS:
+------------------------------------------------------------
+📊 Enge Ratios (1.0-2.0): 5913 Kombinationen
+   • Avg Sharpe: -0.008 | Avg Return: -1.6% | Avg DD: 5.7%
+📊 Moderate Ratios (2.0-3.0): 2018 Kombinationen
+   • Avg Sharpe: 0.048 | Avg Return: 2.0% | Avg DD: 2.2%
+📊 Weite Ratios (3.0-5.0): 1602 Kombinationen
+   • Avg Sharpe: 0.053 | Avg Return: 2.4% | Avg DD: 2.4%
+📊 Sehr weite Ratios (5.0-10.0): 1166 Kombinationen
+   • Avg Sharpe: 0.055 | Avg Return: 2.5% | Avg DD: 2.4%
+📊 Extreme Ratios (>10.0): 616 Kombinationen
+   • Avg Sharpe: 0.055 | Avg Return: 2.5% | Avg DD: 2.4%
+
+🎪 KLASSISCHE PPO-KALIBRIERUNGEN:
+------------------------------------------------------------
+• Fast(12) / Slow(26): Sharpe 0.043 | Return 1.6% | DD 1.3% | Ratio 2.2
+• Fast( 8) / Slow(21): Sharpe -0.033 | Return -2.8% | DD 7.0% | Ratio 2.6
+• Fast( 5) / Slow(35): Sharpe 0.055 | Return 2.5% | DD 2.4% | Ratio 7.0
+• Fast( 9) / Slow(18): Sharpe -0.044 | Return -4.1% | DD 8.6% | Ratio 2.0
+• Fast(14) / Slow(30): Sharpe 0.039 | Return 1.8% | DD 2.4% | Ratio 2.1
+
+====================================================================
+🏁 PPO-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

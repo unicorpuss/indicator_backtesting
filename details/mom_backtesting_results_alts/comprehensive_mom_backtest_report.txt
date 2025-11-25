@@ -1,0 +1,73 @@
+================================================================================
+📊 MOM BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:48:14
+📈 Assets getestet: 3
+📏 MOM-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: MOM Long-Only Strategy (MOM > 0 = Long, MOM <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. XMR    | MOM-148 | Sharpe Ratio:    6.047 | Return:    11.0% | Trades:    8
+#2. XMR    | MOM-147 | Sharpe Ratio:    5.550 | Return:    11.2% | Trades:    9
+#3. XMR    | MOM-20 | Sharpe Ratio:    5.148 | Return:     9.6% | Trades:   10
+#4. UNI    | MOM-21 | Sharpe Ratio:    4.583 | Return:     0.1% | Trades:    1
+#5. XMR    | MOM-141 | Sharpe Ratio:    4.537 | Return:     8.0% | Trades:   10
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. XMR    | MOM- 8 | Sortino Ratio:    5.000 | Return:     5.6% | Trades:   10
+#2. XMR    | MOM-10 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#3. XMR    | MOM-11 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#4. XMR    | MOM-12 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+#5. XMR    | MOM-13 | Sortino Ratio:    5.000 | Return:     7.4% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. UNI    | MOM-21 | Omega Ratio:   10.000 | Return:     0.1% | Trades:    1
+#2. XMR    | MOM-148 | Omega Ratio:    3.185 | Return:    11.0% | Trades:    8
+#3. UNI    | MOM-14 | Omega Ratio:    3.057 | Return:     4.4% | Trades:    3
+#4. UNI    | MOM-15 | Omega Ratio:    3.003 | Return:     4.3% | Trades:    2
+#5. XMR    | MOM-147 | Omega Ratio:    2.635 | Return:    11.2% | Trades:    9
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. XMR    | MOM-148 | Calmar Ratio:   81.533 | Return:    11.0% | Trades:    8
+#2. XMR    | MOM-147 | Calmar Ratio:   58.644 | Return:    11.2% | Trades:    9
+#3. XMR    | MOM-20 | Calmar Ratio:   54.263 | Return:     9.6% | Trades:   10
+#4. XMR    | MOM-141 | Calmar Ratio:   45.385 | Return:     8.0% | Trades:   10
+#5. XMR    | MOM-107 | Calmar Ratio:   43.534 | Return:     7.6% | Trades:    9
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XMR    | MOM-147 | Total Return:    0.112 | Return:    11.2% | Trades:    9
+#2. XMR    | MOM-148 | Total Return:    0.110 | Return:    11.0% | Trades:    8
+#3. XMR    | MOM-20 | Total Return:    0.096 | Return:     9.6% | Trades:   10
+#4. XMR    | MOM-18 | Total Return:    0.092 | Return:     9.2% | Trades:   11
+#5. XMR    | MOM-141 | Total Return:    0.080 | Return:     8.0% | Trades:   10
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste MOM pro Asset)
+------------------------------------------------------------
+UNI   : Beste MOM-21 | Sharpe:   4.58 | Return:    0.1% | DD:   0.0%
+XMR   : Beste MOM-148 | Sharpe:   6.05 | Return:   11.0% | DD:   2.8%
+AAVE  : Beste MOM-20 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.362 | Std=  2.724 | Max=  6.047 | Min= -8.129
+Total Return   : Mean=  0.010 | Std=  0.051 | Max=  0.112 | Min= -0.219
+Max Drawdown   : Mean=  0.035 | Std=  0.044 | Max=  0.245 | Min=  0.000
+Win Rate       : Mean=  0.178 | Std=  0.232 | Max=  1.000 | Min=  0.000
+
+💡 MOM EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: XMR mit MOM-148 (Sharpe: 6.05)
+🎯 Konsistenteste Strategie: UNI mit MOM-21 (Volatilität: 0.6%)
+💰 Höchste Returns: XMR mit MOM-147 (Return: 11.2%)

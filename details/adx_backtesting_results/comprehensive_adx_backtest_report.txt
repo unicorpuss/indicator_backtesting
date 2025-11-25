@@ -1,0 +1,87 @@
+================================================================================
+📊 ADX BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-17 02:15:17
+📈 Assets getestet: 17
+📏 ADX-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: ADX Long-Only Strategy (ADX > 25 = Long, ADX <= 25 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. TAO    | ADX-11 | Sharpe Ratio:    1.622 | Return:   155.1% | Trades:  472
+#2. TAO    | ADX-10 | Sharpe Ratio:    1.583 | Return:   155.8% | Trades:  530
+#3. TAO    | ADX-12 | Sharpe Ratio:    1.547 | Return:   134.0% | Trades:  421
+#4. TAO    | ADX- 8 | Sharpe Ratio:    1.445 | Return:   143.1% | Trades:  646
+#5. POL    | ADX-48 | Sharpe Ratio:    1.443 | Return:    67.5% | Trades:   21
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. TAO    | ADX-10 | Sortino Ratio:    2.454 | Return:   155.8% | Trades:  530
+#2. TAO    | ADX- 8 | Sortino Ratio:    2.388 | Return:   143.1% | Trades:  646
+#3. TAO    | ADX-11 | Sortino Ratio:    2.381 | Return:   155.1% | Trades:  472
+#4. TAO    | ADX- 5 | Sortino Ratio:    2.246 | Return:   101.7% | Trades:  845
+#5. TAO    | ADX-12 | Sortino Ratio:    2.110 | Return:   134.0% | Trades:  421
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. POL    | ADX-50 | Omega Ratio:  128.116 | Return:    38.6% | Trades:    8
+#2. SUI    | ADX-82 | Omega Ratio:   10.000 | Return:     0.7% | Trades:    1
+#3. AVAX   | ADX-138 | Omega Ratio:   10.000 | Return:     6.3% | Trades:    1
+#4. ATOM   | ADX-69 | Omega Ratio:    6.681 | Return:    15.7% | Trades:    6
+#5. POL    | ADX-48 | Omega Ratio:    5.994 | Return:    67.5% | Trades:   21
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. POL    | ADX-50 | Calmar Ratio:   51.918 | Return:    38.6% | Trades:    8
+#2. POL    | ADX-47 | Calmar Ratio:    3.847 | Return:    71.5% | Trades:   27
+#3. POL    | ADX-48 | Calmar Ratio:    3.636 | Return:    67.5% | Trades:   21
+#4. TAO    | ADX-12 | Calmar Ratio:    2.626 | Return:   134.0% | Trades:  421
+#5. TAO    | ADX-11 | Calmar Ratio:    2.584 | Return:   155.1% | Trades:  472
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BTC    | ADX-48 | Total Return:    2.995 | Return:   299.5% | Trades:  596
+#2. XLM    | ADX-14 | Total Return:    2.992 | Return:   299.2% | Trades: 1676
+#3. SUI    | ADX-10 | Total Return:    2.986 | Return:   298.6% | Trades:  508
+#4. TRX    | ADX-22 | Total Return:    2.985 | Return:   298.5% | Trades:  901
+#5. SUI    | ADX-33 | Total Return:    2.971 | Return:   297.1% | Trades:  167
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste ADX pro Asset)
+------------------------------------------------------------
+XRP   : Beste ADX-11 | Sharpe:   0.86 | Return:   48.3% | DD:  88.9%
+ETH   : Beste ADX- 6 | Sharpe:   0.68 | Return:   25.6% | DD:  77.4%
+ALGO  : Beste ADX-141 | Sharpe:   0.82 | Return:   19.6% | DD:  26.0%
+VET   : Beste ADX- 8 | Sharpe:   0.86 | Return:   44.8% | DD:  78.9%
+ATOM  : Beste ADX-67 | Sharpe:   0.63 | Return:   31.9% | DD:   6.3%
+POL   : Beste ADX-48 | Sharpe:   1.44 | Return:   67.5% | DD:   6.1%
+TAO   : Beste ADX-11 | Sharpe:   1.62 | Return:  155.1% | DD:  46.5%
+LTC   : Beste ADX- 5 | Sharpe:   0.63 | Return:   21.6% | DD:  91.4%
+XLM   : Beste ADX- 7 | Sharpe:   0.89 | Return:   53.8% | DD:  91.3%
+AVAX  : Beste ADX-46 | Sharpe:   1.06 | Return:   60.0% | DD:  61.0%
+LINK  : Beste ADX- 6 | Sharpe:   0.92 | Return:   53.1% | DD:  88.6%
+ADA   : Beste ADX- 7 | Sharpe:   0.81 | Return:   46.6% | DD:  95.6%
+TRX   : Beste ADX- 5 | Sharpe:   0.88 | Return:   59.1% | DD:  92.8%
+SUI   : Beste ADX-34 | Sharpe:   1.34 | Return:   64.8% | DD:  26.8%
+SOL   : Beste ADX-11 | Sharpe:   1.35 | Return:  126.8% | DD:  84.5%
+BNB   : Beste ADX- 5 | Sharpe:   1.10 | Return:   77.8% | DD:  78.7%
+BTC   : Beste ADX-27 | Sharpe:   1.06 | Return:   38.8% | DD:  39.2%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.215 | Std=  0.380 | Max=  1.622 | Min= -1.134
+Total Return   : Mean=  0.244 | Std=  0.676 | Max=  2.995 | Min= -0.876
+Max Drawdown   : Mean=  0.402 | Std=  0.312 | Max=  0.975 | Min=  0.000
+Win Rate       : Mean=  0.334 | Std=  0.232 | Max=  1.000 | Min=  0.000
+
+💡 ADX EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: TAO mit ADX-11 (Sharpe: 1.62)
+🎯 Konsistenteste Strategie: SUI mit ADX-82 (Volatilität: 0.4%)
+💰 Höchste Returns: BTC mit ADX-48 (Return: 299.5%)

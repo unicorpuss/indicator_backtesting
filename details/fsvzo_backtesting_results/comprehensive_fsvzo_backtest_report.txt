@@ -1,0 +1,87 @@
+================================================================================
+📊 FSVZO BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:59:31
+📈 Assets getestet: 17
+📏 FSVZO-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: FSVZO Long-Only Strategy (VZO > Signal = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | FSVZO-42 | Sharpe Ratio:    1.509 | Return:   125.8% | Trades:  909
+#2. SOL    | FSVZO-43 | Sharpe Ratio:    1.498 | Return:   124.1% | Trades:  906
+#3. SOL    | FSVZO-38 | Sharpe Ratio:    1.489 | Return:   123.7% | Trades:  919
+#4. SOL    | FSVZO-49 | Sharpe Ratio:    1.471 | Return:   117.8% | Trades:  887
+#5. SOL    | FSVZO-30 | Sharpe Ratio:    1.468 | Return:   121.4% | Trades:  945
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. AVAX   | FSVZO-14 | Sortino Ratio:    1.830 | Return:   103.1% | Trades:  880
+#2. AVAX   | FSVZO-23 | Sortino Ratio:    1.782 | Return:   102.2% | Trades:  843
+#3. AVAX   | FSVZO-13 | Sortino Ratio:    1.781 | Return:    97.7% | Trades:  887
+#4. AVAX   | FSVZO-15 | Sortino Ratio:    1.776 | Return:    98.8% | Trades:  875
+#5. AVAX   | FSVZO-24 | Sortino Ratio:    1.774 | Return:   101.4% | Trades:  840
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SOL    | FSVZO-42 | Omega Ratio:    1.516 | Return:   125.8% | Trades:  909
+#2. SOL    | FSVZO-43 | Omega Ratio:    1.513 | Return:   124.1% | Trades:  906
+#3. SOL    | FSVZO-38 | Omega Ratio:    1.505 | Return:   123.7% | Trades:  919
+#4. SOL    | FSVZO-49 | Omega Ratio:    1.504 | Return:   117.8% | Trades:  887
+#5. SOL    | FSVZO-45 | Omega Ratio:    1.501 | Return:   118.2% | Trades:  894
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. AVAX   | FSVZO-32 | Calmar Ratio:    1.623 | Return:    99.7% | Trades:  808
+#2. AVAX   | FSVZO-33 | Calmar Ratio:    1.603 | Return:    97.4% | Trades:  805
+#3. SOL    | FSVZO-30 | Calmar Ratio:    1.580 | Return:   121.4% | Trades:  945
+#4. XRP    | FSVZO-14 | Calmar Ratio:    1.578 | Return:    84.0% | Trades: 1356
+#5. SOL    | FSVZO-29 | Calmar Ratio:    1.574 | Return:   120.3% | Trades:  945
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. TAO    | FSVZO-117 | Total Return:    2.998 | Return:   299.8% | Trades:  326
+#2. ATOM   | FSVZO-120 | Total Return:    2.983 | Return:   298.3% | Trades:  893
+#3. ALGO   | FSVZO-42 | Total Return:    2.976 | Return:   297.6% | Trades:  970
+#4. TRX    | FSVZO-113 | Total Return:    2.945 | Return:   294.5% | Trades: 1292
+#5. ALGO   | FSVZO-45 | Total Return:    2.936 | Return:   293.6% | Trades:  968
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste FSVZO pro Asset)
+------------------------------------------------------------
+XRP   : Beste FSVZO-11 | Sharpe:   1.13 | Return:   84.2% | DD:  54.6%
+ETH   : Beste FSVZO-13 | Sharpe:   0.94 | Return:   40.9% | DD:  65.0%
+ALGO  : Beste FSVZO-136 | Sharpe:   0.59 | Return:   20.4% | DD:  79.4%
+VET   : Beste FSVZO-140 | Sharpe:   1.10 | Return:   60.5% | DD:  51.5%
+ATOM  : Beste FSVZO-149 | Sharpe:   0.54 | Return:   15.9% | DD:  68.0%
+POL   : Beste FSVZO-129 | Sharpe:   0.15 | Return:   -3.6% | DD:  43.6%
+TAO   : Beste FSVZO-52 | Sharpe:   1.28 | Return:   86.5% | DD:  63.5%
+LTC   : Beste FSVZO-117 | Sharpe:   0.85 | Return:   40.4% | DD:  62.7%
+XLM   : Beste FSVZO-73 | Sharpe:   1.03 | Return:   58.2% | DD:  64.1%
+AVAX  : Beste FSVZO-14 | Sharpe:   1.30 | Return:  103.1% | DD:  61.3%
+LINK  : Beste FSVZO-127 | Sharpe:   1.14 | Return:   68.3% | DD:  57.8%
+ADA   : Beste FSVZO-141 | Sharpe:   0.94 | Return:   43.3% | DD:  60.2%
+TRX   : Beste FSVZO- 5 | Sharpe:   0.85 | Return:   56.4% | DD:  71.9%
+SUI   : Beste FSVZO-100 | Sharpe:   0.95 | Return:  279.0% | DD:  50.1%
+SOL   : Beste FSVZO-42 | Sharpe:   1.51 | Return:  125.8% | DD:  68.4%
+BNB   : Beste FSVZO- 5 | Sharpe:   1.12 | Return:   68.9% | DD:  72.9%
+BTC   : Beste FSVZO-115 | Sharpe:   1.28 | Return:   48.3% | DD:  44.9%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.766 | Std=  0.362 | Max=  1.509 | Min= -0.548
+Total Return   : Mean=  0.551 | Std=  0.605 | Max=  2.998 | Min= -0.730
+Max Drawdown   : Mean=  0.636 | Std=  0.100 | Max=  0.942 | Min=  0.383
+Win Rate       : Mean=  0.503 | Std=  0.016 | Max=  0.541 | Min=  0.458
+
+💡 FSVZO EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit FSVZO-42 (Sharpe: 1.51)
+🎯 Konsistenteste Strategie: POL mit FSVZO-147 (Volatilität: 34.3%)
+💰 Höchste Returns: TAO mit FSVZO-117 (Return: 299.8%)

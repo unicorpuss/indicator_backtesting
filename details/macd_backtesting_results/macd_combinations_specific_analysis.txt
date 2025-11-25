@@ -1,0 +1,75 @@
+================================================================================
+🎯 MACD KOMBINATIONEN-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-17 21:48:09
+📊 Signal-Periode: 9 (fest)
+⚙️ my_type: 0 (Standard EMA)
+
+🥇 BESTE MACD-KOMBINATION (Kombinierter Score):
+   Fast EMA: 23 / Slow EMA: 114
+   📊 EMA-Verhältnis: 4.96
+   📊 Avg Sharpe: 0.472
+   💰 Avg Return: 858.9%
+   🛡️ Avg Drawdown: 68.9%
+   📈 Avg Sortino: 0.596
+   🎯 Combined Score: 2.100
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: Fast(11) / Slow(150) (Ø 0.497, Ratio: 13.64)
+   • Total Return: Fast(23) / Slow(114) (Ø 858.9%, Ratio: 4.96)
+   • Sortino Ratio: Fast(11) / Slow(150) (Ø 0.649, Ratio: 13.64)
+   • Omega Ratio: Fast(3) / Slow(5) (Ø 1.289, Ratio: 1.67)
+   🛡️ Niedrigster Drawdown: Fast(2) / Slow(9) (Ø 63.1%, Ratio: 4.50)
+
+💡 EMA-VERHÄLTNIS ANALYSE:
+------------------------------------------------------------
+📊 Enge Verhältnisse (1.0-2.0): 5550 Kombinationen
+   • Beste: Fast(36) / Slow(37) Score: 2.025
+   • Ø Score: 1.728
+📊 Klassische Verhältnisse (2.0-3.0): 1899 Kombinationen
+   • Beste: Fast(23) / Slow(62) Score: 2.031
+   • Ø Score: 1.786
+📊 Weite Verhältnisse (3.0-5.0): 1518 Kombinationen
+   • Beste: Fast(23) / Slow(114) Score: 2.100
+   • Ø Score: 1.851
+📊 Sehr weite Verhältnisse (5.0-10.0): 1135 Kombinationen
+   • Beste: Fast(23) / Slow(115) Score: 2.081
+   • Ø Score: 1.865
+📊 Extreme Verhältnisse (>10.0): 924 Kombinationen
+   • Beste: Fast(11) / Slow(150) Score: 2.080
+   • Ø Score: 1.816
+
+📈 KLASSISCHE MACD KALIBRIERUNGEN:
+------------------------------------------------------------
+📊 Standard MACD (12,26,9):
+   • Score: 1.596 | Sharpe: 0.278 | Return: 676.4%
+📊 Schnellerer MACD (8,21,9):
+   • Score: 1.665 | Sharpe: 0.294 | Return: 704.9%
+📊 Aggressiver MACD (5,35,9):
+   • Score: 1.633 | Sharpe: 0.304 | Return: 684.5%
+📊 Konservativer MACD (21,55,9):
+   • Score: 1.792 | Sharpe: 0.377 | Return: 739.7%
+📊 Fibonacci MACD (13,34,9):
+   • Score: 1.602 | Sharpe: 0.295 | Return: 672.3%
+
+🏆 TOP 5 MACD-KOMBINATIONEN:
+------------------------------------------------------------
+1. Fast(23) / Slow(114) | Ratio: 4.96 | Score: 2.100 | Sharpe: 0.472 | Return: 858.9%
+2. Fast(23) / Slow(113) | Ratio: 4.91 | Score: 2.088 | Sharpe: 0.469 | Return: 853.7%
+3. Fast(23) / Slow(115) | Ratio: 5.00 | Score: 2.081 | Sharpe: 0.470 | Return: 849.5%
+4. Fast(11) / Slow(150) | Ratio: 13.64 | Score: 2.080 | Sharpe: 0.497 | Return: 834.5%
+5. Fast(23) / Slow(117) | Ratio: 5.09 | Score: 2.079 | Sharpe: 0.463 | Return: 851.5%
+
+🎯 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+📊 MACD KOMBINATIONEN STRATEGIE INSIGHTS:
+   • EMA-Verhältnis 2.0-3.0: Klassisch bewährt, ausgewogene Signale
+   • Enge Verhältnisse (<2.0): Frühe Signale, mehr Whipsaws
+   • Weite Verhältnisse (>3.0): Späte aber bestätigte Signale
+   • Signal-Periode 9: Standard und bewährt für die meisten Märkte
+   • my_type 0: Standard EMA-Berechnung, keine Glättung
+   • Fibonacci-Kombinationen (z.B. 13,34): Oft mathematisch harmonisch
+
+====================================================================
+🏁 MACD-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

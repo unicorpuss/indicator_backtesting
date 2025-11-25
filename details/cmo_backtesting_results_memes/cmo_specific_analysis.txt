@@ -1,0 +1,37 @@
+================================================================================
+🎯 CMO-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:45:35
+
+🥇 Beste Durchschnittliche CMO-Länge (Kombiniert): CMO-17
+   📊 Avg Sharpe: 0.000 | Avg Return: 0.0% | Avg DD: 0.0%
+   📈 Avg Sortino: 0.000 | Avg Win Rate: 0.0% | Score: 0.925
+
+📈 Beste Durchschnitts-CMOs nach Metriken:
+   • Sharpe Ratio: CMO-17 (Ø 0.000)
+   • Total Return: CMO-17 (Ø 0.0%)
+   • Sortino Ratio: CMO-7 (Ø 0.000)
+
+💡 CMO STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 CMO LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn CMO > 0 (bullisches Momentum)
+   • Cash-Position wenn CMO <= 0 (bearisches Momentum)
+   • CMO über +50: Starker Aufwärtstrend, mögliche Überkauf
+   • CMO unter -50: Starker Abwärtstrend, mögliche Überverkauf
+   • CMO nahe 0: Neutraler/seitlicher Markt
+   • Kürzere CMO-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere CMO-Perioden: Weniger Trades, stabilere Signale
+
+🎯 CMO PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE CMO-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: CMO-17 (Score: 0.925)
+   📈 Höchste Sharpe Ratio: CMO-17 (0.000)
+   📈 Höchste Total Return: CMO-17 (0.0%)
+   📈 Höchste Sortino Ratio: CMO-7 (0.000)
+   🛡️ Niedrigster Drawdown: CMO-17 (0.0%)
+
+====================================================================
+🏁 CMO-ANALYSE ABGESCHLOSSEN
+====================================================================

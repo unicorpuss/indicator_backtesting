@@ -1,0 +1,13 @@
+indicator,description,parameter_type,best_sharpe_ratio,best_return,best_drawdown,combined_score,best_parameter,best_plus_di,best_minus_di,best_fast_ema,best_slow_ema
+EMA,Price > EMA = Long,single_param,3.625,0.1141,0.1043,1.7894700000000001,33,,,,
+RSI,RSI > 50 = Long,single_param,0.0,0.0,0.0,0.2,17,,,,
+CCI,CCI > 0 = Long,single_param,0.0,0.0,0.0,0.2,22,,,,
+ADX,ADX > 25 = Long,single_param,0.1068,0.0,0.0303,0.22598000000000001,32,,,,
+AROON,Aroon > 0 = Long,single_param,0.0,0.0,0.0,0.2,19,,,,
+CMO,CMO > 0 = Long,single_param,0.0,0.0,0.0,0.2,17,,,,
+MFI,MFI > 50 = Long,single_param,1.4576,-0.0117,0.06,1.6229299999999998,14,,,,
+WILLR,WILLR > -50 = Long,single_param,0.0,0.0,0.0,0.2,97,,,,
+DI,+DI > -DI = Long,matrix,0.0,0.0,0.0,0.2,"+DI:1, -DI:3",1.0,3.0,,
+MACD,MACD > Signal = Long,matrix,0.0,0.0,0.0,0.2,"Fast:13, Slow:149",,,13.0,149.0
+MOM,MOM > 0 = Long,single_param,1.6733,0.0015,0.0,1.2022999999999997,20,,,,
+TRIX,TRIX > 0 = Long,single_param,1.4407,0.0134,0.0,0.6348900000000001,38,,,,

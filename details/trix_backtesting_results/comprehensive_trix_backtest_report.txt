@@ -1,0 +1,87 @@
+================================================================================
+📊 TRIX BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-18 22:37:25
+📈 Assets getestet: 17
+📏 TRIX-Längen getestet: 141
+🔢 Gesamt-Kombinationen: 2397
+📋 Strategie: TRIX Long-Only Strategy (TRIX > 0 = Long, TRIX <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | TRIX-86 | Sharpe Ratio:    1.448 | Return:   133.4% | Trades: 1064
+#2. SOL    | TRIX-83 | Sharpe Ratio:    1.443 | Return:   132.4% | Trades: 1077
+#3. SOL    | TRIX-84 | Sharpe Ratio:    1.440 | Return:   131.8% | Trades: 1072
+#4. SOL    | TRIX-82 | Sharpe Ratio:    1.440 | Return:   131.3% | Trades: 1076
+#5. SOL    | TRIX-87 | Sharpe Ratio:    1.437 | Return:   130.7% | Trades: 1060
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | TRIX-13 | Sortino Ratio:    2.132 | Return:    92.6% | Trades:  402
+#2. SUI    | TRIX-14 | Sortino Ratio:    1.962 | Return:    88.1% | Trades:  402
+#3. SOL    | TRIX-83 | Sortino Ratio:    1.928 | Return:   132.4% | Trades: 1077
+#4. SOL    | TRIX-87 | Sortino Ratio:    1.922 | Return:   130.7% | Trades: 1060
+#5. SOL    | TRIX-86 | Sortino Ratio:    1.920 | Return:   133.4% | Trades: 1064
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. BNB    | TRIX-10 | Omega Ratio:    1.433 | Return:    87.0% | Trades: 1609
+#2. SOL    | TRIX-12 | Omega Ratio:    1.431 | Return:   120.4% | Trades: 1029
+#3. SOL    | TRIX-10 | Omega Ratio:    1.426 | Return:   116.8% | Trades: 1020
+#4. SOL    | TRIX-13 | Omega Ratio:    1.424 | Return:   120.0% | Trades: 1044
+#5. BNB    | TRIX-11 | Omega Ratio:    1.422 | Return:    82.1% | Trades: 1601
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | TRIX-13 | Calmar Ratio:    1.762 | Return:    92.6% | Trades:  402
+#2. SUI    | TRIX-19 | Calmar Ratio:    1.714 | Return:    86.1% | Trades:  421
+#3. SOL    | TRIX-84 | Calmar Ratio:    1.629 | Return:   131.8% | Trades: 1072
+#4. SOL    | TRIX-86 | Calmar Ratio:    1.626 | Return:   133.4% | Trades: 1064
+#5. SUI    | TRIX-14 | Calmar Ratio:    1.622 | Return:    88.1% | Trades:  402
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. ADA    | TRIX-137 | Total Return:    2.995 | Return:   299.5% | Trades: 1148
+#2. LTC    | TRIX-147 | Total Return:    2.991 | Return:   299.1% | Trades: 2181
+#3. TRX    | TRIX-32 | Total Return:    2.986 | Return:   298.6% | Trades: 1718
+#4. SUI    | TRIX-26 | Total Return:    2.983 | Return:   298.3% | Trades:  426
+#5. ADA    | TRIX-138 | Total Return:    2.978 | Return:   297.8% | Trades: 1148
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste TRIX pro Asset)
+------------------------------------------------------------
+XRP   : Beste TRIX-115 | Sharpe:   0.75 | Return:   34.5% | DD:  71.2%
+ETH   : Beste TRIX-11 | Sharpe:   0.99 | Return:   46.1% | DD:  60.1%
+ALGO  : Beste TRIX-17 | Sharpe:   0.55 | Return:  240.9% | DD:  74.6%
+VET   : Beste TRIX-12 | Sharpe:   1.11 | Return:   67.1% | DD:  47.4%
+ATOM  : Beste TRIX-26 | Sharpe:   0.50 | Return:  168.8% | DD:  69.2%
+POL   : Beste TRIX-15 | Sharpe:   0.36 | Return:   17.3% | DD:  45.4%
+TAO   : Beste TRIX-30 | Sharpe:   0.90 | Return:  291.7% | DD:  53.9%
+LTC   : Beste TRIX-12 | Sharpe:   0.80 | Return:   37.9% | DD:  74.5%
+XLM   : Beste TRIX-12 | Sharpe:   0.60 | Return:   21.7% | DD:  80.8%
+AVAX  : Beste TRIX-10 | Sharpe:   0.93 | Return:   54.6% | DD:  80.3%
+LINK  : Beste TRIX-120 | Sharpe:   0.85 | Return:   43.6% | DD:  73.7%
+ADA   : Beste TRIX-13 | Sharpe:   1.00 | Return:   54.6% | DD:  70.5%
+TRX   : Beste TRIX-10 | Sharpe:   0.89 | Return:   62.9% | DD:  78.2%
+SUI   : Beste TRIX-13 | Sharpe:   1.34 | Return:   92.6% | DD:  48.1%
+SOL   : Beste TRIX-86 | Sharpe:   1.45 | Return:  133.4% | DD:  71.7%
+BNB   : Beste TRIX-10 | Sharpe:   1.26 | Return:   87.0% | DD:  66.6%
+BTC   : Beste TRIX-13 | Sharpe:   1.17 | Return:   48.2% | DD:  59.3%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.454 | Std=  0.430 | Max=  1.448 | Min= -1.616
+Total Return   : Mean=  0.242 | Std=  0.744 | Max=  2.995 | Min= -0.962
+Max Drawdown   : Mean=  0.775 | Std=  0.171 | Max=  0.978 | Min=  0.000
+Win Rate       : Mean=  0.487 | Std=  0.087 | Max=  0.544 | Min=  0.000
+
+💡 TRIX EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit TRIX-86 (Sharpe: 1.45)
+🎯 Konsistenteste Strategie: BTC mit TRIX-10 (Volatilität: 40.1%)
+💰 Höchste Returns: ADA mit TRIX-137 (Return: 299.5%)

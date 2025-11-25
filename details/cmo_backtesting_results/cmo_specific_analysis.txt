@@ -1,0 +1,53 @@
+================================================================================
+🎯 CMO-SPEZIFISCHE DETAILANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-16 23:32:55
+
+🥇 Beste Durchschnittliche CMO-Länge (Kombiniert): CMO-12
+   📊 Avg Sharpe: 0.885 | Avg Return: 54.1% | Avg DD: 67.0%
+   📈 Avg Sortino: 1.137 | Avg Win Rate: 50.2% | Score: 0.857
+
+📈 Beste Durchschnitts-CMOs nach Metriken:
+   • Sharpe Ratio: CMO-12 (Ø 0.885)
+   • Total Return: CMO-17 (Ø 73.6%)
+   • Sortino Ratio: CMO-12 (Ø 1.137)
+
+💡 CMO STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 CMO LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn CMO > 0 (bullisher Momentum)
+   • Cash-Position wenn CMO <= 0 (bearisher Momentum)
+   • CMO über +50: Starker Aufwärtstrend, mögliche Überkauf
+   • CMO unter -50: Starker Abwärtstrend, mögliche Überverkauf
+   • CMO nahe 0: Neutraler/seitlicher Markt
+   • Kürzere CMO-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere CMO-Perioden: Weniger Trades, stabilere Signale
+
+🎯 CMO PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE CMO-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: CMO-12 (Score: 0.857)
+   📈 Höchste Sharpe Ratio: CMO-12 (0.885)
+   📈 Höchste Total Return: CMO-17 (73.6%)
+   📈 Höchste Sortino Ratio: CMO-12 (1.137)
+   🛡️ Niedrigster Drawdown: CMO-10 (67.0%)
+
+📊 CMO MOMENTUM-ANALYSE
+------------------------------------------------------------
+   📊 Durchschnittlicher CMO-Wert: 1.0
+   📈 Durchschnittliches CMO-Maximum: 79.1
+   📉 Durchschnittliches CMO-Minimum: -57.1
+   ⏰ Durchschnittliche Zeit im Markt: 47.2%
+   🎯 Durchschnittliche Long-Signale: 107.3
+
+💡 MOMENTUM-BASIERTE CMO-INSIGHTS:
+   • CMO misst Momentum über reine Preisveränderungen
+   • Symmetrische Skalierung: -100 bis +100 (vs RSI: 0-100)
+   • Null-Linie als neutrale Zone (kein Momentum)
+   • Schnellere Reaktion auf Preisveränderungen als RSI
+   • Weniger Glättung → mehr Volatilität aber präzisere Signale
+   • Divergenzen zwischen CMO und Preis → Trend-Wendepunkte
+
+====================================================================
+🏁 CMO-DETAILANALYSE ABGESCHLOSSEN
+====================================================================

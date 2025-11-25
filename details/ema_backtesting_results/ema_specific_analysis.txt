@@ -1,0 +1,22 @@
+================================================================================
+🎯 EMA-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-15 23:42:43
+
+🥇 Beste Durchschnittliche EMA-Länge (Kombiniert): EMA-23
+   📊 Avg Sharpe: 0.659 | Avg Return: 76.8% | Avg DD: 83.3%
+   📈 Avg Sortino: 1.013 | Avg Win Rate: 50.1% | Score: 0.940
+
+📈 Beste Durchschnitts-EMAs nach Metriken:
+   • Sharpe Ratio: EMA-23 (Ø 0.659)
+   • Total Return: EMA-23 (Ø 76.8%)
+   • Sortino Ratio: EMA-25 (Ø 1.014)
+
+💡 EMA STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 EMA CROSSOVER STRATEGIE INSIGHTS:
+   • Long-Position wenn Preis > EMA (bullisher Trend)
+   • Short/Cash-Position wenn Preis <= EMA (bearisher Trend)
+   • Kürzere EMA-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere EMA-Perioden: Weniger Trades, stabilere Signale
+   • EMA reagiert schneller auf Preisänderungen als SMA

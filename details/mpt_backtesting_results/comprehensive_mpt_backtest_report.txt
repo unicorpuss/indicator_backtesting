@@ -1,0 +1,87 @@
+================================================================================
+📊 MPT BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-07 00:01:37
+📈 Assets getestet: 17
+📏 MPT-Längen getestet: 24
+🔢 Gesamt-Kombinationen: 408
+📋 Strategie: Multi Pivot Trend Strategy (Signal-based: 1=Long, 0=Flat, -1=Short)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | MPT-15 | Sharpe Ratio:    1.092 | Return:    79.5% | Trades: 1694
+#2. SOL    | MPT-20 | Sharpe Ratio:    1.083 | Return:    78.2% | Trades: 1644
+#3. SUI    | MPT-13 | Sharpe Ratio:    1.076 | Return:    73.9% | Trades:  797
+#4. SOL    | MPT-21 | Sharpe Ratio:    1.063 | Return:    74.8% | Trades: 1638
+#5. SUI    | MPT-19 | Sharpe Ratio:    1.035 | Return:    67.4% | Trades:  799
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | MPT-13 | Sortino Ratio:    1.605 | Return:    73.9% | Trades:  797
+#2. ADA    | MPT- 2 | Sortino Ratio:    1.595 | Return:    66.9% | Trades: 2907
+#3. SUI    | MPT-19 | Sortino Ratio:    1.555 | Return:    67.4% | Trades:  799
+#4. SOL    | MPT-15 | Sortino Ratio:    1.548 | Return:    79.5% | Trades: 1694
+#5. SUI    | MPT-17 | Sortino Ratio:    1.522 | Return:    66.9% | Trades:  774
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | MPT- 3 | Omega Ratio:    1.248 | Return:    46.1% | Trades: 2531
+#2. SOL    | MPT-15 | Omega Ratio:    1.242 | Return:    79.5% | Trades: 1694
+#3. SOL    | MPT-20 | Omega Ratio:    1.242 | Return:    78.2% | Trades: 1644
+#4. SOL    | MPT-21 | Omega Ratio:    1.238 | Return:    74.8% | Trades: 1638
+#5. ADA    | MPT- 3 | Omega Ratio:    1.233 | Return:    55.6% | Trades: 2544
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | MPT-13 | Calmar Ratio:    1.481 | Return:    73.9% | Trades:  797
+#2. SUI    | MPT-19 | Calmar Ratio:    1.376 | Return:    67.4% | Trades:  799
+#3. SUI    | MPT-17 | Calmar Ratio:    1.358 | Return:    66.9% | Trades:  774
+#4. SUI    | MPT-18 | Calmar Ratio:    1.358 | Return:    66.9% | Trades:  774
+#5. SUI    | MPT-20 | Calmar Ratio:    1.345 | Return:    62.9% | Trades:  791
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. ADA    | MPT-24 | Total Return:    2.998 | Return:   299.8% | Trades: 2457
+#2. LTC    | MPT- 7 | Total Return:    2.983 | Return:   298.3% | Trades: 3745
+#3. ALGO   | MPT-21 | Total Return:    2.907 | Return:   290.7% | Trades: 1804
+#4. ALGO   | MPT-19 | Total Return:    2.905 | Return:   290.5% | Trades: 2021
+#5. ETH    | MPT-23 | Total Return:    2.856 | Return:   285.6% | Trades: 2530
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste MPT pro Asset)
+------------------------------------------------------------
+XRP   : Beste MPT- 3 | Sharpe:   0.53 | Return:   79.9% | DD:  88.9%
+ETH   : Beste MPT- 2 | Sharpe:   0.70 | Return:   27.7% | DD:  85.4%
+ALGO  : Beste MPT-10 | Sharpe:   0.65 | Return:   21.6% | DD:  71.9%
+VET   : Beste MPT- 3 | Sharpe:   0.43 | Return:    2.3% | DD:  82.5%
+ATOM  : Beste MPT- 4 | Sharpe:   0.32 | Return:  -71.1% | DD:  93.6%
+POL   : Beste MPT- 2 | Sharpe:   0.76 | Return:  134.5% | DD:  56.2%
+TAO   : Beste MPT-23 | Sharpe:   0.28 | Return:  -45.7% | DD:  82.4%
+LTC   : Beste MPT- 7 | Sharpe:   0.51 | Return:  298.3% | DD:  93.0%
+XLM   : Beste MPT- 2 | Sharpe:   0.78 | Return:   37.7% | DD:  92.8%
+AVAX  : Beste MPT- 3 | Sharpe:   0.68 | Return:   24.9% | DD:  87.6%
+LINK  : Beste MPT-19 | Sharpe:   0.23 | Return:  -92.3% | DD:  99.4%
+ADA   : Beste MPT- 2 | Sharpe:   0.97 | Return:   66.9% | DD:  93.6%
+TRX   : Beste MPT- 3 | Sharpe:   0.79 | Return:   46.1% | DD:  83.1%
+SUI   : Beste MPT-13 | Sharpe:   1.08 | Return:   73.9% | DD:  61.9%
+SOL   : Beste MPT-15 | Sharpe:   1.09 | Return:   79.5% | DD:  85.0%
+BNB   : Beste MPT-12 | Sharpe:   0.70 | Return:   30.1% | DD:  86.7%
+BTC   : Beste MPT-24 | Sharpe:   0.70 | Return:   25.6% | DD:  71.6%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.424 | Std=  0.310 | Max=  1.092 | Min= -0.408
+Total Return   : Mean=  0.060 | Std=  0.901 | Max=  2.998 | Min= -1.000
+Max Drawdown   : Mean=  0.889 | Std=  0.108 | Max=  1.000 | Min=  0.562
+Win Rate       : Mean=  0.497 | Std=  0.011 | Max=  0.521 | Min=  0.471
+
+💡 MPT EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit MPT-15 (Sharpe: 1.09)
+🎯 Konsistenteste Strategie: BTC mit MPT-25 (Volatilität: 49.6%)
+💰 Höchste Returns: ADA mit MPT-24 (Return: 299.8%)

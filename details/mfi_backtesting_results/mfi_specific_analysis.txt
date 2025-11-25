@@ -1,0 +1,37 @@
+================================================================================
+🎯 MFI-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-18 17:17:36
+
+🥇 Beste Durchschnittliche MFI-Länge (Kombiniert): MFI-31
+   📊 Avg Sharpe: 0.825 | Avg Return: 63.0% | Avg DD: 78.5%
+   📈 Avg Sortino: 1.087 | Avg Win Rate: 50.5% | Score: 0.846
+
+📈 Beste Durchschnitts-MFIs nach Metriken:
+   • Sharpe Ratio: MFI-31 (Ø 0.825)
+   • Total Return: MFI-81 (Ø 98.1%)
+   • Sortino Ratio: MFI-31 (Ø 1.087)
+
+💡 MFI STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 MFI LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn MFI > 50 (bullisher Money Flow)
+   • Cash-Position wenn MFI <= 50 (bearisher Money Flow)
+   • MFI kombiniert Preis- UND Volumen-Information
+   • MFI über 80: Überkauft, mögliche Korrektur
+   • MFI unter 20: Überverkauft, mögliche Erholung
+   • Kürzere MFI-Perioden: Mehr Trades, höhere Sensitivität
+   • Längere MFI-Perioden: Weniger Trades, stabilere Signale
+
+🎯 MFI PARAMETER-OPTIMIERUNG
+------------------------------------------------------------
+📌 OPTIMALE MFI-LÄNGEN FÜR VERSCHIEDENE ZIELE:
+   🥇 Beste Gesamtperformance: MFI-31 (Score: 0.846)
+   📈 Höchste Sharpe Ratio: MFI-31 (0.825)
+   📈 Höchste Total Return: MFI-81 (98.1%)
+   📈 Höchste Sortino Ratio: MFI-31 (1.087)
+   🛡️ Niedrigster Drawdown: MFI-6 (70.1%)
+
+====================================================================
+🏁 MFI-ANALYSE ABGESCHLOSSEN
+====================================================================

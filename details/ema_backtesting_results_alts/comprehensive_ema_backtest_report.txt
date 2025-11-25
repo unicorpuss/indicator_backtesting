@@ -1,0 +1,73 @@
+================================================================================
+📊 EMA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:29:59
+📈 Assets getestet: 3
+📏 EMA-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 438
+📋 Strategie: EMA Crossover Strategy (Price > EMA = Long, Price <= EMA = Short)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. UNI    | EMA- 5 | Sharpe Ratio:    5.656 | Return:    20.2% | Trades:   12
+#2. UNI    | EMA-20 | Sharpe Ratio:    4.360 | Return:    15.3% | Trades:   12
+#3. UNI    | EMA-21 | Sharpe Ratio:    4.360 | Return:    15.3% | Trades:   12
+#4. UNI    | EMA-22 | Sharpe Ratio:    4.360 | Return:    15.3% | Trades:   12
+#5. UNI    | EMA-23 | Sharpe Ratio:    4.360 | Return:    15.3% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. UNI    | EMA- 5 | Sortino Ratio:    5.000 | Return:    20.2% | Trades:   12
+#2. UNI    | EMA-16 | Sortino Ratio:    5.000 | Return:    10.4% | Trades:   12
+#3. UNI    | EMA-17 | Sortino Ratio:    5.000 | Return:    10.4% | Trades:   12
+#4. UNI    | EMA-18 | Sortino Ratio:    5.000 | Return:    10.4% | Trades:   12
+#5. AAVE   | EMA-18 | Sortino Ratio:    5.000 | Return:     6.2% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. UNI    | EMA- 5 | Omega Ratio:    2.860 | Return:    20.2% | Trades:   12
+#2. UNI    | EMA-20 | Omega Ratio:    2.231 | Return:    15.3% | Trades:   12
+#3. UNI    | EMA-21 | Omega Ratio:    2.231 | Return:    15.3% | Trades:   12
+#4. UNI    | EMA-22 | Omega Ratio:    2.231 | Return:    15.3% | Trades:   12
+#5. UNI    | EMA-23 | Omega Ratio:    2.231 | Return:    15.3% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. UNI    | EMA- 5 | Calmar Ratio:   89.745 | Return:    20.2% | Trades:   12
+#2. UNI    | EMA-20 | Calmar Ratio:   49.516 | Return:    15.3% | Trades:   12
+#3. UNI    | EMA-21 | Calmar Ratio:   49.516 | Return:    15.3% | Trades:   12
+#4. UNI    | EMA-22 | Calmar Ratio:   49.516 | Return:    15.3% | Trades:   12
+#5. UNI    | EMA-23 | Calmar Ratio:   49.516 | Return:    15.3% | Trades:   12
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. UNI    | EMA- 5 | Total Return:    0.202 | Return:    20.2% | Trades:   12
+#2. UNI    | EMA-20 | Total Return:    0.153 | Return:    15.3% | Trades:   12
+#3. UNI    | EMA-21 | Total Return:    0.153 | Return:    15.3% | Trades:   12
+#4. UNI    | EMA-22 | Total Return:    0.153 | Return:    15.3% | Trades:   12
+#5. UNI    | EMA-23 | Total Return:    0.153 | Return:    15.3% | Trades:   12
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste EMA pro Asset)
+------------------------------------------------------------
+UNI   : Beste EMA- 5 | Sharpe:   5.66 | Return:   20.2% | DD:   4.6%
+XMR   : Beste EMA-19 | Sharpe:   3.56 | Return:    7.4% | DD:   7.2%
+AAVE  : Beste EMA-22 | Sharpe:   2.81 | Return:   11.1% | DD:   7.6%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  3.097 | Std=  1.924 | Max=  5.656 | Min= -8.246
+Total Return   : Mean=  0.097 | Std=  0.071 | Max=  0.202 | Min= -0.293
+Max Drawdown   : Mean=  0.079 | Std=  0.032 | Max=  0.285 | Min=  0.046
+Win Rate       : Mean=  0.566 | Std=  0.085 | Max=  0.667 | Min=  0.250
+
+💡 EMA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: UNI mit EMA-5 (Sharpe: 5.66)
+🎯 Konsistenteste Strategie: XMR mit EMA-19 (Volatilität: 45.1%)
+💰 Höchste Returns: UNI mit EMA-5 (Return: 20.2%)

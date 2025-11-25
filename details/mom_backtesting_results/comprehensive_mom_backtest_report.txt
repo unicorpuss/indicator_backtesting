@@ -1,0 +1,87 @@
+================================================================================
+📊 MOM BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-10-19 01:12:08
+📈 Assets getestet: 17
+📏 MOM-Längen getestet: 141
+🔢 Gesamt-Kombinationen: 2397
+📋 Strategie: MOM Long-Only Strategy (MOM > 0 = Long, MOM <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | MOM-29 | Sharpe Ratio:    1.681 | Return:   173.0% | Trades: 1059
+#2. SOL    | MOM-28 | Sharpe Ratio:    1.609 | Return:   158.6% | Trades: 1049
+#3. SOL    | MOM-26 | Sharpe Ratio:    1.585 | Return:   151.9% | Trades: 1053
+#4. SOL    | MOM-25 | Sharpe Ratio:    1.578 | Return:   148.6% | Trades: 1046
+#5. SUI    | MOM-43 | Sharpe Ratio:    1.511 | Return:   120.0% | Trades:  421
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | MOM-43 | Sortino Ratio:    2.520 | Return:   120.0% | Trades:  421
+#2. SUI    | MOM-42 | Sortino Ratio:    2.493 | Return:   117.5% | Trades:  418
+#3. SUI    | MOM-44 | Sortino Ratio:    2.464 | Return:   116.0% | Trades:  419
+#4. SUI    | MOM-46 | Sortino Ratio:    2.404 | Return:   110.3% | Trades:  421
+#5. SUI    | MOM-50 | Sortino Ratio:    2.384 | Return:   107.8% | Trades:  422
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SOL    | MOM-29 | Omega Ratio:    1.529 | Return:   173.0% | Trades: 1059
+#2. SOL    | MOM-28 | Omega Ratio:    1.505 | Return:   158.6% | Trades: 1049
+#3. SOL    | MOM-25 | Omega Ratio:    1.492 | Return:   148.6% | Trades: 1046
+#4. SOL    | MOM-26 | Omega Ratio:    1.491 | Return:   151.9% | Trades: 1053
+#5. TAO    | MOM-14 | Omega Ratio:    1.469 | Return:   119.8% | Trades:  416
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | MOM-43 | Calmar Ratio:    2.967 | Return:   120.0% | Trades:  421
+#2. SUI    | MOM-44 | Calmar Ratio:    2.813 | Return:   116.0% | Trades:  419
+#3. SUI    | MOM-46 | Calmar Ratio:    2.613 | Return:   110.3% | Trades:  421
+#4. TAO    | MOM-14 | Calmar Ratio:    2.373 | Return:   119.8% | Trades:  416
+#5. SUI    | MOM-42 | Calmar Ratio:    2.362 | Return:   117.5% | Trades:  418
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. XRP    | MOM-131 | Total Return:    2.993 | Return:   299.3% | Trades: 1464
+#2. ADA    | MOM-93 | Total Return:    2.992 | Return:   299.2% | Trades: 1184
+#3. AVAX   | MOM-74 | Total Return:    2.989 | Return:   298.9% | Trades:  816
+#4. TAO    | MOM-17 | Total Return:    2.967 | Return:   296.7% | Trades:  411
+#5. VET    | MOM-103 | Total Return:    2.964 | Return:   296.4% | Trades: 1133
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste MOM pro Asset)
+------------------------------------------------------------
+XRP   : Beste MOM-12 | Sharpe:   0.96 | Return:   59.4% | DD:  60.0%
+ETH   : Beste MOM-11 | Sharpe:   1.12 | Return:   55.5% | DD:  56.1%
+ALGO  : Beste MOM-94 | Sharpe:   0.73 | Return:   32.0% | DD:  61.1%
+VET   : Beste MOM-34 | Sharpe:   0.95 | Return:   51.7% | DD:  54.5%
+ATOM  : Beste MOM-37 | Sharpe:   0.65 | Return:   23.9% | DD:  65.7%
+POL   : Beste MOM-34 | Sharpe:   0.25 | Return:    3.4% | DD:  47.4%
+TAO   : Beste MOM-14 | Sharpe:   1.46 | Return:  119.8% | DD:  43.2%
+LTC   : Beste MOM-126 | Sharpe:   0.86 | Return:   44.2% | DD:  68.4%
+XLM   : Beste MOM-10 | Sharpe:   0.97 | Return:   58.6% | DD:  65.0%
+AVAX  : Beste MOM-10 | Sharpe:   1.36 | Return:  114.5% | DD:  55.4%
+LINK  : Beste MOM-11 | Sharpe:   1.08 | Return:   71.3% | DD:  62.0%
+ADA   : Beste MOM-12 | Sharpe:   1.07 | Return:   85.5% | DD:  67.3%
+TRX   : Beste MOM-17 | Sharpe:   0.93 | Return:   68.8% | DD:  80.8%
+SUI   : Beste MOM-43 | Sharpe:   1.51 | Return:  120.0% | DD:  33.6%
+SOL   : Beste MOM-29 | Sharpe:   1.68 | Return:  173.0% | DD:  65.3%
+BNB   : Beste MOM-13 | Sharpe:   1.28 | Return:   89.8% | DD:  60.7%
+BTC   : Beste MOM-31 | Sharpe:   1.28 | Return:   54.4% | DD:  61.1%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.603 | Std=  0.436 | Max=  1.681 | Min= -1.429
+Total Return   : Mean=  0.445 | Std=  0.768 | Max=  2.993 | Min= -0.952
+Max Drawdown   : Mean=  0.772 | Std=  0.117 | Max=  0.985 | Min=  0.336
+Win Rate       : Mean=  0.500 | Std=  0.020 | Max=  0.546 | Min=  0.424
+
+💡 MOM EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit MOM-29 (Sharpe: 1.68)
+🎯 Konsistenteste Strategie: BTC mit MOM-10 (Volatilität: 39.3%)
+💰 Höchste Returns: XRP mit MOM-131 (Return: 299.3%)

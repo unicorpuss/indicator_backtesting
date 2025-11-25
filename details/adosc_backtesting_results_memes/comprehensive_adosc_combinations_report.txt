@@ -1,0 +1,58 @@
+================================================================================
+📊 ADOSC KOMBINATIONEN ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:12:33
+📋 Getestete Kombinationen: 47080
+💎 Assets: 4
+🔢 ADOSC-Kombinationen: 11770
+
+🥇 TOP 10 BESTE ADOSC-KOMBINATIONEN (Sharpe Ratio):
+------------------------------------------------------------
+ 1. Fast( 2) / Slow(28) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 14.0
+ 2. Fast( 7) / Slow(20) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 2.9
+ 3. Fast( 8) / Slow(19) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 2.4
+ 4. Fast( 9) / Slow(18) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 2.0
+ 5. Fast(10) / Slow(17) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 1.7
+ 6. Fast(11) / Slow(16) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 1.4
+ 7. Fast(12) / Slow(15) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 1.2
+ 8. Fast(13) / Slow(14) | shib | Sharpe: 0.218 | Return: 0.1% | DD: 0.0% | Ratio: 1.1
+ 9. Fast( 2) / Slow(29) | doge | Sharpe: 0.054 | Return: 1.4% | DD: 2.6% | Ratio: 14.5
+10. Fast( 2) / Slow(30) | doge | Sharpe: 0.054 | Return: 1.4% | DD: 2.6% | Ratio: 15.0
+
+🎯 TOP 10 BESTE DURCHSCHNITTS-KOMBINATIONEN:
+------------------------------------------------------------
+ 1. Fast( 5) / Slow(10) | Avg Sharpe: -0.108 | Avg Return: -3.1% | Ratio: 2.0 | Score: 0.148
+ 2. Fast( 6) / Slow( 9) | Avg Sharpe: -0.108 | Avg Return: -3.1% | Ratio: 1.5 | Score: 0.148
+ 3. Fast( 7) / Slow( 8) | Avg Sharpe: -0.108 | Avg Return: -3.1% | Ratio: 1.1 | Score: 0.148
+ 4. Fast( 2) / Slow(29) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 14.5 | Score: 0.144
+ 5. Fast( 2) / Slow(30) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 15.0 | Score: 0.144
+ 6. Fast( 2) / Slow(31) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 15.5 | Score: 0.144
+ 7. Fast( 3) / Slow(26) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 8.7 | Score: 0.144
+ 8. Fast( 3) / Slow(27) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 9.0 | Score: 0.144
+ 9. Fast( 4) / Slow(25) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 6.2 | Score: 0.144
+10. Fast( 5) / Slow(23) | Avg Sharpe: -0.028 | Avg Return: -5.0% | Ratio: 4.6 | Score: 0.144
+
+⚖️ ANALYSE NACH PERIOD-RATIOS:
+------------------------------------------------------------
+📊 Enge Ratios (1.0-2.0): 5918 Kombinationen
+   • Avg Sharpe: -0.084 | Avg Return: -5.2% | Avg DD: 6.0%
+📊 Moderate Ratios (2.0-3.0): 2027 Kombinationen
+   • Avg Sharpe: -0.086 | Avg Return: -5.5% | Avg DD: 6.3%
+📊 Weite Ratios (3.0-5.0): 1620 Kombinationen
+   • Avg Sharpe: -0.086 | Avg Return: -5.6% | Avg DD: 6.4%
+📊 Sehr weite Ratios (5.0-10.0): 1211 Kombinationen
+   • Avg Sharpe: -0.086 | Avg Return: -5.7% | Avg DD: 6.5%
+📊 Extreme Ratios (>10.0): 994 Kombinationen
+   • Avg Sharpe: -0.081 | Avg Return: -5.3% | Avg DD: 6.2%
+
+🎪 KLASSISCHE ADOSC-KALIBRIERUNGEN:
+------------------------------------------------------------
+• Fast( 3) / Slow(10): Sharpe -0.197 | Return -8.9% | DD 8.8% | Ratio 3.3
+• Fast( 5) / Slow(20): Sharpe -0.162 | Return -8.6% | DD 8.5% | Ratio 4.0
+• Fast( 2) / Slow(14): Sharpe -0.232 | Return -13.5% | DD 13.4% | Ratio 7.0
+• Fast( 7) / Slow(21): Sharpe -0.028 | Return -5.0% | DD 6.0% | Ratio 3.0
+• Fast(10) / Slow(30): Sharpe -0.064 | Return -6.0% | DD 7.0% | Ratio 3.0
+
+====================================================================
+🏁 ADOSC-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

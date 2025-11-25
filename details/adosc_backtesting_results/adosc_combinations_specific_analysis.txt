@@ -1,0 +1,52 @@
+================================================================================
+🎯 ADOSC KOMBINATIONEN-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-10-18 19:41:22
+
+🥇 BESTE ADOSC-KOMBINATION (Kombinierter Score):
+   Fast: 2 / Slow: 6 (Ratio: 3.0)
+   📊 Avg Sharpe: 0.361
+   💰 Avg Return: 808.0%
+   🛡️ Avg Drawdown: 73.7%
+   📈 Avg Sortino: 0.497
+   🎯 Combined Score: 1.926
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: Fast(2) / Slow(6) (Ø 0.361, Ratio: 3.0)
+   • Total Return: Fast(2) / Slow(25) (Ø 819.6%, Ratio: 12.5)
+   • Sortino Ratio: Fast(2) / Slow(6) (Ø 0.497, Ratio: 3.0)
+   • Omega Ratio: Fast(2) / Slow(6) (Ø 1.255, Ratio: 3.0)
+   🛡️ Niedrigster Drawdown: Fast(4) / Slow(5) (Ø 72.6%, Ratio: 1.2)
+
+🏆 TOP 5 ADOSC-KOMBINATIONEN:
+------------------------------------------------------------
+1. Fast(2) / Slow(6) | Ratio: 3.0 | Score: 1.926 | Sharpe: 0.361 | Return: 808.0%
+2. Fast(2) / Slow(7) | Ratio: 3.5 | Score: 1.922 | Sharpe: 0.359 | Return: 807.2%
+3. Fast(2) / Slow(25) | Ratio: 12.5 | Score: 1.907 | Sharpe: 0.321 | Return: 819.6%
+4. Fast(2) / Slow(10) | Ratio: 5.0 | Score: 1.898 | Sharpe: 0.351 | Return: 801.2%
+5. Fast(3) / Slow(8) | Ratio: 2.7 | Score: 1.887 | Sharpe: 0.357 | Return: 792.7%
+
+🎯 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+💡 ADOSC KOMBINATIONS-STRATEGIE INSIGHTS:
+   • ADOSC kombiniert Preis- und Volumen-Information für bessere Signale
+   • Fast Period 2-5: Sehr sensitive Signale, mehr Trades
+   • Slow Period 10-30: Ausgewogene Glättung der A/D Line
+   • Ratio 3-7: Optimale Balance zwischen Sensitivität und Stabilität
+   • ADOSC > 0: Akkumulation (Buying Pressure überwiegt)
+   • ADOSC < 0: Distribution (Selling Pressure überwiegt)
+   • Volume-Bestätigung: ADOSC funktioniert besser mit zuverlässigen Volume-Daten
+   • Divergenzen: ADOSC-Preis-Divergenzen können Trendwenden anzeigen
+
+📊 VOLUMEN-SPEZIFISCHE CHARAKTERISTIKA:
+------------------------------------------------------------
+💡 ADOSC VOLUMEN-PREIS ANALYSE:
+   • Akkumulation: Preis steigt + Volume steigt = Starker Aufwärtstrend
+   • Distribution: Preis fällt + Volume steigt = Starker Abwärtstrend
+   • Divergenz: Preis steigt + ADOSC fällt = Mögliche Trendwende
+   • Bestätigung: ADOSC bestätigt Preisbewegungen durch Volume-Analyse
+   • Schwache Trends: Niedriges Volume = ADOSC nahe Null
+
+====================================================================
+🏁 ADOSC-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

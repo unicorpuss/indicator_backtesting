@@ -1,0 +1,87 @@
+================================================================================
+📊 HULLSUITE BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 19:43:54
+📈 Assets getestet: 17
+📏 HULLSUITE-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 2482
+📋 Strategie: Hull Suite Long-Only Strategy (MHULL > SHULL = Long)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SOL    | HULLSUITE-59 | Sharpe Ratio:    1.524 | Return:   145.1% | Trades: 1066
+#2. SOL    | HULLSUITE-58 | Sharpe Ratio:    1.522 | Return:   144.8% | Trades: 1070
+#3. TAO    | HULLSUITE-38 | Sharpe Ratio:    1.515 | Return:   135.5% | Trades:  435
+#4. TAO    | HULLSUITE-39 | Sharpe Ratio:    1.514 | Return:   135.3% | Trades:  434
+#5. SOL    | HULLSUITE-61 | Sharpe Ratio:    1.505 | Return:   141.7% | Trades: 1063
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | HULLSUITE-133 | Sortino Ratio:    2.530 | Return:   117.9% | Trades:  412
+#2. SUI    | HULLSUITE-135 | Sortino Ratio:    2.528 | Return:   116.6% | Trades:  418
+#3. SUI    | HULLSUITE-132 | Sortino Ratio:    2.527 | Return:   117.6% | Trades:  412
+#4. SUI    | HULLSUITE-134 | Sortino Ratio:    2.525 | Return:   116.4% | Trades:  418
+#5. SUI    | HULLSUITE-147 | Sortino Ratio:    2.467 | Return:   109.2% | Trades:  434
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. TRX    | HULLSUITE- 5 | Omega Ratio:    1.546 | Return:    92.6% | Trades: 1525
+#2. TRX    | HULLSUITE- 7 | Omega Ratio:    1.541 | Return:    93.9% | Trades: 1553
+#3. TRX    | HULLSUITE- 6 | Omega Ratio:    1.522 | Return:    88.1% | Trades: 1541
+#4. TAO    | HULLSUITE-39 | Omega Ratio:    1.476 | Return:   135.3% | Trades:  434
+#5. TAO    | HULLSUITE-38 | Omega Ratio:    1.475 | Return:   135.5% | Trades:  435
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | HULLSUITE-133 | Calmar Ratio:    2.344 | Return:   117.9% | Trades:  412
+#2. SUI    | HULLSUITE-132 | Calmar Ratio:    2.340 | Return:   117.6% | Trades:  412
+#3. SUI    | HULLSUITE-135 | Calmar Ratio:    2.229 | Return:   116.6% | Trades:  418
+#4. SUI    | HULLSUITE-134 | Calmar Ratio:    2.226 | Return:   116.4% | Trades:  418
+#5. SUI    | HULLSUITE-127 | Calmar Ratio:    2.126 | Return:   115.1% | Trades:  403
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. ALGO   | HULLSUITE-128 | Total Return:    2.969 | Return:   296.9% | Trades: 1000
+#2. XRP    | HULLSUITE-91 | Total Return:    2.961 | Return:   296.1% | Trades: 1308
+#3. XLM    | HULLSUITE-53 | Total Return:    2.960 | Return:   296.0% | Trades: 1182
+#4. SUI    | HULLSUITE-76 | Total Return:    2.950 | Return:   295.0% | Trades:  423
+#5. TAO    | HULLSUITE-94 | Total Return:    2.940 | Return:   294.0% | Trades:  404
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste HULLSUITE pro Asset)
+------------------------------------------------------------
+XRP   : Beste HULLSUITE-15 | Sharpe:   1.08 | Return:   76.4% | DD:  63.5%
+ETH   : Beste HULLSUITE-85 | Sharpe:   0.99 | Return:   43.5% | DD:  65.0%
+ALGO  : Beste HULLSUITE-96 | Sharpe:   0.71 | Return:   30.0% | DD:  76.5%
+VET   : Beste HULLSUITE-91 | Sharpe:   1.15 | Return:   73.4% | DD:  55.4%
+ATOM  : Beste HULLSUITE-67 | Sharpe:   0.68 | Return:   27.1% | DD:  58.4%
+POL   : Beste HULLSUITE- 9 | Sharpe:   0.42 | Return:   28.1% | DD:  49.7%
+TAO   : Beste HULLSUITE-38 | Sharpe:   1.51 | Return:  135.5% | DD:  64.2%
+LTC   : Beste HULLSUITE-94 | Sharpe:   0.85 | Return:   43.0% | DD:  74.1%
+XLM   : Beste HULLSUITE-19 | Sharpe:   0.99 | Return:   60.0% | DD:  72.7%
+AVAX  : Beste HULLSUITE-21 | Sharpe:   1.20 | Return:   90.6% | DD:  67.5%
+LINK  : Beste HULLSUITE- 7 | Sharpe:   1.10 | Return:   73.9% | DD:  61.7%
+ADA   : Beste HULLSUITE- 5 | Sharpe:   1.07 | Return:   85.5% | DD:  63.5%
+TRX   : Beste HULLSUITE- 7 | Sharpe:   1.09 | Return:   93.9% | DD:  54.9%
+SUI   : Beste HULLSUITE-133 | Sharpe:   1.47 | Return:  117.9% | DD:  42.6%
+SOL   : Beste HULLSUITE-59 | Sharpe:   1.52 | Return:  145.1% | DD:  85.6%
+BNB   : Beste HULLSUITE- 6 | Sharpe:   1.28 | Return:   86.3% | DD:  52.9%
+BTC   : Beste HULLSUITE-79 | Sharpe:   1.20 | Return:   48.9% | DD:  69.8%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.736 | Std=  0.345 | Max=  1.524 | Min= -0.659
+Total Return   : Mean=  0.568 | Std=  0.601 | Max=  2.969 | Min= -0.735
+Max Drawdown   : Mean=  0.718 | Std=  0.103 | Max=  0.958 | Min=  0.425
+Win Rate       : Mean=  0.501 | Std=  0.021 | Max=  0.549 | Min=  0.416
+
+💡 HULLSUITE EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SOL mit HULLSUITE-59 (Sharpe: 1.52)
+🎯 Konsistenteste Strategie: BTC mit HULLSUITE-15 (Volatilität: 38.5%)
+💰 Höchste Returns: XRP mit HULLSUITE-91 (Return: 296.1%)

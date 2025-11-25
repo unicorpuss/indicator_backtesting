@@ -1,0 +1,42 @@
+================================================================================
+🎯 PPO KOMBINATIONEN-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:07:53
+
+🥇 BESTE PPO-KOMBINATION (Kombinierter Score):
+   Fast: 14 / Slow: 15 (Ratio: 1.1)
+   📊 Avg Sharpe: 0.119
+   💰 Avg Return: 3.2%
+   🛡️ Avg Drawdown: 2.6%
+   📈 Avg Sortino: 0.763
+   🎯 Combined Score: 0.466
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: Fast(20) / Slow(21) (Ø 0.176, Ratio: 1.1)
+   • Total Return: Fast(20) / Slow(21) (Ø 6.7%, Ratio: 1.1)
+   • Sortino Ratio: Fast(14) / Slow(15) (Ø 0.763, Ratio: 1.1)
+   • Omega Ratio: Fast(13) / Slow(16) (Ø 4.702, Ratio: 1.2)
+   🛡️ Niedrigster Drawdown: Fast(5) / Slow(21) (Ø 0.0%, Ratio: 4.2)
+
+🏆 TOP 5 PPO-KOMBINATIONEN:
+------------------------------------------------------------
+1. Fast(14) / Slow(15) | Ratio: 1.1 | Score: 0.466 | Sharpe: 0.119 | Return: 3.2%
+2. Fast(78) / Slow(80) | Ratio: 1.0 | Score: 0.294 | Sharpe: 0.033 | Return: 0.7%
+3. Fast(20) / Slow(21) | Ratio: 1.1 | Score: 0.266 | Sharpe: 0.176 | Return: 6.7%
+4. Fast(19) / Slow(21) | Ratio: 1.1 | Score: 0.262 | Sharpe: 0.164 | Return: 6.6%
+5. Fast(25) / Slow(26) | Ratio: 1.0 | Score: 0.237 | Sharpe: 0.109 | Return: 2.0%
+
+🎯 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+💡 PPO KOMBINATIONS-STRATEGIE INSIGHTS:
+   • PPO normalisiert MACD-ähnliche Signale durch Prozentberechnung
+   • Ratio 2-3: Ausgewogene Balance zwischen Sensitivität und Stabilität
+   • Ratio >5: Langfristige Trends, weniger Fehlsignale
+   • Fast < 10 + Slow > 20: Responsive Signale für mittelfristige Trends
+   • Klassische 12/26: Bewährte Kombination aus MACD-Tradition
+   • PPO > 0: EMA-Fast über EMA-Slow (Bullish Momentum)
+   • PPO < 0: EMA-Fast unter EMA-Slow (Bearish Momentum)
+
+====================================================================
+🏁 PPO-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

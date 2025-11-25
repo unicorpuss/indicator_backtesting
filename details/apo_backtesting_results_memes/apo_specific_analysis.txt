@@ -1,0 +1,44 @@
+================================================================================
+🎯 APO-SPEZIFISCHE ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:03:43
+
+🥇 BESTE APO-KOMBINATION (Kombinierter Score):
+   Fast: 20 / Slow: 21
+   Periode-Ratio: 1.05
+   📊 Avg Sharpe: 3.686
+   💰 Avg Return: 6.7%
+   🛡️ Avg Drawdown: 0.0%
+   📈 Avg Sortino: 3.750
+   🎯 Combined Score: 2.444
+
+📈 BESTE KOMBINATIONEN NACH METRIKEN:
+   • Sharpe Ratio: Fast(20) / Slow(21) (Ø 3.686)
+   • Total Return: Fast(20) / Slow(21) (Ø 6.7%)
+   • Sortino Ratio: Fast(19) / Slow(21) (Ø 3.750)
+   • Omega Ratio: Fast(19) / Slow(21) (Ø 7.500)
+   🛡️ Niedrigster Drawdown: Fast(2) / Slow(21) (Ø 0.0%)
+
+🏆 TOP 5 APO-KOMBINATIONEN:
+------------------------------------------------------------
+1. Fast(20) / Slow(21) | Ratio: 1.1 | Score: 2.444 | Sharpe: 3.686 | Return: 6.7%
+2. Fast(19) / Slow(21) | Ratio: 1.1 | Score: 2.369 | Sharpe: 3.437 | Return: 6.6%
+3. Fast(14) / Slow(15) | Ratio: 1.1 | Score: 1.719 | Sharpe: 2.558 | Return: 3.2%
+4. Fast(25) / Slow(26) | Ratio: 1.0 | Score: 1.641 | Sharpe: 2.291 | Return: 2.0%
+5. Fast(24) / Slow(26) | Ratio: 1.1 | Score: 1.296 | Sharpe: 1.146 | Return: 1.6%
+
+💡 APO STRATEGIE EMPFEHLUNGEN
+------------------------------------------------------------
+📋 APO LONG-ONLY STRATEGIE INSIGHTS:
+   • Long-Position wenn APO > 0 (schneller MA über langsamem MA)
+   • Cash-Position wenn APO <= 0 (schneller MA unter langsamem MA)
+   • APO misst absolute Differenz zwischen Moving Averages
+   • Kleinere Ratios (1.5-2.5): Schnelle Signale, mehr Trades
+   • Mittlere Ratios (2.5-4.0): Ausgewogene Signale
+   • Größere Ratios (>4.0): Langfristige Trends, weniger Trades
+   • Klassische Kombinationen: 12/26, 9/21, 5/20
+   • APO reagiert schneller als MACD (absolute vs. prozentuale Differenz)
+
+====================================================================
+🏁 APO-ANALYSE ABGESCHLOSSEN
+====================================================================

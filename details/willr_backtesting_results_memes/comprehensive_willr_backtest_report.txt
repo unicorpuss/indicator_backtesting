@@ -1,0 +1,74 @@
+================================================================================
+📊 WILLR BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 20:46:03
+📈 Assets getestet: 4
+📏 WILLR-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: Williams %R Long-Only Strategy (WILLR > -50 = Long, WILLR <= -50 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SHIB   | WILLR-16 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#2. SHIB   | WILLR-17 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#3. SHIB   | WILLR-18 | Sharpe Ratio:    0.295 | Return:     0.0% | Trades:    2
+#4. BONK   | WILLR-19 | Sharpe Ratio:    0.214 | Return:     0.0% | Trades:    2
+#5. BONK   | WILLR- 7 | Sharpe Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. BONK   | WILLR- 5 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#2. BONK   | WILLR- 6 | Sortino Ratio:    0.000 | Return:   -14.3% | Trades:    1
+#3. BONK   | WILLR- 7 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | WILLR- 8 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | WILLR- 9 | Sortino Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SHIB   | WILLR-16 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | WILLR-17 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#3. SHIB   | WILLR-18 | Omega Ratio:    1.100 | Return:     0.0% | Trades:    2
+#4. BONK   | WILLR-19 | Omega Ratio:    1.071 | Return:     0.0% | Trades:    2
+#5. DOGE   | WILLR- 5 | Omega Ratio:    0.717 | Return:    -2.0% | Trades:    4
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SHIB   | WILLR-16 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#2. SHIB   | WILLR-17 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#3. SHIB   | WILLR-18 | Calmar Ratio:    2.100 | Return:     0.0% | Trades:    2
+#4. BONK   | WILLR-19 | Calmar Ratio:    1.500 | Return:     0.0% | Trades:    2
+#5. BONK   | WILLR- 7 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. BONK   | WILLR- 7 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#2. BONK   | WILLR- 8 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#3. BONK   | WILLR- 9 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#4. BONK   | WILLR-10 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+#5. BONK   | WILLR-15 | Total Return:    0.000 | Return:     0.0% | Trades:    0
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste WILLR pro Asset)
+------------------------------------------------------------
+BONK  : Beste WILLR-19 | Sharpe:   0.21 | Return:    0.0% | DD:   6.7%
+DOGE  : Beste WILLR-44 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+SHIB  : Beste WILLR-16 | Sharpe:   0.30 | Return:    0.0% | DD:   9.1%
+PEPE  : Beste WILLR-43 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -1.642 | Std=  2.558 | Max=  0.295 | Min= -8.566
+Total Return   : Mean= -0.042 | Std=  0.077 | Max=  0.000 | Min= -0.333
+Max Drawdown   : Mean=  0.044 | Std=  0.077 | Max=  0.333 | Min=  0.000
+Win Rate       : Mean=  0.015 | Std=  0.065 | Max=  0.500 | Min=  0.000
+
+💡 WILLR EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SHIB mit WILLR-16 (Sharpe: 0.30)
+🎯 Konsistenteste Strategie: BONK mit WILLR-19 (Volatilität: 46.8%)
+💰 Höchste Returns: BONK mit WILLR-7 (Return: 0.0%)

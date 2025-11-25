@@ -1,0 +1,87 @@
+================================================================================
+📊 FRAMA BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-07 00:04:24
+📈 Assets getestet: 17
+📏 FRAMA-Längen getestet: 149
+🔢 Gesamt-Kombinationen: 2533
+📋 Strategie: FRAMA Channel Strategy (Signal-based: 1=Long, 0=Flat, -1=Short)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. SUI    | FRAMA- 5 | Sharpe Ratio:    1.112 | Return:    80.5% | Trades:  590
+#2. SOL    | FRAMA- 9 | Sharpe Ratio:    1.089 | Return:    74.2% | Trades: 1042
+#3. AVAX   | FRAMA-145 | Sharpe Ratio:    0.877 | Return:    46.2% | Trades:  935
+#4. AVAX   | FRAMA-107 | Sharpe Ratio:    0.864 | Return:    44.8% | Trades:  941
+#5. SOL    | FRAMA-126 | Sharpe Ratio:    0.863 | Return:    45.1% | Trades:  959
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. SUI    | FRAMA- 5 | Sortino Ratio:    1.668 | Return:    80.5% | Trades:  590
+#2. SOL    | FRAMA- 9 | Sortino Ratio:    1.329 | Return:    74.2% | Trades: 1042
+#3. SOL    | FRAMA- 5 | Sortino Ratio:    1.132 | Return:    43.9% | Trades: 1291
+#4. AVAX   | FRAMA-145 | Sortino Ratio:    1.111 | Return:    46.2% | Trades:  935
+#5. AVAX   | FRAMA-140 | Sortino Ratio:    1.090 | Return:    44.2% | Trades:  961
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. SOL    | FRAMA- 9 | Omega Ratio:    1.301 | Return:    74.2% | Trades: 1042
+#2. SOL    | FRAMA-126 | Omega Ratio:    1.241 | Return:    45.1% | Trades:  959
+#3. SUI    | FRAMA- 5 | Omega Ratio:    1.236 | Return:    80.5% | Trades:  590
+#4. TAO    | FRAMA- 2 | Omega Ratio:    1.233 | Return:   167.9% | Trades:  328
+#5. SOL    | FRAMA-122 | Omega Ratio:    1.233 | Return:    42.1% | Trades:  968
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. SUI    | FRAMA- 5 | Calmar Ratio:    1.378 | Return:    80.5% | Trades:  590
+#2. AVAX   | FRAMA-145 | Calmar Ratio:    1.073 | Return:    46.2% | Trades:  935
+#3. SOL    | FRAMA- 9 | Calmar Ratio:    1.062 | Return:    74.2% | Trades: 1042
+#4. AVAX   | FRAMA-143 | Calmar Ratio:    1.037 | Return:    44.2% | Trades:  945
+#5. AVAX   | FRAMA-140 | Calmar Ratio:    1.030 | Return:    44.2% | Trades:  961
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. SOL    | FRAMA-105 | Total Return:    2.981 | Return:   298.1% | Trades:  925
+#2. ETH    | FRAMA-96 | Total Return:    2.978 | Return:   297.8% | Trades: 1578
+#3. SOL    | FRAMA-94 | Total Return:    2.976 | Return:   297.6% | Trades:  947
+#4. ETH    | FRAMA-122 | Total Return:    2.969 | Return:   296.9% | Trades: 1603
+#5. SOL    | FRAMA-55 | Total Return:    2.967 | Return:   296.7% | Trades: 1022
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste FRAMA pro Asset)
+------------------------------------------------------------
+XRP   : Beste FRAMA-51 | Sharpe:   0.50 | Return:  237.0% | DD:  77.1%
+ETH   : Beste FRAMA-107 | Sharpe:   0.70 | Return:   26.8% | DD:  68.1%
+ALGO  : Beste FRAMA-139 | Sharpe:   0.75 | Return:   34.2% | DD:  71.0%
+VET   : Beste FRAMA- 7 | Sharpe:   0.78 | Return:   36.3% | DD:  70.0%
+ATOM  : Beste FRAMA-148 | Sharpe:   0.31 | Return:  -23.5% | DD:  77.1%
+POL   : Beste FRAMA-49 | Sharpe:   0.64 | Return:   55.1% | DD:  38.3%
+TAO   : Beste FRAMA- 2 | Sharpe:   0.80 | Return:  167.9% | DD:  76.2%
+LTC   : Beste FRAMA-146 | Sharpe:   0.53 | Return:   14.4% | DD:  81.3%
+XLM   : Beste FRAMA-23 | Sharpe:   0.47 | Return:  231.2% | DD:  76.8%
+AVAX  : Beste FRAMA-145 | Sharpe:   0.88 | Return:   46.2% | DD:  60.6%
+LINK  : Beste FRAMA-79 | Sharpe:   0.61 | Return:   19.9% | DD:  86.7%
+ADA   : Beste FRAMA- 3 | Sharpe:   0.60 | Return:   14.2% | DD:  95.3%
+TRX   : Beste FRAMA-64 | Sharpe:   0.60 | Return:   22.1% | DD:  73.4%
+SUI   : Beste FRAMA- 5 | Sharpe:   1.11 | Return:   80.5% | DD:  70.9%
+SOL   : Beste FRAMA- 9 | Sharpe:   1.09 | Return:   74.2% | DD:  81.7%
+BNB   : Beste FRAMA- 5 | Sharpe:   0.78 | Return:   35.6% | DD:  72.0%
+BTC   : Beste FRAMA-64 | Sharpe:   0.78 | Return:   29.4% | DD:  60.4%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean=  0.313 | Std=  0.261 | Max=  1.112 | Min= -0.818
+Total Return   : Mean=  0.111 | Std=  0.848 | Max=  2.981 | Min= -0.994
+Max Drawdown   : Mean=  0.807 | Std=  0.129 | Max=  0.998 | Min=  0.281
+Win Rate       : Mean=  0.493 | Std=  0.017 | Max=  0.534 | Min=  0.425
+
+💡 FRAMA EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: SUI mit FRAMA-5 (Sharpe: 1.11)
+🎯 Konsistenteste Strategie: POL mit FRAMA-8 (Volatilität: 36.1%)
+💰 Höchste Returns: ETH mit FRAMA-96 (Return: 297.8%)

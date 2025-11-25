@@ -1,0 +1,200 @@
+====================================================================================================
+🌟 UNIVERSAL BACKTESTING SYSTEM - COMPREHENSIVE REPORT
+====================================================================================================
+🕐 Erstellt am: 2025-11-03 22:53:17
+📊 Modus: Full Mode
+🎯 Getestete Indikatoren: 15
+💎 Max Assets pro Test: 20
+
+📈 GESAMT-ÜBERSICHT:
+------------------------------------------------------------
+   • Gesamte Backtests: 215,772
+   • Beste Overall Sharpe Ratio: 6.948
+   • Beste Overall Return: 16.7%
+   • Niedrigster Drawdown: 17.6%
+
+🏆 INDIKATOR-RANKING (Beste Sharpe Ratio):
+------------------------------------------------------------
+🥇 APO    | Sharpe:  6.948 | Return:   16.7% | DD:  20.8% | Param: nan
+🥈 EMA    | Sharpe:  6.111 | Return:   16.3% | DD:  31.4% | Param: 20
+🥉 MFI    | Sharpe:  5.020 | Return:   10.0% | DD:  29.4% | Param: 5
+ 4. MOM    | Sharpe:  5.020 | Return:    4.5% | DD:  20.5% | Param: 20
+ 5. AROON  | Sharpe:  5.020 | Return:   10.0% | DD:  29.4% | Param: 8
+ 6. TRIX   | Sharpe:  4.322 | Return:    4.0% | DD:  18.8% | Param: 38
+ 7. ADX    | Sharpe:  0.320 | Return:    0.0% | DD:  18.8% | Param: 32
+ 8. WILLR  | Sharpe:  0.320 | Return:    0.0% | DD:  29.4% | Param: 16
+ 9. PPO    | Sharpe:  0.280 | Return:   16.7% | DD:  20.8% | Param: nan
+10. ADOSC  | Sharpe:  0.048 | Return:    1.4% | DD:  29.4% | Param: nan
+11. RSI    | Sharpe:  0.000 | Return:    0.0% | DD:  17.6% | Param: 8
+12. CMO    | Sharpe:  0.000 | Return:    0.0% | DD:  17.6% | Param: 8
+13. CCI    | Sharpe:  0.000 | Return:    0.0% | DD:  29.4% | Param: 21
+14. MACD   | Sharpe:  0.000 | Return:    0.0% | DD:  29.4% | Param: Fast:8, Slow:160
+15. DI     | Sharpe:  0.000 | Return:    0.0% | DD:  29.4% | Param: +DI:1, -DI:1
+
+🔍 DETAILLIERTE INDIKATOR-ANALYSE:
+================================================================================
+
+📊 EMA (Price > EMA = Long):
+--------------------------------------------------
+   🎯 Threshold: nan
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 20
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 6.111 | Return: 16.3% | DD: 31.4% | Win Rate: 70.0%
+
+📊 RSI (RSI > 50 = Long):
+--------------------------------------------------
+   🎯 Threshold: 50.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 8
+   🏅 Bestes Asset: pepe
+   📊 Performance: Sharpe: 0.000 | Return: 0.0% | DD: 17.6% | Win Rate: 0.0%
+
+📊 CCI (CCI > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 21
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 0.000 | Return: 0.0% | DD: 29.4% | Win Rate: 33.3%
+
+📊 ADX (ADX > 25 = Long):
+--------------------------------------------------
+   🎯 Threshold: 25.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 32
+   🏅 Bestes Asset: shib
+   📊 Performance: Sharpe: 0.320 | Return: 0.0% | DD: 18.8% | Win Rate: 50.0%
+
+📊 AROON (Aroon > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 8
+   🏅 Bestes Asset: shib
+   📊 Performance: Sharpe: 5.020 | Return: 10.0% | DD: 29.4% | Win Rate: 100.0%
+
+📊 CMO (CMO > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 8
+   🏅 Bestes Asset: pepe
+   📊 Performance: Sharpe: 0.000 | Return: 0.0% | DD: 17.6% | Win Rate: 0.0%
+
+📊 MFI (MFI > 50 = Long):
+--------------------------------------------------
+   🎯 Threshold: 50.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 5
+   🏅 Bestes Asset: shib
+   📊 Performance: Sharpe: 5.020 | Return: 10.0% | DD: 29.4% | Win Rate: 100.0%
+
+📊 WILLR (WILLR > -50 = Long):
+--------------------------------------------------
+   🎯 Threshold: -50.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 16
+   🏅 Bestes Asset: shib
+   📊 Performance: Sharpe: 0.320 | Return: 0.0% | DD: 29.4% | Win Rate: 50.0%
+
+📊 DI (+DI > -DI = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: matrix
+   🧪 Tests: 67,500
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: +DI:1, -DI:1
+   🏅 Bestes Asset: pepe
+   📊 Performance: Sharpe: 0.000 | Return: 0.0% | DD: 29.4% | Win Rate: 30.0%
+
+📊 MACD (MACD > Signal = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: matrix
+   🧪 Tests: 37,098
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: Fast:8, Slow:160
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 0.000 | Return: 0.0% | DD: 29.4% | Win Rate: 30.0%
+
+📊 APO (APO > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: matrix
+   🧪 Tests: 37,539
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: nan
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 6.948 | Return: 16.7% | DD: 20.8% | Win Rate: 100.0%
+
+📊 MOM (MOM > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 20
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 5.020 | Return: 4.5% | DD: 20.5% | Win Rate: 100.0%
+
+📊 PPO (PPO > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: matrix
+   🧪 Tests: 33,945
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: nan
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 0.280 | Return: 16.7% | DD: 20.8% | Win Rate: 30.0%
+
+📊 TRIX (TRIX > 0 = Long):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: single_param
+   🧪 Tests: 438
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: 38
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 4.322 | Return: 4.0% | DD: 18.8% | Win Rate: 50.0%
+
+📊 ADOSC (ADOSC > 0 = Long (Volume-based)):
+--------------------------------------------------
+   🎯 Threshold: 0.0
+   📈 Typ: matrix
+   🧪 Tests: 35,310
+   💎 Assets: 3
+   ⚙️ Beste Konfiguration: nan
+   🏅 Bestes Asset: doge
+   📊 Performance: Sharpe: 0.048 | Return: 1.4% | DD: 29.4% | Win Rate: 30.0%
+
+💡 STRATEGISCHE EMPFEHLUNGEN:
+------------------------------------------------------------
+🔥 TOP 3 EMPFOHLENE INDIKATOREN:
+   1. APO: APO > 0 = Long (Sharpe: 6.948)
+   2. EMA: Price > EMA = Long (Sharpe: 6.111)
+   3. MFI: MFI > 50 = Long (Sharpe: 5.020)
+
+🎯 KONSISTENTESTER INDIKATOR: DI (Std: 0.051)
+🛡️ SICHERSTER INDIKATOR: RSI (DD: 17.6%)
+💰 HÖCHSTE RETURNS: APO (Return: 16.7%)
+
+================================================================================
+🏁 UNIVERSAL BACKTESTING ANALYSIS ABGESCHLOSSEN
+================================================================================

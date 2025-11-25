@@ -1,0 +1,66 @@
+================================================================================
+📊 APO (ABSOLUTE PRICE OSCILLATOR) KOMBINATIONEN ANALYSE
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:03:43
+📋 Getestete Kombinationen: 50052
+💎 Assets: 4
+🔢 APO-Kombinationen: 12513
+
+🥇 TOP 10 BESTE APO-KOMBINATIONEN (Sharpe Ratio):
+------------------------------------------------------------
+ 1. Fast(13) / Slow(16) | doge | Sharpe: 6.290 | Return: 6.8% | DD: 0.4%
+ 2. Fast(71) / Slow(81) | doge | Sharpe: 6.069 | Return: 6.6% | DD: 0.0%
+ 3. Fast(14) / Slow(15) | doge | Sharpe: 5.651 | Return: 6.2% | DD: 0.4%
+ 4. Fast(20) / Slow(21) | doge | Sharpe: 5.580 | Return: 2.5% | DD: 0.0%
+ 5. Fast(10) / Slow(19) | bonk | Sharpe: 4.583 | Return: 7.1% | DD: 0.0%
+ 6. Fast(19) / Slow(21) | doge | Sharpe: 4.583 | Return: 2.0% | DD: 0.0%
+ 7. Fast(19) / Slow(21) | pepe | Sharpe: 4.583 | Return: 16.7% | DD: 0.0%
+ 8. Fast(20) / Slow(21) | pepe | Sharpe: 4.583 | Return: 16.7% | DD: 0.0%
+ 9. Fast(20) / Slow(22) | doge | Sharpe: 4.583 | Return: 0.5% | DD: 0.0%
+10. Fast(23) / Slow(26) | bonk | Sharpe: 4.583 | Return: 8.0% | DD: 0.0%
+
+🎯 TOP 10 BESTE DURCHSCHNITTS-KOMBINATIONEN:
+------------------------------------------------------------
+ 1. Fast(20) / Slow(21) | Ratio: 1.1 | Avg Sharpe: 3.686 | Avg Return: 6.7% | Score: 2.444
+ 2. Fast(19) / Slow(21) | Ratio: 1.1 | Avg Sharpe: 3.437 | Avg Return: 6.6% | Score: 2.369
+ 3. Fast(14) / Slow(15) | Ratio: 1.1 | Avg Sharpe: 2.558 | Avg Return: 3.2% | Score: 1.719
+ 4. Fast(25) / Slow(26) | Ratio: 1.0 | Avg Sharpe: 2.291 | Avg Return: 2.0% | Score: 1.641
+ 5. Fast(24) / Slow(26) | Ratio: 1.1 | Avg Sharpe: 1.146 | Avg Return: 1.6% | Score: 1.296
+ 6. Fast(56) / Slow(57) | Ratio: 1.0 | Avg Sharpe: 1.562 | Avg Return: 4.7% | Score: 1.134
+ 7. Fast(13) / Slow(16) | Ratio: 1.2 | Avg Sharpe: 1.573 | Avg Return: 1.1% | Score: 1.044
+ 8. Fast(18) / Slow(21) | Ratio: 1.2 | Avg Sharpe: 1.326 | Avg Return: 2.0% | Score: 0.976
+ 9. Fast(23) / Slow(26) | Ratio: 1.1 | Avg Sharpe: 1.146 | Avg Return: 2.0% | Score: 0.923
+10. Fast( 8) / Slow(21) | Ratio: 2.6 | Avg Sharpe: 1.146 | Avg Return: 1.9% | Score: 0.923
+
+⚖️ PERIODE-RATIO ANALYSE:
+------------------------------------------------------------
+📊 KLEINE RATIOS (≤2.0) (Ähnliche Perioden):
+   • Anzahl: 6351 Kombinationen
+   • Avg Sharpe: -1.776
+   • Avg Return: -5.6%
+   • Beste: Fast(20) / Slow(21) (Score: 2.444)
+
+📊 MITTLERE RATIOS (2.0-4.0) (Standard-Verhältnisse):
+   • Anzahl: 3198 Kombinationen
+   • Avg Sharpe: -0.805
+   • Avg Return: -2.0%
+   • Beste: Fast(8) / Slow(21) (Score: 0.923)
+
+📊 GROSSE RATIOS (>4.0) (Große Unterschiede):
+   • Anzahl: 2964 Kombinationen
+   • Avg Sharpe: -0.113
+   • Avg Return: -0.2%
+   • Beste: Fast(23) / Slow(146) (Score: 0.499)
+
+🎪 SPEZIELLE APO-KALIBRIERUNGEN ANALYSE:
+------------------------------------------------------------
+• Fast(12) / Slow(26) (Ratio 2.2): Sharpe 0.000 | Return 0.0% | DD 0.0%
+• Fast( 9) / Slow(21) (Ratio 2.3): Sharpe 0.000 | Return 0.0% | DD 0.0%
+• Fast( 5) / Slow(20) (Ratio 4.0): Sharpe -2.291 | Return -4.6% | DD 4.6%
+• Fast( 8) / Slow(34) (Ratio 4.2): Sharpe 0.000 | Return 0.0% | DD 0.0%
+• Fast(21) / Slow(55) (Ratio 2.6): Sharpe 0.000 | Return 0.0% | DD 0.0%
+• Fast(10) / Slow(30) (Ratio 3.0): Sharpe 0.000 | Return 0.0% | DD 0.0%
+
+====================================================================
+🏁 APO-KOMBINATIONEN ANALYSE ABGESCHLOSSEN
+====================================================================

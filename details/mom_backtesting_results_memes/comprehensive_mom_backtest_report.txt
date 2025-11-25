@@ -1,0 +1,73 @@
+================================================================================
+📊 MOM BACKTESTING SYSTEM - UMFASSENDER BERICHT
+================================================================================
+🕐 Erstellt am: 2025-11-06 21:03:54
+📈 Assets getestet: 4
+📏 MOM-Längen getestet: 146
+🔢 Gesamt-Kombinationen: 584
+📋 Strategie: MOM Long-Only Strategy (MOM > 0 = Long, MOM <= 0 = Cash)
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sharpe Ratio
+------------------------------------------------------------
+#1. DOGE   | MOM-20 | Sharpe Ratio:    4.583 | Return:     0.5% | Trades:    1
+#2. DOGE   | MOM-14 | Sharpe Ratio:    4.411 | Return:     4.5% | Trades:    3
+#3. DOGE   | MOM-84 | Sharpe Ratio:    1.710 | Return:     1.9% | Trades:    2
+#4. DOGE   | MOM-15 | Sharpe Ratio:    1.388 | Return:     1.5% | Trades:    3
+#5. DOGE   | MOM-108 | Sharpe Ratio:    1.232 | Return:     1.4% | Trades:    3
+
+
+🏆 TOP 5 KONFIGURATIONEN - Sortino Ratio
+------------------------------------------------------------
+#1. DOGE   | MOM-20 | Sortino Ratio:    5.000 | Return:     0.5% | Trades:    1
+#2. DOGE   | MOM-15 | Sortino Ratio:    1.424 | Return:     1.5% | Trades:    3
+#3. DOGE   | MOM-108 | Sortino Ratio:    1.383 | Return:     1.4% | Trades:    3
+#4. BONK   | MOM- 5 | Sortino Ratio:    0.000 | Return:    -6.7% | Trades:    1
+#5. SHIB   | MOM- 5 | Sortino Ratio:    0.000 | Return:    -9.1% | Trades:    1
+
+
+🏆 TOP 5 KONFIGURATIONEN - Omega Ratio
+------------------------------------------------------------
+#1. DOGE   | MOM-20 | Omega Ratio:   10.000 | Return:     0.5% | Trades:    1
+#2. DOGE   | MOM-14 | Omega Ratio:    9.060 | Return:     4.5% | Trades:    3
+#3. DOGE   | MOM-84 | Omega Ratio:    1.796 | Return:     1.9% | Trades:    2
+#4. DOGE   | MOM-15 | Omega Ratio:    1.566 | Return:     1.5% | Trades:    3
+#5. DOGE   | MOM-108 | Omega Ratio:    1.475 | Return:     1.4% | Trades:    3
+
+
+🏆 TOP 5 KONFIGURATIONEN - Calmar Ratio
+------------------------------------------------------------
+#1. DOGE   | MOM-84 | Calmar Ratio:   16.720 | Return:     1.9% | Trades:    2
+#2. DOGE   | MOM-108 | Calmar Ratio:   12.147 | Return:     1.4% | Trades:    3
+#3. DOGE   | MOM-15 | Calmar Ratio:   11.924 | Return:     1.5% | Trades:    3
+#4. BONK   | MOM-123 | Calmar Ratio:    1.500 | Return:     0.0% | Trades:    2
+#5. PEPE   | MOM- 5 | Calmar Ratio:    0.000 | Return:     0.0% | Trades:    0
+
+
+🏆 TOP 5 KONFIGURATIONEN - Total Return
+------------------------------------------------------------
+#1. DOGE   | MOM-14 | Total Return:    0.045 | Return:     4.5% | Trades:    3
+#2. DOGE   | MOM-84 | Total Return:    0.019 | Return:     1.9% | Trades:    2
+#3. DOGE   | MOM-15 | Total Return:    0.015 | Return:     1.5% | Trades:    3
+#4. DOGE   | MOM-108 | Total Return:    0.014 | Return:     1.4% | Trades:    3
+#5. DOGE   | MOM-20 | Total Return:    0.005 | Return:     0.5% | Trades:    1
+
+
+📊 ASSET-SPEZIFISCHE ANALYSE (Beste MOM pro Asset)
+------------------------------------------------------------
+BONK  : Beste MOM-123 | Sharpe:   0.21 | Return:    0.0% | DD:   6.7%
+DOGE  : Beste MOM-20 | Sharpe:   4.58 | Return:    0.5% | DD:   0.0%
+SHIB  : Beste MOM-12 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+PEPE  : Beste MOM- 5 | Sharpe:   0.00 | Return:    0.0% | DD:   0.0%
+
+📈 STATISTISCHE ZUSAMMENFASSUNG
+------------------------------------------------------------
+Sharpe Ratio   : Mean= -0.906 | Std=  2.129 | Max=  4.583 | Min= -8.992
+Total Return   : Mean= -0.020 | Std=  0.051 | Max=  0.045 | Min= -0.257
+Max Drawdown   : Mean=  0.024 | Std=  0.057 | Max=  0.257 | Min=  0.000
+Win Rate       : Mean=  0.030 | Std=  0.098 | Max=  1.000 | Min=  0.000
+
+💡 MOM EMPFEHLUNGEN
+------------------------------------------------------------
+🥇 Beste Gesamt-Performance: DOGE mit MOM-20 (Sharpe: 4.58)
+🎯 Konsistenteste Strategie: DOGE mit MOM-20 (Volatilität: 2.1%)
